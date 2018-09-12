@@ -1,4 +1,6 @@
 *~
 data/signlists/*
+data/nt_parsings.csv
 data/personal.sron.nl/*
 scripts/sampleparser.py 
+scripts/__pycache__/*
