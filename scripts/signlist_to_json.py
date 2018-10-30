@@ -1,4 +1,7 @@
 #!/usr/bin/env python3 
+'''
+
+'''
 
 from lxml import etree as et
 import re
@@ -14,7 +17,8 @@ SUPER_RPL = re.compile(r'<\/?sup>')
 
 EMPHATICS = {'T': 'ṭ',
         'S': 'ṣ',
-        'h': 'ḫ'} 
+        'h': 'ḫ', 
+        'H': 'Ḫ'} 
 
 
 def divide_sign_name(name_num):
@@ -65,8 +69,8 @@ def parse_html(htmltext, ele_dict):
             sign_name, sign_number = divide_sign_name(ele_split[i])
             value_dict = divide_values(ele_split[i+1])
             sign_dict = {'sign': 
-                    {   'name': sign_name, 
-                        'sign_number': sign_number}, 
+                    {'name': sign_name, 
+                    'sign_number': sign_number}, 
                     'values': value_dict}
             ele_dict[sign_number] = sign_dict
     return ele_dict
@@ -82,7 +86,7 @@ def main():
         ele_dict = parse_html(html, ele_dict)
         #ele_dict.extend(ele_list)
     with open('data.json', 'w') as outfile:
-        json.dump(ele_dict, outfile, indent=2, sort_keys=True)
+        json.dump(ele_dict, outfile, indent=2, sort_keys=True, ensure_ascii=False)
 
 
 if __name__ == '__main__':
