@@ -6,7 +6,7 @@
     },
     "values": {
       "logograms": [
-        "A\u0160",
+        "AŠ",
         "DILI"
       ],
       "new": [
@@ -16,9 +16,9 @@
         "in~6~"
       ],
       "phonetic": [
-        "a\u0161",
+        "aš",
         "rum",
-        "r\u00f9"
+        "rù"
       ]
     }
   },
@@ -68,7 +68,7 @@
       ],
       "phonetic": [
         "ba",
-        "(p\u00e1)"
+        "(pá)"
       ]
     }
   },
@@ -82,16 +82,16 @@
         "zu"
       ],
       "logograms": [
-        "A\u0160",
+        "AŠ",
         "DILI"
       ],
       "phonetic": [
         "zu",
-        "(S\u00fa)"
+        "(Sú)"
       ],
       "phonetic, old": [
-        "s\u00fa",
-        "S\u00fa"
+        "sú",
+        "Sú"
       ]
     }
   },
@@ -102,13 +102,13 @@
     },
     "values": {
       "determinative": [
-        "KU\u0160\n\t\tbefore lether items\n\t\t(see examples)"
+        "KUŠ\n\t\tbefore lether items\n\t\t(see examples)"
       ],
       "examples in New Assyrian orthography": [
         "su"
       ],
       "logograms": [
-        "KU\u0160"
+        "KUŠ"
       ],
       "phonetic": [
         "su (mostly new)"
@@ -116,8 +116,8 @@
       "phonetic, new": [
         "kuS",
         "kuz",
-        "ku\u0161",
-        "gu\u0161"
+        "kuš",
+        "guš"
       ]
     }
   },
@@ -128,8 +128,8 @@
     },
     "values": {
       "phonetic, new": [
-        "\u0161un",
-        "\u0161in",
+        "šun",
+        "šin",
         "rug",
         "ruk",
         "ruq"
@@ -159,7 +159,7 @@
     },
     "values": {
       "phonetic, new": [
-        "\u00e1d/t/T; g\u00edr"
+        "ád/t/T; gír"
       ]
     }
   },
@@ -170,8 +170,8 @@
     },
     "values": {
       "phonetic, Ass. new": [
-        "b\u00fal",
-        "p\u00fal"
+        "búl",
+        "púl"
       ]
     }
   },
@@ -193,11 +193,11 @@
       ],
       "phonetic, new": [
         "tara",
-        "t\u00edr",
-        "T\u00edr\n\t\tkud/t",
+        "tír",
+        "Tír\n\t\tkud/t",
         "qud/t",
-        "has/S/z/\u0161",
-        "\u0161il",
+        "has/S/z/š",
+        "šil",
         "sil"
       ]
     }
@@ -209,7 +209,7 @@
     },
     "values": {
       "Additional": [
-        "DINGIR.ME\u0160\n\t\t (ME\u0160 is plurial sign)\n\t\t il\u00fc '(the) gods'"
+        "DINGIR.MEŠ\n\t\t (MEŠ is plurial sign)\n\t\t ilü '(the) gods'"
       ],
       "determinative": [
         "before deities and demons",
@@ -224,11 +224,11 @@
       ],
       "phonetic": [
         "an",
-        "(\u00ecl",
+        "(ìl",
         "in words related to \n\t\tilum `god')"
       ],
       "phonetic, old": [
-        "\u00e8l"
+        "èl"
       ]
     }
   },
@@ -247,15 +247,15 @@
     "values": {
       "Additional": [
         "phonetic",
-        "old \n\t\tq\u00e0"
+        "old \n\t\tqà"
       ],
       "logograms": [
-        "KA \n\t    \t p\u00fb \n\t    \t `mouth' \n\t    \n\t    \tDUG~4~",
-        "DU~11~\n\t    \t qab\u00fb\n\t    \t `to speak' \n\t    \t\n\t    \t\tG\u00d9\n\t\t\t\u0161as\u00fb\n\t\t \t`to shout'",
-        "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \taw\u00e4tumam\u00e4tu \t    \t\n\t    \t \t`word'",
+        "KA \n\t    \t pû \n\t    \t `mouth' \n\t    \n\t    \tDUG~4~",
+        "DU~11~\n\t    \t qabû\n\t    \t `to speak' \n\t    \t\n\t    \t\tGÙ\n\t\t\tšasû\n\t\t \t`to shout'",
+        "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \tawätumamätu \t    \t\n\t    \t \t`word'",
         "`message'",
         "`order'",
-        "`decision'\n\t    \t\n\t    \t\tZ\u00da\n\t    \t \t\u0161innu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KE\u0161DA\n\t    \t \tkiSru\n\t    \t\tkiSaru\n\t    \t\t`knot'; `multitude'"
+        "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiSru\n\t    \t\tkiSaru\n\t    \t\t`knot'; `multitude'"
       ]
     }
   },
@@ -316,10 +316,10 @@
         "Bab. new::"
       ],
       "composition": [
-        "KA x N\u00cdG = 'mouth' x `bread'"
+        "KA x NÍG = 'mouth' x `bread'"
       ],
       "logograms": [
-        "GU~7~\n\t    \n\t    \n\t    \t  \n\t    \t\tK\u00da\n\t    \t\tak\u00e4lu  \n\t    \t \t`to eat'"
+        "GU~7~\n\t    \n\t    \n\t    \t  \n\t    \t\tKÚ\n\t    \t\takälu  \n\t    \t \t`to eat'"
       ],
       "phonetic": [
         ""
@@ -334,8 +334,8 @@
     "values": {
       "Additional": [
         "phonetic",
-        "Bab. new:: \n\t\tr\u00ed",
-        "r\u00e9",
+        "Bab. new:: \n\t\trí",
+        "ré",
         "ir~4~",
         "er~4~"
       ],
@@ -343,7 +343,7 @@
         "URU in front of city names\n\t\t(see examples)"
       ],
       "logograms": [
-        "URU\n\t    \n\t    \t  \n\t    \t\tURU\n\t    \t\t\u00e4lu  \n\t    \t \t`city'"
+        "URU\n\t    \n\t    \t  \n\t    \t\tURU\n\t    \t\tälu  \n\t    \t \t`city'"
       ],
       "phonetic": [
         "iri",
@@ -360,21 +360,21 @@
     "values": {
       "Additional": [
         "phonetic",
-        "Ass. new:\n\t\t: s\u00f9k"
+        "Ass. new:\n\t\t: sùk"
       ],
       "composition": [
-        "= URU x N\u00cdG"
+        "= URU x NÍG"
       ],
       "logograms": [
-        "\u00ccR",
-        "ARAD\n\t    \n\t    \t ARAD  \n\t    \t\t\u00ccR\n\t    \t\twardu  \n\t    \t \t`slave'"
+        "ÌR",
+        "ARAD\n\t    \n\t    \t ARAD  \n\t    \t\tÌR\n\t    \t\twardu  \n\t    \t \t`slave'"
       ],
       "phonetic": [
-        "\u00ecr",
-        "\u00e8r"
+        "ìr",
+        "èr"
       ],
       "phonetic, new": [
-        "q\u00e0l"
+        "qàl"
       ]
     }
   },
@@ -408,12 +408,12 @@
       ],
       "logograms": [
         "AH",
-        "UBUR\n\t    \n\t    \t   \n\t    \t\tAH\n\t    \t\tah\u00fb  \n\t    \t \t`pig'"
+        "UBUR\n\t    \n\t    \t   \n\t    \t\tAH\n\t    \t\tahû  \n\t    \t \t`pig'"
       ],
       "phonetic, new": [
         "ah",
         "ih",
-        "\u00fah",
+        "úh",
         "sih"
       ]
     }
@@ -474,13 +474,13 @@
     "values": {
       "Additional": [
         "phonetic",
-        "mostly old\n\t\tT\u00fa"
+        "mostly old\n\t\tTú"
       ],
       "examples in New Assyrian orthography": [
         "tu"
       ],
       "logograms": [
-        "KU~4~\n\t    \n\t    \t  \n\t    \t\tKU~4~\n\t    \t\ter\u00ebbu  \n\t    \t \t`to enter'"
+        "KU~4~\n\t    \n\t    \t  \n\t    \t\tKU~4~\n\t    \t\terëbu  \n\t    \t \t`to enter'"
       ],
       "phonetic": [
         "tu"
@@ -515,8 +515,8 @@
         "mu"
       ],
       "logograms": [
-        "MU\n\t    \n\t    \t  \n\t    \t\tMU\n\t    \t\t\u0161umu  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzak\u00e4ru  \n\t    \t \t`to speak' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzikru  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\t\u0161attu  \n\t    \t \t`year'",
-        "`harvest time' \n\t    \t\n\t    \t\t\n\t    \t\t  \n\t    \t\tMU.AN.NA\n\t    \t\t\u0161attu  \n\t    \t \t`year'",
+        "MU\n\t    \n\t    \t  \n\t    \t\tMU\n\t    \t\tšumu  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzakäru  \n\t    \t \t`to speak' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzikru  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tšattu  \n\t    \t \t`year'",
+        "`harvest time' \n\t    \t\n\t    \t\t\n\t    \t\t  \n\t    \t\tMU.AN.NA\n\t    \t\tšattu  \n\t    \t \t`year'",
         "`harvest time'"
       ],
       "phonetic": [
@@ -525,7 +525,7 @@
       "phonetic, new": [
         "pap",
         "bab/p",
-        "k\u00far"
+        "kúr"
       ]
     }
   },
@@ -539,7 +539,7 @@
         "qa"
       ],
       "logograms": [
-        "S\u00ccLA\n\t    \n\t    \t  \n\t    \t\tS\u00ccLA\n\t    \t\tq\u00fb  \n\t    \t \t(a measure of capacity",
+        "SÌLA\n\t    \n\t    \t  \n\t    \t\tSÌLA\n\t    \t\tqû  \n\t    \t \t(a measure of capacity",
         "about 1 liter)'"
       ],
       "phonetic": [
@@ -557,9 +557,9 @@
         ""
       ],
       "phonetic, new": [
-        "k\u00e1d/t",
-        "g\u00e1t",
-        "\u0161\u00edd"
+        "kád/t",
+        "gát",
+        "šíd"
       ]
     }
   },
@@ -571,15 +571,15 @@
     "values": {
       "Additional": [
         "phonetic",
-        "new: \n\t\tp\u00e1t/T",
-        "b\u00edt",
-        "p\u00edt",
+        "new: \n\t\tpát/T",
+        "bít",
+        "pít",
         "mid/t/T",
         "til",
         "zis",
         "ziz",
         "sun",
-        "Ass.: q\u00ect"
+        "Ass.: qìt"
       ],
       "examples in New Assyrian orthography": [
         "bad\n\t      bad"
@@ -589,7 +589,7 @@
         "IDIM",
         "SUN",
         "SUMUN",
-        "\u00da\u0160"
+        "ÚŠ"
       ],
       "phonetic": [
         "be",
@@ -624,7 +624,7 @@
     },
     "values": {
       "phonetic, new": [
-        "\u0161ir"
+        "šir"
       ]
     }
   },
@@ -635,7 +635,7 @@
     },
     "values": {
       "logograms": [
-        "NUMUN \n\t    \t\t(also \u0161E.MUNUN) \n\t    \t\tz\u00ebu  \n\t    \t \t`seed'"
+        "NUMUN \n\t    \t\t(also šE.MUNUN) \n\t    \t\tzëu  \n\t    \t \t`seed'"
       ],
       "phonetic": [
         ""
@@ -665,8 +665,8 @@
         "Te~6~)"
       ],
       "phonetic, old": [
-        "T\u00ec",
-        "d\u00ec"
+        "Tì",
+        "dì"
       ]
     }
   },
@@ -680,7 +680,7 @@
         ""
       ],
       "phonetic": [
-        "ma\u0161"
+        "maš"
       ],
       "phonetic, new": [
         "mas",
@@ -704,7 +704,7 @@
         "nu"
       ],
       "phonetic, new": [
-        "l\u00e0"
+        "là"
       ]
     }
   },
@@ -718,7 +718,7 @@
         ""
       ],
       "phonetic": [
-        "m\u00e1\u0161"
+        "máš"
       ],
       "phonetic, bab.": [
         "kun~8~"
@@ -746,10 +746,10 @@
     },
     "values": {
       "determinative": [
-        "MU\u0160EN\n\t\tafter bird names\n\t\t(see examples)"
+        "MUŠEN\n\t\tafter bird names\n\t\t(see examples)"
       ],
       "logograms": [
-        "MU\u0160EN"
+        "MUŠEN"
       ],
       "phonetic": [
         "hu"
@@ -779,7 +779,7 @@
       ],
       "phonetic, new": [
         "sim",
-        "s\u00edn"
+        "sín"
       ]
     }
   },
@@ -790,14 +790,14 @@
     },
     "values": {
       "logograms": [
-        "G\u00c1L"
+        "GÁL"
       ],
       "phonetic": [
         "ig/k/q",
         "eg/k/q"
       ],
       "phonetic, new": [
-        "g\u00e1l"
+        "gál"
       ]
     }
   },
@@ -850,9 +850,9 @@
         "ze"
       ],
       "phonetic, old": [
-        "s\u00ed",
-        "s\u00e9 S\u00ed",
-        "S\u00e9"
+        "sí",
+        "sé Sí",
+        "Sé"
       ]
     }
   },
@@ -873,8 +873,8 @@
         "ge"
       ],
       "phonetic, old": [
-        "q\u00ec",
-        "q\u00e8"
+        "qì",
+        "qè"
       ]
     }
   },
@@ -920,7 +920,7 @@
       "phonetic, new": [
         "zil",
         "Sil",
-        "s\u00edl"
+        "síl"
       ]
     }
   },
@@ -934,10 +934,10 @@
         "kab"
       ],
       "phonetic": [
-        "kab/p; (g\u00e1b/p)"
+        "kab/p; (gáb/p)"
       ],
       "phonetic, new": [
-        "q\u00e1b/p"
+        "qáb/p"
       ]
     }
   },
@@ -952,7 +952,7 @@
       ],
       "phonetic, new": [
         "gat",
-        "q\u00e0d/t",
+        "qàd/t",
         "kad/t"
       ]
     }
@@ -972,7 +972,7 @@
         "Tim"
       ],
       "phonetic, new": [
-        "t\u00ec"
+        "tì"
       ]
     }
   },
@@ -1026,10 +1026,10 @@
     },
     "values": {
       "logograms": [
-        "M\u00c8"
+        "MÈ"
       ],
       "phonetic": [
-        "m\u00e8"
+        "mè"
       ]
     }
   },
@@ -1064,7 +1064,7 @@
         ""
       ],
       "phonetic": [
-        "\u0161ur"
+        "šur"
       ],
       "phonetic, new": [
         "sur"
@@ -1126,12 +1126,12 @@
         ""
       ],
       "phonetic": [
-        "g\u00e1n",
-        "k\u00e1n"
+        "gán",
+        "kán"
       ],
       "phonetic, new": [
-        "k\u00e1r",
-        "k\u00e1ra"
+        "kár",
+        "kára"
       ]
     }
   },
@@ -1145,7 +1145,7 @@
         ""
       ],
       "phonetic": [
-        "g\u00fa"
+        "gú"
       ],
       "phonetic, new": [
         "tik/q"
@@ -1175,7 +1175,7 @@
       "phonetic": [
         "dur",
         "Tur",
-        "t\u00fa"
+        "tú"
       ],
       "phonetic, new": [
         "biltu"
@@ -1195,7 +1195,7 @@
         ""
       ],
       "phonetic": [
-        "l\u00e0l"
+        "làl"
       ]
     }
   },
@@ -1247,8 +1247,8 @@
         "se"
       ],
       "phonetic, Ass. old": [
-        "\u0161\u00ed",
-        "S\u00ec"
+        "ší",
+        "Sì"
       ]
     }
   },
@@ -1263,11 +1263,11 @@
       ],
       "phonetic": [
         "dar",
-        "t\u00e1r",
-        "(T\u00e1r)"
+        "tár",
+        "(Tár)"
       ],
       "phonetic, new": [
-        "d\u00edr"
+        "dír"
       ]
     }
   },
@@ -1278,7 +1278,7 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "SAG\n\t     \n\t    \tri\u0161"
+        "SAG\n\t     \n\t    \triš"
       ],
       "logograms": [
         "SAG"
@@ -1287,9 +1287,9 @@
         "sag/k/q"
       ],
       "phonetic, new": [
-        "\u0161ag/k/q",
-        "ris/\u0161",
-        "reS/\u0161"
+        "šag/k/q",
+        "ris/š",
+        "reS/š"
       ]
     }
   },
@@ -1303,7 +1303,7 @@
         ""
       ],
       "phonetic": [
-        "m\u00e1"
+        "má"
       ]
     }
   },
@@ -1319,7 +1319,7 @@
       "phonetic, new": [
         "dir",
         "Tir",
-        "m\u00e1l",
+        "mál",
         "sa~5~"
       ]
     }
@@ -1338,7 +1338,7 @@
         "Tab/p"
       ],
       "phonetic, new": [
-        "d\u00e1b/p"
+        "dáb/p"
       ]
     }
   },
@@ -1352,12 +1352,12 @@
         "TAG"
       ],
       "phonetic": [
-        "\u0161um"
+        "šum"
       ],
       "phonetic, new": [
         "tag/k/q",
-        "t\u00e0",
-        "\u0161u~14~"
+        "tà",
+        "šu~14~"
       ]
     }
   },
@@ -1372,11 +1372,11 @@
       ],
       "phonetic": [
         "ab/p",
-        "(\u00e8s/S/z",
-        "\u00ecs/S/z)"
+        "(ès/S/z",
+        "ìs/S/z)"
       ],
       "phonetic, old": [
-        "\u00e8\u0161"
+        "èš"
       ]
     }
   },
@@ -1449,10 +1449,10 @@
     },
     "values": {
       "logograms": [
-        "K\u00c1"
+        "KÁ"
       ],
       "phonetic, new": [
-        "k\u00e1"
+        "ká"
       ]
     }
   },
@@ -1472,7 +1472,7 @@
         "um"
       ],
       "phonetic, new": [
-        "d\u00edh"
+        "díh"
       ]
     }
   },
@@ -1507,7 +1507,7 @@
         "ta"
       ],
       "phonetic, old": [
-        "T\u00e1"
+        "Tá"
       ]
     }
   },
@@ -1532,7 +1532,7 @@
         "'i"
       ],
       "phonetic, Bab. new": [
-        "n\u00e1"
+        "ná"
       ]
     }
   },
@@ -1565,17 +1565,17 @@
     },
     "values": {
       "logograms": [
-        "K\u00c1M"
+        "KÁM"
       ],
       "phonetic": [
-        "k\u00e1m",
+        "kám",
         "gan"
       ],
       "phonetic, new": [
         "qan",
         "kan",
-        "h\u00e9",
-        "h\u00ed",
+        "hé",
+        "hí",
         "li~6~\n\t\tin prefix for precative"
       ]
     }
@@ -1608,7 +1608,7 @@
         "ad/t/T"
       ],
       "phonetic, new": [
-        "\u00e0b/p"
+        "àb/p"
       ]
     }
   },
@@ -1619,7 +1619,7 @@
     },
     "values": {
       "logograms": [
-        "HA\u0160HUR"
+        "HAŠHUR"
       ]
     }
   },
@@ -1637,8 +1637,8 @@
         "Se"
       ],
       "phonetic, old": [
-        "z\u00ed",
-        "z\u00e9",
+        "zí",
+        "zé",
         "si~20~",
         "se~20~"
       ]
@@ -1685,13 +1685,13 @@
     },
     "values": {
       "composition": [
-        "= L\u00da + GAL"
+        "= LÚ + GAL"
       ],
       "logograms": [
         "LUGAL"
       ],
       "phonetic": [
-        "\u0161\u00e0r"
+        "šàr"
       ]
     }
   },
@@ -1702,17 +1702,17 @@
     },
     "values": {
       "composition": [
-        "B\u00c0D = EZEN x BAD"
+        "BÀD = EZEN x BAD"
       ],
       "logograms": [
-        "B\u00c0D"
+        "BÀD"
       ],
       "phonetic": [
         "hir"
       ],
       "phonetic, new": [
-        "\u0161\u00ecr",
-        "s\u00ec"
+        "šìr",
+        "sì"
       ]
     }
   },
@@ -1725,13 +1725,13 @@
       "logograms": [
         "SUM",
         "SUMU",
-        "S\u00cc"
+        "SÌ"
       ],
       "phonetic": [
-        "\u0161\u00fam",
-        "s\u00edm",
-        "s\u00ec",
-        "s\u00e8"
+        "šúm",
+        "sím",
+        "sì",
+        "sè"
       ]
     }
   },
@@ -1742,16 +1742,16 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "ra\u0161"
+        "raš"
       ],
       "logograms": [
         "KASKAL"
       ],
       "phonetic, new": [
         "kas",
-        "ras/\u0161",
-        "bu\u0161",
-        "\u00ed\u0161"
+        "ras/š",
+        "buš",
+        "íš"
       ]
     }
   },
@@ -1765,8 +1765,8 @@
         ""
       ],
       "phonetic, Ass. new": [
-        "t\u00e1h",
-        "T\u00e1h"
+        "táh",
+        "Táh"
       ],
       "phonetic, new": [
         "qab/p",
@@ -1820,26 +1820,26 @@
       ],
       "logograms": [
         "IZI",
-        "K\u00daM",
+        "KÚM",
         "BIL"
       ],
       "phonetic": [
         "ne",
-        "d\u00e8",
+        "dè",
         "bil",
         "pil",
-        "b\u00ed",
+        "bí",
         "pi~5~",
         "pe~5~"
       ],
       "phonetic, Bab. new": [
         "Sah",
-        "S\u00e9h"
+        "Séh"
       ],
       "phonetic, new": [
-        "T\u00e0",
+        "Tà",
         "Ti~5~",
-        "k\u00fam"
+        "kúm"
       ]
     }
   },
@@ -1865,7 +1865,7 @@
     "values": {
       "logograms": [
         "AZU",
-        "\u00daZU"
+        "ÚZU"
       ]
     }
   },
@@ -1880,7 +1880,7 @@
       ],
       "phonetic, new": [
         "ram",
-        "rama in ram\u00e4nu"
+        "rama in ramänu"
       ]
     }
   },
@@ -1894,7 +1894,7 @@
         ""
       ],
       "phonetic, new": [
-        "\u0161\u00e1m"
+        "šám"
       ]
     }
   },
@@ -1909,8 +1909,8 @@
       ],
       "phonetic, new": [
         "zik/q",
-        "z\u00edb",
-        "h\u00e1\u0161"
+        "zíb",
+        "háš"
       ]
     }
   },
@@ -1937,7 +1937,7 @@
         "qum"
       ],
       "phonetic, new": [
-        "k\u00f9n"
+        "kùn"
       ]
     }
   },
@@ -1963,7 +1963,7 @@
     },
     "values": {
       "logograms": [
-        "SUHU\u0160"
+        "SUHUŠ"
       ],
       "phonetic, new": [
         "kas~5~"
@@ -1980,7 +1980,7 @@
         ""
       ],
       "phonetic": [
-        "ka\u0161~4~"
+        "kaš~4~"
       ]
     }
   },
@@ -1991,10 +1991,10 @@
     },
     "values": {
       "logograms": [
-        "\u00daR"
+        "ÚR"
       ],
       "phonetic": [
-        "\u00far"
+        "úr"
       ]
     }
   },
@@ -2009,7 +2009,7 @@
       ],
       "phonetic": [
         "il",
-        "\u00e9l"
+        "él"
       ]
     }
   },
@@ -2022,25 +2022,25 @@
       "Additional": [
         "GIN",
         "GUB",
-        "T\u00daM"
+        "TÚM"
       ],
       "examples in New Assyrian orthography": [
         "du\n\t     \n\t\tGIN",
         "GUB",
-        "T\u00daM"
+        "TÚM"
       ],
       "phonetic": [
         "du",
-        "T\u00f9"
+        "Tù"
       ],
       "phonetic, new": [
         "gub/p",
         "qub/p",
         "kin~7~",
-        "\u0161a~4~"
+        "ša~4~"
       ],
       "phonetic, old": [
-        "t\u00f9"
+        "tù"
       ]
     }
   },
@@ -2054,8 +2054,8 @@
         "tum",
         "Tum",
         "dum",
-        "(\u00edb/p",
-        "\u00e9b/p)"
+        "(íb/p",
+        "éb/p)"
       ],
       "phonetic, new": [
         "tu~4~"
@@ -2083,14 +2083,14 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "u\u0161\n\t     \n\t    u\u0161\n\t     \n\t    u\u0161"
+        "uš\n\t     \n\t    uš\n\t     \n\t    uš"
       ],
       "logograms": [
         "NITA"
       ],
       "phonetic": [
-        "u\u0161",
-        "\u00fas/S/z"
+        "uš",
+        "ús/S/z"
       ],
       "phonetic, new": [
         "nid/t/T"
@@ -2104,15 +2104,15 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "i\u0161"
+        "iš"
       ],
       "logograms": [
         "NITA"
       ],
       "phonetic": [
-        "i\u0161",
-        "e\u0161~15~",
-        "\u00eds/S/z"
+        "iš",
+        "eš~15~",
+        "ís/S/z"
       ],
       "phonetic, new": [
         "nid/t/T"
@@ -2130,19 +2130,19 @@
       ],
       "logograms": [
         "BI",
-        "KA\u0160"
+        "KAŠ"
       ],
       "phonetic": [
         "bi",
-        "b\u00e9",
-        "p\u00ed",
-        "p\u00e9",
-        "also\n\t\tka\u0161"
+        "bé",
+        "pí",
+        "pé",
+        "also\n\t\tkaš"
       ],
       "phonetic, new": [
-        "ka\u0161",
-        "k\u00e1s",
-        "ga\u0161"
+        "kaš",
+        "kás",
+        "gaš"
       ]
     }
   },
@@ -2156,7 +2156,7 @@
         ""
       ],
       "phonetic": [
-        "\u0161im"
+        "šim"
       ],
       "phonetic, new": [
         "rig/k/q"
@@ -2185,11 +2185,11 @@
       ],
       "logograms": [
         "NA~4~",
-        "Z\u00c1"
+        "ZÁ"
       ],
       "phonetic, Ass. new": [
-        "t\u00e0k/q",
-        "d\u00e0g/k/q"
+        "tàk/q",
+        "dàg/k/q"
       ],
       "phonetic, new": [
         "ia~4~"
@@ -2206,7 +2206,7 @@
     },
     "values": {
       "logograms": [
-        "D\u00d9"
+        "DÙ"
       ],
       "phonetic, Bab. new": [
         "gag"
@@ -2214,8 +2214,8 @@
       "phonetic, new": [
         "kak/q",
         "qaqa",
-        "d\u00e0",
-        "r\u00fa"
+        "dà",
+        "rú"
       ]
     }
   },
@@ -2229,20 +2229,20 @@
         ""
       ],
       "logograms": [
-        "\u00cc"
+        "Ì"
       ],
       "phonetic": [
         "ni",
-        "n\u00e9",
-        "l\u00ed",
-        "l\u00e9",
-        "\u00ec",
+        "né",
+        "lí",
+        "lé",
+        "ì",
         "zal"
       ],
       "phonetic, new": [
         "Sal",
         "dik/q",
-        "t\u00edq"
+        "tíq"
       ]
     }
   },
@@ -2271,8 +2271,8 @@
         ""
       ],
       "phonetic": [
-        "g\u00e1",
-        "ma\u00e0",
+        "gá",
+        "maà",
         "ba~4~"
       ],
       "phonetic, new": [
@@ -2298,13 +2298,13 @@
     },
     "values": {
       "composition": [
-        "\u00d9R = G\u00c1 x NIR"
+        "ÙR = GÁ x NIR"
       ],
       "logograms": [
-        "\u00d9R"
+        "ÙR"
       ],
       "phonetic, new": [
-        "\u00f9r"
+        "ùr"
       ]
     }
   },
@@ -2330,8 +2330,8 @@
       ],
       "phonetic": [
         "dag/k/q",
-        "p\u00e0r",
-        "t\u00e1g/k/q"
+        "pàr",
+        "tág/k/q"
       ]
     }
   },
@@ -2351,9 +2351,9 @@
       ],
       "phonetic, new": [
         "had/t/T",
-        "h\u00e1s/S",
-        "s\u00e0k",
-        "z\u00e1k/q"
+        "hás/S",
+        "sàk",
+        "zák/q"
       ]
     }
   },
@@ -2381,8 +2381,8 @@
         "SIPA"
       ],
       "phonetic, new": [
-        "\u0161ab~5~",
-        "\u0161ap~5~"
+        "šab~5~",
+        "šap~5~"
       ]
     }
   },
@@ -2434,7 +2434,7 @@
         "ub/p"
       ],
       "phonetic, new": [
-        "\u00e1r"
+        "ár"
       ]
     }
   },
@@ -2474,7 +2474,7 @@
       "phonetic, new": [
         "dug/k/q",
         "lud/t/T",
-        "t\u00f9k/q"
+        "tùk/q"
       ]
     }
   },
@@ -2511,7 +2511,7 @@
     },
     "values": {
       "Additional": [
-        "l\u00edl\n\t      l\u00edl"
+        "líl\n\t      líl"
       ],
       "examples in New Assyrian orthography": [
         "shid\n\t     mes"
@@ -2520,13 +2520,13 @@
         ""
       ],
       "phonetic": [
-        "l\u00ed"
+        "lí"
       ],
       "phonetic, new": [
         "rid/t/T",
         "mis/S",
-        "mi\u0161",
-        "m\u00e8\u0161"
+        "miš",
+        "mèš"
       ]
     }
   },
@@ -2537,18 +2537,18 @@
     },
     "values": {
       "determinative": [
-        "\u00da before plant names \n\t\t(see examples)"
+        "Ú before plant names \n\t\t(see examples)"
       ],
       "examples in New Assyrian orthography": [
-        "\u00fa\n\t      \u00fa"
+        "ú\n\t      ú"
       ],
       "logograms": [
-        "\u00da"
+        "Ú"
       ],
       "phonetic": [
-        "\u00fa",
+        "ú",
         "'u&aucute",
-        "\u0161am"
+        "šam"
       ],
       "phonetic, new": [
         "sam"
@@ -2568,10 +2568,10 @@
         "ga"
       ],
       "phonetic, mostly old": [
-        "q\u00e1"
+        "qá"
       ],
       "phonetic, old": [
-        "k\u00e0"
+        "kà"
       ]
     }
   },
@@ -2585,8 +2585,8 @@
         ""
       ],
       "phonetic": [
-        "\u00edl",
-        "\u00edla"
+        "íl",
+        "íla"
       ]
     }
   },
@@ -2601,10 +2601,10 @@
       ],
       "phonetic": [
         "luh",
-        "l\u00e0h"
+        "làh"
       ],
       "phonetic, new": [
-        "\u00ech",
+        "ìh",
         "rah",
         "rih"
       ]
@@ -2621,7 +2621,7 @@
       ],
       "logograms": [
         "KALAG",
-        "GURU\u0160"
+        "GURUŠ"
       ],
       "phonetic": [
         "kal",
@@ -2630,7 +2630,7 @@
         "lab/p"
       ],
       "phonetic, new": [
-        "l\u00edb/p",
+        "líb/p",
         "rib/p"
       ]
     }
@@ -2653,16 +2653,16 @@
     },
     "values": {
       "determinative": [
-        "\u00c9 before buildings and temples names\n\t\t(see examples)"
+        "É before buildings and temples names\n\t\t(see examples)"
       ],
       "examples in New Assyrian orthography": [
-        "\u00e9"
+        "é"
       ],
       "logograms": [
-        "\u00c9"
+        "É"
       ],
       "phonetic": [
-        "(\u00e9)"
+        "(é)"
       ],
       "phonetic, new": [
         "bit/T",
@@ -2678,14 +2678,14 @@
     "values": {
       "examples in New Assyrian orthography": [
         "nir",
-        "n\u00e0r\n\t     nir",
-        "n\u00e0r"
+        "nàr\n\t     nir",
+        "nàr"
       ],
       "phonetic": [
         "nir"
       ],
       "phonetic, new": [
-        "n\u00e0r"
+        "nàr"
       ]
     }
   },
@@ -2734,7 +2734,7 @@
         ""
       ],
       "phonetic": [
-        "d\u00f9l"
+        "dùl"
       ]
     }
   },
@@ -2745,13 +2745,13 @@
     },
     "values": {
       "determinative": [
-        "L\u00da in front of profesional and personal (male) names\n\t\t(see examples)"
+        "LÚ in front of profesional and personal (male) names\n\t\t(see examples)"
       ],
       "logograms": [
-        "L\u00da"
+        "LÚ"
       ],
       "phonetic": [
-        "(l\u00fa)"
+        "(lú)"
       ]
     }
   },
@@ -2762,20 +2762,20 @@
     },
     "values": {
       "logograms": [
-        "\u0160E\u0160"
+        "ŠEŠ"
       ],
       "phonetic": [
-        "\u0161i\u0161"
+        "šiš"
       ],
       "phonetic, Bab. new": [
-        "\u0161a\u0161",
-        "\u00e1h",
-        "\u00e1ha"
+        "šaš",
+        "áh",
+        "áha"
       ],
       "phonetic, new": [
-        "\u0161iS/z",
-        "\u0161as/S",
-        "sis/\u0161"
+        "šiS/z",
+        "šas/S",
+        "sis/š"
       ]
     }
   },
@@ -2796,7 +2796,7 @@
         "SAR"
       ],
       "phonetic": [
-        "\u0161ar"
+        "šar"
       ],
       "phonetic, new": [
         "sar"
@@ -2833,10 +2833,10 @@
         "qar"
       ],
       "phonetic, mostly old": [
-        "g\u00e0r"
+        "gàr"
       ],
       "phonetic, old": [
-        "k\u00e0r"
+        "kàr"
       ]
     }
   },
@@ -2893,8 +2893,8 @@
     },
     "values": {
       "logograms": [
-        "M\u00c1RU",
-        "M\u00daRUB"
+        "MÁRU",
+        "MÚRUB"
       ]
     }
   },
@@ -2920,10 +2920,10 @@
     "values": {
       "logograms": [
         "UMUN",
-        "D\u00c9"
+        "DÉ"
       ],
       "phonetic": [
-        "d\u00e9"
+        "dé"
       ]
     }
   },
@@ -2964,7 +2964,7 @@
         "qal"
       ],
       "phonetic, old": [
-        "k\u00e1l"
+        "kál"
       ]
     }
   },
@@ -2975,10 +2975,10 @@
     },
     "values": {
       "logograms": [
-        "B\u00c1RA"
+        "BÁRA"
       ],
       "phonetic": [
-        "b\u00e1ra"
+        "bára"
       ]
     }
   },
@@ -2998,14 +2998,14 @@
         "gir",
         "qir",
         "qer",
-        "pi\u0161",
-        "pe\u0161"
+        "piš",
+        "peš"
       ],
       "phonetic, new": [
         "pis",
-        "p\u00f9\u0161",
-        "bi\u0161",
-        "b\u00eds"
+        "pùš",
+        "biš",
+        "bís"
       ]
     }
   },
@@ -3045,13 +3045,13 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "\u0161a"
+        "ša"
       ],
       "logograms": [
         ""
       ],
       "phonetic": [
-        "\u0161a"
+        "ša"
       ]
     }
   },
@@ -3065,10 +3065,10 @@
         "and"
       ],
       "logograms": [
-        "\u0160U"
+        "ŠU"
       ],
       "phonetic": [
-        "\u0161u"
+        "šu"
       ],
       "phonetic, new": [
         "qad",
@@ -3094,7 +3094,7 @@
         "lub/p",
         "pah",
         "puh",
-        "b\u00e0h",
+        "bàh",
         "nar"
       ]
     }
@@ -3123,7 +3123,7 @@
         ""
       ],
       "phonetic": [
-        "i\u0161~8~"
+        "iš~8~"
       ]
     }
   },
@@ -3142,17 +3142,17 @@
       "phonetic": [
         "kur",
         "mad/t/T",
-        "\u0161ad/t/T"
+        "šad/t/T"
       ],
       "phonetic, new": [
         "nad/t",
         "lad/t/T",
         "sad/t",
-        "g\u00ecn",
-        "k\u00ecn"
+        "gìn",
+        "kìn"
       ],
       "phonetic, old": [
-        "q\u00far"
+        "qúr"
       ]
     }
   },
@@ -3163,10 +3163,10 @@
     },
     "values": {
       "logograms": [
-        "\u0160E"
+        "ŠE"
       ],
       "phonetic": [
-        "\u0161e"
+        "še"
       ]
     }
   },
@@ -3180,17 +3180,17 @@
         "bu\n\t\t  bu"
       ],
       "logograms": [
-        "G\u00cdD"
+        "GÍD"
       ],
       "phonetic": [
         "bu",
         "pu"
       ],
       "phonetic, new": [
-        "(g\u00edd/t/T",
-        "q\u00edd/t",
-        "s\u00edr",
-        "\u0161\u00ed)"
+        "(gíd/t/T",
+        "qíd/t",
+        "sír",
+        "ší)"
       ]
     }
   },
@@ -3215,11 +3215,11 @@
     },
     "values": {
       "logograms": [
-        "S\u00d9",
+        "SÙ",
         "SUD"
       ],
       "phonetic, new": [
-        "\u0161 ud/t/T",
+        "š ud/t/T",
         "sir"
       ]
     }
@@ -3231,12 +3231,12 @@
     },
     "values": {
       "logograms": [
-        "MU\u0160"
+        "MUŠ"
       ],
       "phonetic": [
-        "mu\u0161",
+        "muš",
         "Sir",
-        "z\u00ecr"
+        "zìr"
       ]
     }
   },
@@ -3329,13 +3329,13 @@
         "tam"
       ],
       "phonetic, new": [
-        "\u00e8",
+        "è",
         "lah",
         "lih",
         "par",
-        "hi\u0161",
-        "t\u00fa",
-        "b\u00edr"
+        "hiš",
+        "tú",
+        "bír"
       ],
       "phonetic, old": [
         "Tam"
@@ -3379,10 +3379,10 @@
     },
     "values": {
       "logograms": [
-        "\u0160\u00c0"
+        "ŠÀ"
       ],
       "phonetic": [
-        "\u0161\u00e0"
+        "šà"
       ],
       "phonetic, new": [
         "lib/p"
@@ -3396,7 +3396,7 @@
     },
     "values": {
       "logograms": [
-        "PE\u0160~4~"
+        "PEŠ~4~"
       ]
     }
   },
@@ -3410,7 +3410,7 @@
         ""
       ],
       "phonetic": [
-        "\u00fah"
+        "úh"
       ]
     }
   },
@@ -3424,8 +3424,8 @@
         "ERIM"
       ],
       "phonetic, Ass. new": [
-        "p\u00edr",
-        "b\u00ecr",
+        "pír",
+        "bìr",
         "par~5~"
       ],
       "phonetic, new": [
@@ -3468,7 +3468,7 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "\u0161\u00e1r"
+        "šár"
       ],
       "logograms": [
         ""
@@ -3478,20 +3478,20 @@
         "he"
       ],
       "phonetic, Ass.": [
-        "T\u00ed",
-        "T\u00e9"
+        "Tí",
+        "Té"
       ],
       "phonetic, Ass. old": [
-        "d\u00ed"
+        "dí"
       ],
       "phonetic, mostly new": [
-        "\u0161\u00e1r"
+        "šár"
       ],
       "phonetic, new": [
-        "s\u00e1r"
+        "sár"
       ],
       "phonetic, old": [
-        "T\u00e0"
+        "Tà"
       ]
     }
   },
@@ -3537,14 +3537,14 @@
     "values": {
       "logograms": [
         "IM",
-        "I\u0160KUR"
+        "IŠKUR"
       ],
       "phonetic": [
         "im",
         "em"
       ],
       "phonetic, new": [
-        "\u0161ar~5~"
+        "šar~5~"
       ]
     }
   },
@@ -3556,7 +3556,7 @@
     "values": {
       "phonetic, new": [
         "bir",
-        "p\u00ec"
+        "pì"
       ]
     }
   },
@@ -3577,10 +3577,10 @@
         "hur"
       ],
       "phonetic, new": [
-        "h\u00edr",
+        "hír",
         "mur",
         "ur~5~",
-        "k\u00edn"
+        "kín"
       ]
     }
   },
@@ -3594,7 +3594,7 @@
         ""
       ],
       "phonetic, new": [
-        "hu\u0161"
+        "huš"
       ]
     }
   },
@@ -3605,11 +3605,11 @@
     },
     "values": {
       "logograms": [
-        "H\u00c1"
+        "HÁ"
       ],
       "phonetic": [
         "hia",
-        "h\u00e1"
+        "há"
       ]
     }
   },
@@ -3626,10 +3626,10 @@
         "kam"
       ],
       "phonetic, new": [
-        "g\u00e1m"
+        "gám"
       ],
       "phonetic, old": [
-        "q\u00e1m"
+        "qám"
       ]
     }
   },
@@ -3661,15 +3661,15 @@
       ],
       "phonetic": [
         "lid/t/T",
-        "r\u00edm"
+        "rím"
       ],
       "phonetic, Ass. new": [
         "li~8~",
         "le~8~"
       ],
       "phonetic, old": [
-        "\u00e1b",
-        "\u00e1p"
+        "áb",
+        "áp"
       ]
     }
   },
@@ -3680,11 +3680,11 @@
     },
     "values": {
       "logograms": [
-        "KI\u0160"
+        "KIŠ"
       ],
       "phonetic, new": [
-        "kis/\u0161",
-        "qis/\u0161"
+        "kis/š",
+        "qis/š"
       ]
     }
   },
@@ -3699,10 +3699,10 @@
       ],
       "phonetic": [
         "mi",
-        "m\u00e9"
+        "mé"
       ],
       "phonetic, mostly old": [
-        "S\u00edl"
+        "Síl"
       ]
     }
   },
@@ -3727,12 +3727,12 @@
         ""
       ],
       "phonetic": [
-        "q\u00fal",
-        "k\u00fal"
+        "qúl",
+        "kúl"
       ],
       "phonetic, new": [
         "gul",
-        "s\u00fan"
+        "sún"
       ]
     }
   },
@@ -3754,8 +3754,8 @@
     },
     "values": {
       "phonetic, new": [
-        "n\u00e1",
-        "n\u00fa"
+        "ná",
+        "nú"
       ]
     }
   },
@@ -3774,7 +3774,7 @@
       "phonetic, new": [
         "ni~7~",
         "num",
-        "n\u00f9",
+        "nù",
         "tum~4~",
         "tu~8~"
       ]
@@ -3844,7 +3844,7 @@
     },
     "values": {
       "logograms": [
-        "D\u00cdM"
+        "DÍM"
       ],
       "phonetic": [
         "gim"
@@ -3852,7 +3852,7 @@
       "phonetic, new": [
         "qim",
         "kim",
-        "d\u00edm",
+        "dím",
         "Tim"
       ]
     }
@@ -3878,12 +3878,12 @@
     },
     "values": {
       "logograms": [
-        "G\u00ccR",
+        "GÌR",
         "PIRIG"
       ],
       "phonetic": [
-        "n\u00e8",
-        "g\u00ecr"
+        "nè",
+        "gìr"
       ]
     }
   },
@@ -3916,15 +3916,15 @@
         "LIM"
       ],
       "phonetic": [
-        "\u0161i",
-        "\u0161e~20~",
+        "ši",
+        "še~20~",
         "igi",
-        "lim\n\t\t(\u0161i\n\t\tonly in UTU-\u0161i",
-        "= \u0160am\u0161i)"
+        "lim\n\t\t(ši\n\t\tonly in UTU-ši",
+        "= Šamši)"
       ],
       "phonetic, new": [
-        "l\u00ec",
-        "p\u00e0n"
+        "lì",
+        "pàn"
       ]
     }
   },
@@ -3935,7 +3935,7 @@
     },
     "values": {
       "phonetic, new": [
-        "p\u00e0"
+        "pà"
       ]
     }
   },
@@ -3971,10 +3971,10 @@
     },
     "values": {
       "logograms": [
-        "\u00d9"
+        "Ù"
       ],
       "phonetic": [
-        "\u00f9"
+        "ù"
       ]
     }
   },
@@ -4009,7 +4009,7 @@
         "te"
       ],
       "phonetic, new": [
-        "\u0161\u00f9l"
+        "šùl"
       ]
     }
   },
@@ -4058,8 +4058,8 @@
       ],
       "phonetic": [
         "ki",
-        "ke; q\u00ed",
-        "q\u00e9"
+        "ke; qí",
+        "qé"
       ]
     }
   },
@@ -4077,7 +4077,7 @@
       ],
       "phonetic, new": [
         "tin",
-        "t\u00e9n"
+        "tén"
       ]
     }
   },
@@ -4088,10 +4088,10 @@
     },
     "values": {
       "logograms": [
-        "K\u00d9"
+        "KÙ"
       ],
       "phonetic": [
-        "(k\u00f9)"
+        "(kù)"
       ]
     }
   },
@@ -4105,16 +4105,16 @@
         "XX"
       ],
       "phonetic": [
-        "ni\u0161",
-        "ne\u0161",
-        "na\u0161",
+        "niš",
+        "neš",
+        "naš",
         "nis"
       ],
       "phonetic, new": [
         "man",
-        "m\u00ecn",
+        "mìn",
         "mam",
-        "m\u00ecm"
+        "mìm"
       ]
     }
   },
@@ -4128,16 +4128,16 @@
         ""
       ],
       "phonetic": [
-        "e\u0161",
-        "i\u0161"
+        "eš",
+        "iš"
       ],
       "phonetic, Ass.new": [
-        "i\u0161~5~"
+        "iš~5~"
       ],
       "phonetic, new": [
-        "\u00e9s",
+        "és",
         "sin",
-        "b\u00e0"
+        "bà"
       ]
     }
   },
@@ -4173,18 +4173,18 @@
         "before (male) personal names\n\t\t(see examples)"
       ],
       "logograms": [
-        "G\u00c9\u0160",
-        "G\u00cd\u0160",
-        "DI\u0160"
+        "GÉŠ",
+        "GÍŠ",
+        "DIŠ"
       ],
       "phonetic, new": [
-        "di\u0161",
-        "Ti\u0161",
-        "ti\u0161",
+        "diš",
+        "Tiš",
+        "tiš",
         "tiz",
-        "d\u00e1\u0161",
-        "t\u00e1\u0161",
-        "g\u00ec",
+        "dáš",
+        "táš",
+        "gì",
         "ana"
       ]
     }
@@ -4196,13 +4196,13 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "l\u00e1\n\t     l\u00e1"
+        "lá\n\t     lá"
       ],
       "logograms": [
         ""
       ],
       "phonetic": [
-        "l\u00e1"
+        "lá"
       ],
       "phonetic, new": [
         "lal"
@@ -4219,7 +4219,7 @@
         ""
       ],
       "phonetic, new": [
-        "l\u00e1l"
+        "lál"
       ]
     }
   },
@@ -4230,18 +4230,18 @@
     },
     "values": {
       "logograms": [
-        "LAGA\u0160",
-        "N\u00cdGIN"
+        "LAGAŠ",
+        "NÍGIN"
       ],
       "phonetic, new": [
         "kil",
         "qil",
-        "G\u00edl",
-        "k\u00ecr",
+        "Gíl",
+        "kìr",
         "rim",
         "reme",
-        "rin;\n\t\tr\u00ec",
-        "r\u00e8",
+        "rin;\n\t\trì",
+        "rè",
         "hab/p"
       ]
     }
@@ -4295,7 +4295,7 @@
         ""
       ],
       "phonetic, new": [
-        "\u00f9'",
+        "ù'",
         "us~5~",
         "u~8~"
       ]
@@ -4344,12 +4344,12 @@
       ],
       "phonetic": [
         "me",
-        "m\u00ec"
+        "mì"
       ],
       "phonetic, new": [
-        "\u0161ib/p",
+        "šib/p",
         "sib/p",
-        "m\u00e9\u0161"
+        "méš"
       ]
     }
   },
@@ -4360,16 +4360,16 @@
     },
     "values": {
       "determinative": [
-        "ME\u0160 \n\t\tafter logogram as plural sign\n\t\t(see examples)"
+        "MEŠ \n\t\tafter logogram as plural sign\n\t\t(see examples)"
       ],
       "logograms": [
         "ME"
       ],
       "phonetic": [
-        "me\u0161"
+        "meš"
       ],
       "phonetic, new": [
-        "iacute;\u0161"
+        "iacute;š"
       ]
     }
   },
@@ -4380,7 +4380,7 @@
     },
     "values": {
       "logograms": [
-        "URA\u0160"
+        "URAŠ"
       ],
       "phonetic": [
         "ib/p",
@@ -4396,21 +4396,21 @@
     "values": {
       "logograms": [
         "KU",
-        "D\u00daR"
+        "DÚR"
       ],
       "phonetic": [
         "ku"
       ],
       "phonetic, mostly old": [
-        "q\u00fa"
+        "qú"
       ],
       "phonetic, new": [
-        "\u00e9\u0161",
-        "\u0161\u00e8",
-        "\u0161\u00f9",
-        "t\u00fag",
-        "d\u00far",
-        "tu\u0161"
+        "éš",
+        "šè",
+        "šù",
+        "túg",
+        "dúr",
+        "tuš"
       ]
     }
   },
@@ -4467,7 +4467,7 @@
         ""
       ],
       "phonetic, Ass. new": [
-        "s\u00edk/g"
+        "sík/g"
       ]
     }
   },
@@ -4500,7 +4500,7 @@
     },
     "values": {
       "logograms": [
-        "K\u00c8\u0160"
+        "KÈŠ"
       ]
     }
   },
@@ -4511,10 +4511,10 @@
     },
     "values": {
       "examples in New Assyrian orthography": [
-        "\u0161\u00fa\n\t    \n\t    \t\u0161\u00fa"
+        "šú\n\t    \n\t    \tšú"
       ],
       "phonetic, new": [
-        "\u0161\u00fa\n\t     \n\t     (Often used as suffix for the\n\t     possessive pronomen 3rd person singular `his')"
+        "šú\n\t     \n\t     (Often used as suffix for the\n\t     possessive pronomen 3rd person singular `his')"
       ]
     }
   },
@@ -4526,21 +4526,21 @@
     "values": {
       "determinative": [
         "MUNUS",
-        "M\u00cd before female persons",
+        "MÍ before female persons",
         "professions and\n\t\tfemale gender (often in abstract nouns)\n\t\t(see examples)"
       ],
       "logograms": [
         "MUNUS",
-        "M\u00cd"
+        "MÍ"
       ],
       "phonetic": [
-        "\u0161al"
+        "šal"
       ],
       "phonetic, new": [
         "sal",
         "rag/k/q",
         "mim",
-        "m\u00e1m"
+        "mám"
       ]
     }
   },
@@ -4559,10 +4559,10 @@
       ],
       "phonetic, new": [
         "Su",
-        "r\u00edg/k/q"
+        "ríg/k/q"
       ],
       "phonetic, old": [
-        "s\u00fam"
+        "súm"
       ]
     }
   },
@@ -4582,9 +4582,9 @@
         "in~5~"
       ],
       "phonetic, new": [
-        "n\u00edm",
+        "ním",
         "min~4~",
-        "ere\u0161"
+        "ereš"
       ]
     }
   },
@@ -4606,7 +4606,7 @@
         "Ta~4~"
       ],
       "phonetic, mostly old": [
-        "t\u00e1m"
+        "tám"
       ]
     }
   },
@@ -4617,7 +4617,7 @@
     },
     "values": {
       "logograms": [
-        "GEM\u00c9"
+        "GEMÉ"
       ]
     }
   },
@@ -4634,7 +4634,7 @@
         "gu"
       ],
       "phonetic, old": [
-        "q\u00f9"
+        "qù"
       ]
     }
   },
@@ -4712,12 +4712,12 @@
         "lu~4~"
       ],
       "phonetic, new": [
-        "g\u00fam",
-        "k\u00fas",
-        "k\u00fa\u0161"
+        "gúm",
+        "kús",
+        "kúš"
       ],
       "phonetic, old": [
-        "n\u00fam"
+        "núm"
       ]
     }
   },
@@ -4813,13 +4813,13 @@
       "phonetic": [
         "ur",
         "lig/k/q",
-        "ta\u0161"
+        "taš"
       ],
       "phonetic, new": [
-        "\u00eds/S/\u0161",
+        "ís/S/š",
         "tas/S/z",
-        "t\u00e9\u0161",
-        "da\u0161"
+        "téš",
+        "daš"
       ]
     }
   },
@@ -4863,7 +4863,7 @@
       "phonetic": [
         "a",
         "'a",
-        "\u00edd"
+        "íd"
       ]
     }
   },
@@ -4881,7 +4881,7 @@
         "Sa"
       ],
       "phonetic, mostly old": [
-        "s\u00e0"
+        "sà"
       ]
     }
   },
@@ -4910,13 +4910,13 @@
       ],
       "phonetic, new": [
         "sig/k/q",
-        "\u0161ig/k/q",
-        "z\u00edk/q",
+        "šig/k/q",
+        "zík/q",
         "pik/q",
         "bik"
       ],
       "phonetic, old": [
-        "\u0161\u00ec"
+        "šì"
       ]
     }
   },
@@ -4938,11 +4938,11 @@
     },
     "values": {
       "logograms": [
-        "G\u00cdN",
-        "T\u00d9N"
+        "GÍN",
+        "TÙN"
       ],
       "phonetic, Bab. new": [
-        "pu\u0161~4~"
+        "puš~4~"
       ],
       "phonetic, new": [
         "Tu"
@@ -4962,10 +4962,10 @@
       ],
       "logograms": [
         "LIMMU",
-        "N\u00cdG"
+        "NÍG"
       ],
       "phonetic, new": [
-        "\u00e1\n\t\t   n\u00edg/k/q",
+        "á\n\t\t   níg/k/q",
         "gar"
       ]
     }
