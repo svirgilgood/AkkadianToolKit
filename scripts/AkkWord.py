@@ -61,8 +61,10 @@ class AkkWord:
         return syllable_list
 
 
+    '''
     def extract_root(self, syllables):
         for 
+    '''
 
 
 
