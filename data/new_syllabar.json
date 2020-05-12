@@ -1,0 +1,5156 @@
+{
+ "001": {
+  "sign": {
+   "name": "ash",
+   "sign_number": "001"
+  },
+  "unicode": "𒀸",
+  "unicode_point": "U+12038",
+  "values": {
+   "logograms": [
+    "AŠ",
+    "DILI"
+   ],
+   "phonetic": [
+    "Til",
+    "rum",
+    "rù",
+    "ina",
+    "aš",
+    "in~6~",
+    "dil"
+   ]
+  }
+ },
+ "002": {
+  "sign": {
+   "name": "hal",
+   "sign_number": "002"
+  },
+  "unicode": "𒐀",
+  "unicode_point": "U+12400",
+  "values": {
+   "phonetic": [
+    "hal"
+   ]
+  }
+ },
+ "003": {
+  "sign": {
+   "name": "mug",
+   "sign_number": "003"
+  },
+  "unicode": "𒈮",
+  "unicode_point": "U+1222E",
+  "values": {
+   "phonetic": [
+    "muk",
+    "mug",
+    "muq"
+   ]
+  }
+ },
+ "004": {
+  "sign": {
+   "name": "zadim",
+   "sign_number": "004"
+  },
+  "unicode": "𒈯",
+  "unicode_point": "U+1222F",
+  "values": {
+   "logogram": [
+    "ZADIM"
+   ],
+   "phonetic": []
+  }
+ },
+ "005": {
+  "sign": {
+   "name": "ba",
+   "sign_number": "005"
+  },
+  "unicode": "𒁀",
+  "unicode_point": "U+12040",
+  "values": {
+   "phonetic": [
+    "ba",
+    "(pá)"
+   ]
+  }
+ },
+ "006": {
+  "sign": {
+   "name": "zu",
+   "sign_number": "006"
+  },
+  "unicode": "𒍪",
+  "unicode_point": "U+1236A",
+  "values": {
+   "logograms": [
+    "AŠ",
+    "DILI"
+   ],
+   "phonetic": [
+    "zu",
+    "(Sú)",
+    "Sú",
+    "sú"
+   ]
+  }
+ },
+ "007": {
+  "sign": {
+   "name": "su",
+   "sign_number": "007"
+  },
+  "unicode": "𒋢",
+  "unicode_point": "U+122E2",
+  "values": {
+   "determinative": [
+    "KUŠ\n\t\tbefore lether items\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "KUŠ"
+   ],
+   "phonetic": [
+    "guš",
+    "kuš",
+    "su",
+    "kuz",
+    "su (mostly new)",
+    "kuS"
+   ]
+  }
+ },
+ "008": {
+  "sign": {
+   "name": "shun",
+   "sign_number": "008"
+  },
+  "unicode": "𒊿",
+  "unicode_point": "U+122BF",
+  "values": {
+   "phonetic": [
+    "ruk",
+    "šun",
+    "šin",
+    "ruq",
+    "rug"
+   ]
+  }
+ },
+ "009": {
+  "sign": {
+   "name": "bal",
+   "sign_number": "009"
+  },
+  "unicode": "𒁄",
+  "unicode_point": "U+12044",
+  "values": {
+   "logogram": [
+    "BAL",
+    "BALA"
+   ],
+   "phonetic": [
+    "bal",
+    "pal"
+   ]
+  }
+ },
+ "010": {
+  "sign": {
+   "name": "ad2",
+   "sign_number": "010"
+  },
+  "unicode": "𒄈",
+  "unicode_point": "U+12108",
+  "values": {
+   "phonetic": [
+    "ád/t/T; gír"
+   ]
+  }
+ },
+ "011": {
+  "sign": {
+   "name": "bul2",
+   "sign_number": "011"
+  },
+  "unicode": "𒁔",
+  "unicode_point": "U+12054",
+  "values": {
+   "phonetic": [
+    "búl",
+    "púl"
+   ]
+  }
+ },
+ "012": {
+  "sign": {
+   "name": "tar",
+   "sign_number": "012"
+  },
+  "unicode": "𒋻",
+  "unicode_point": "U+122FB",
+  "values": {
+   "logogram": [
+    "SILA"
+   ],
+   "phonetic": [
+    "qud/t",
+    "tír",
+    "šil",
+    "tar\n\t     (the diagonal stroke is often rather horizontal)",
+    "tar",
+    "Tír\n\t\tkud/t",
+    "sil",
+    "has/S/z/š",
+    "Tar",
+    "tara"
+   ]
+  }
+ },
+ "013": {
+  "sign": {
+   "name": "an",
+   "sign_number": "013"
+  },
+  "unicode": "𒀭",
+  "unicode_point": "U+1202D",
+  "values": {
+   "Additional": [
+    "DINGIR.MEŠ\n\t\t (MEŠ is plurial sign)\n\t\t ilü '(the) gods'"
+   ],
+   "determinative": [
+    "before deities and demons",
+    "transcribed as ^d^ for dingir\n\t\t(see examples)"
+   ],
+   "logogram": [
+    "AN",
+    "DINGIR"
+   ],
+   "phonetic": [
+    "",
+    "in words related to \n\t\tilum `god')",
+    "(ìl",
+    "èl",
+    "an"
+   ]
+  }
+ },
+ "014": {
+  "sign": {
+   "name": "ashshur",
+   "sign_number": "014"
+  },
+  "unicode": "𒀸𒋩",
+  "unicode_point": "U+12038 & U+122E9",
+  "values": {
+   "phonetic": []
+  }
+ },
+ "015": {
+  "sign": {
+   "name": "ka",
+   "sign_number": "015"
+  },
+  "unicode": "𒅗",
+  "unicode_point": "U+12157",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "old \n\t\tqà"
+   ],
+   "logograms": [
+    "KA \n\t    \t pû \n\t    \t `mouth' \n\t    \n\t    \tDUG~4~",
+    "DU~11~\n\t    \t qabû\n\t    \t `to speak' \n\t    \t\n\t    \t\tGÙ\n\t\t\tšasû\n\t\t \t`to shout'",
+    "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \tawätumamätu \t    \t\n\t    \t \t`word'",
+    "`message'",
+    "`order'",
+    "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiSru\n\t    \t\tkiSaru\n\t    \t\t`knot'; `multitude'"
+   ],
+   "phonetic": []
+  }
+ },
+ "017": {
+  "sign": {
+   "name": "ush11",
+   "sign_number": "017"
+  },
+  "unicode": "𒅜",
+  "unicode_point": "U+1215C",
+  "values": {
+   "composition": [
+    "U~11~ = KA x BAD"
+   ],
+   "logograms": [
+    "U~11~"
+   ],
+   "phonetic": []
+  }
+ },
+ "018": {
+  "sign": {
+   "name": "numdum",
+   "sign_number": "018"
+  },
+  "values": {
+   "composition": [
+    "NUMDUM = KA x NUN"
+   ],
+   "logograms": [
+    "NUMDUM"
+   ],
+   "phonetic": []
+  }
+ },
+ "035": {
+  "sign": {
+   "name": "nag",
+   "sign_number": "035"
+  },
+  "unicode": "𒅘",
+  "unicode_point": "U+12158",
+  "values": {
+   "composition": [
+    "NAG = KA x A"
+   ],
+   "logograms": [
+    "NAG",
+    "NA~8~"
+   ],
+   "phonetic": [
+    "kag/k/q"
+   ]
+  }
+ },
+ "036": {
+  "sign": {
+   "name": "ku2",
+   "sign_number": "036"
+  },
+  "unicode": "𒅥",
+  "unicode_point": "U+12165",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "Bab. new::"
+   ],
+   "composition": [
+    "KA x NÍG = 'mouth' x `bread'"
+   ],
+   "logograms": [
+    "GU~7~\n\t    \n\t    \n\t    \t  \n\t    \t\tKÚ\n\t    \t\takälu  \n\t    \t \t`to eat'"
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "039": {
+  "sign": {
+   "name": "uru",
+   "sign_number": "039"
+  },
+  "unicode": "𒍋",
+  "unicode_point": "U+1234B",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "Bab. new:: \n\t\trí",
+    "ré",
+    "ir~4~",
+    "er~4~"
+   ],
+   "determinative": [
+    "URU in front of city names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "URU\n\t    \n\t    \t  \n\t    \t\tURU\n\t    \t\tälu  \n\t    \t \t`city'"
+   ],
+   "phonetic": [
+    "ere",
+    "iri",
+    "eri"
+   ]
+  }
+ },
+ "040": {
+  "sign": {
+   "name": "ukkin",
+   "sign_number": "040"
+  },
+  "unicode": "𒌺",
+  "unicode_point": "U+1233A",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "Ass. new:\n\t\t: sùk"
+   ],
+   "composition": [
+    "= URU x NÍG"
+   ],
+   "logograms": [
+    "ÌR",
+    "ARAD\n\t    \n\t    \t ARAD  \n\t    \t\tÌR\n\t    \t\twardu  \n\t    \t \t`slave'"
+   ],
+   "phonetic": [
+    "èr",
+    "qàl",
+    "ìr"
+   ]
+  }
+ },
+ "052": {
+  "sign": {
+   "name": "iti",
+   "sign_number": "052"
+  },
+  "unicode": "𒌗",
+  "unicode_point": "U+12317",
+  "values": {
+   "determinative": [
+    "in front of names of the month"
+   ],
+   "logograms": [
+    "ITI",
+    "UTU\n\t    \n\t    \t  \n\t    \t\tITU\n\t    \t\t(w)arhu  \n\t    \t \t`month'"
+   ],
+   "phonetic": [
+    "itu)",
+    "(iti"
+   ]
+  }
+ },
+ "053": {
+  "sign": {
+   "name": "shubur",
+   "sign_number": "053"
+  },
+  "unicode": "𒋚",
+  "unicode_point": "U+122DA",
+  "values": {
+   "logograms": [
+    "AH",
+    "UBUR\n\t    \n\t    \t   \n\t    \t\tAH\n\t    \t\tahû  \n\t    \t \t`pig'"
+   ],
+   "phonetic": [
+    "sih",
+    "úh",
+    "ih",
+    "ah"
+   ]
+  }
+ },
+ "054": {
+  "sign": {
+   "name": "buru14",
+   "sign_number": "054"
+  },
+  "unicode": "𒂘",
+  "unicode_point": "U+12098",
+  "values": {
+   "logograms": [
+    "BUR~14~",
+    "BURU~14~"
+   ],
+   "phonetic": []
+  }
+ },
+ "055": {
+  "sign": {
+   "name": "la",
+   "sign_number": "055"
+  },
+  "unicode": "𒆷",
+  "unicode_point": "U+121B7",
+  "values": {
+   "phonetic": [
+    "la"
+   ]
+  }
+ },
+ "056": {
+  "sign": {
+   "name": "pin",
+   "sign_number": "056"
+  },
+  "unicode": "𒀳",
+  "unicode_point": "U+12033",
+  "values": {
+   "phonetic": [
+    "pin"
+   ]
+  }
+ },
+ "057": {
+  "sign": {
+   "name": "pah",
+   "sign_number": "057"
+  },
+  "unicode": "𒈤",
+  "unicode_point": "U+12224",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "058": {
+  "sign": {
+   "name": "tu",
+   "sign_number": "058"
+  },
+  "unicode": "𒌅",
+  "unicode_point": "U+12305",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "mostly old\n\t\tTú"
+   ],
+   "logograms": [
+    "KU~4~\n\t    \n\t    \t  \n\t    \t\tKU~4~\n\t    \t\terëbu  \n\t    \t \t`to enter'"
+   ],
+   "phonetic": [
+    "tu"
+   ]
+  }
+ },
+ "059": {
+  "sign": {
+   "name": "ti",
+   "sign_number": "059"
+  },
+  "unicode": "𒇷",
+  "unicode_point": "U+121F7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "060": {
+  "sign": {
+   "name": "pap",
+   "sign_number": "060"
+  },
+  "unicode": "𒉽",
+  "unicode_point": "U+1227D",
+  "values": {
+   "Additional": [
+    "phonetic:",
+    "new:\n\t\tia~5~"
+   ],
+   "logograms": [
+    "MU\n\t    \n\t    \t  \n\t    \t\tMU\n\t    \t\tšumu  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzakäru  \n\t    \t \t`to speak' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzikru  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tšattu  \n\t    \t \t`year'",
+    "`harvest time' \n\t    \t\n\t    \t\t\n\t    \t\t  \n\t    \t\tMU.AN.NA\n\t    \t\tšattu  \n\t    \t \t`year'",
+    "`harvest time'"
+   ],
+   "phonetic": [
+    "pap",
+    "mu",
+    "bab/p",
+    "kúr"
+   ]
+  }
+ },
+ "062": {
+  "sign": {
+   "name": "qa",
+   "sign_number": "062"
+  },
+  "unicode": "𒋡",
+  "unicode_point": "U+122E1",
+  "values": {
+   "logograms": [
+    "SÌLA\n\t    \n\t    \t  \n\t    \t\tSÌLA\n\t    \t\tqû  \n\t    \t \t(a measure of capacity",
+    "about 1 liter)'"
+   ],
+   "phonetic": [
+    "qa"
+   ]
+  }
+ },
+ "063": {
+  "sign": {
+   "name": "kad2",
+   "sign_number": "063"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kád/t",
+    "šíd",
+    "gát"
+   ]
+  }
+ },
+ "063c": {
+  "sign": {
+   "name": "kad3",
+   "sign_number": "063c"
+  },
+  "unicode": "𒆑",
+  "unicode_point": "U+12191",
+  "values": {
+   "Additional": [
+    "phonetic",
+    "new: \n\t\tpát/T",
+    "bít",
+    "pít",
+    "mid/t/T",
+    "til",
+    "zis",
+    "ziz",
+    "sun",
+    "Ass.: qìt"
+   ],
+   "logograms": [
+    "BAD",
+    "IDIM",
+    "SUN",
+    "SUMUN",
+    "ÚŠ"
+   ],
+   "phonetic": [
+    "bad/t/T",
+    "be",
+    "bad\n\t      bad",
+    "ub/p"
+   ]
+  }
+ },
+ "070": {
+  "sign": {
+   "name": "na",
+   "sign_number": "070"
+  },
+  "unicode": "𒈾",
+  "unicode_point": "U+1223E",
+  "values": {
+   "logograms": [
+    "NA\n\t    \n\t    \t  \n\t    \t\t\n\t    \t\t\t  \n\t    \t \t` '"
+   ],
+   "phonetic": [
+    "na"
+   ]
+  }
+ },
+ "071": {
+  "sign": {
+   "name": "shir",
+   "sign_number": "071"
+  },
+  "unicode": "𒋓",
+  "unicode_point": "U+122D3",
+  "values": {
+   "phonetic": [
+    "šir"
+   ]
+  }
+ },
+ "072": {
+  "sign": {
+   "name": "numun",
+   "sign_number": "072"
+  },
+  "unicode": "𒆰",
+  "unicode_point": "U+121B0",
+  "values": {
+   "logograms": [
+    "NUMUN \n\t    \t\t(also šE.MUNUN) \n\t    \t\tzëu  \n\t    \t \t`seed'"
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "073": {
+  "sign": {
+   "name": "ti",
+   "sign_number": "073"
+  },
+  "unicode": "𒋾",
+  "unicode_point": "U+122FE",
+  "values": {
+   "Additional": [
+    "Sign is derived from a pictogram for an arrow",
+    "Sum. ti\n\t\t`arrow'",
+    "but also `to live'"
+   ],
+   "logograms": [
+    "TI"
+   ],
+   "phonetic": [
+    "Tì",
+    "dì",
+    "Te~6~)",
+    "(te~9~",
+    "ti"
+   ]
+  }
+ },
+ "074": {
+  "sign": {
+   "name": "mash",
+   "sign_number": "074"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "maS",
+    "maš",
+    "mas"
+   ]
+  }
+ },
+ "075": {
+  "sign": {
+   "name": "nu",
+   "sign_number": "075"
+  },
+  "unicode": "𒉡",
+  "unicode_point": "U+12261",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "nu",
+    "là"
+   ]
+  }
+ },
+ "076": {
+  "sign": {
+   "name": "mash2",
+   "sign_number": "076"
+  },
+  "unicode": "𒈧",
+  "unicode_point": "U+12227",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "máš",
+    "kun~8~"
+   ]
+  }
+ },
+ "077": {
+  "sign": {
+   "name": "kun",
+   "sign_number": "077"
+  },
+  "unicode": "𒆲",
+  "unicode_point": "U+121B2",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kun"
+   ]
+  }
+ },
+ "078": {
+  "sign": {
+   "name": "hu",
+   "sign_number": "078"
+  },
+  "unicode": "𒄷",
+  "unicode_point": "U+12137",
+  "values": {
+   "determinative": [
+    "MUŠEN\n\t\tafter bird names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "MUŠEN"
+   ],
+   "phonetic": [
+    "hu",
+    "bak/q",
+    "bah",
+    "pag/k/q"
+   ]
+  }
+ },
+ "079": {
+  "sign": {
+   "name": "nam",
+   "sign_number": "079"
+  },
+  "unicode": "𒉆",
+  "unicode_point": "U+12246",
+  "values": {
+   "logograms": [
+    "NAM"
+   ],
+   "phonetic": [
+    "sín",
+    "(bir~5~)",
+    "nam",
+    "NAM",
+    "sim"
+   ]
+  }
+ },
+ "080": {
+  "sign": {
+   "name": "ig",
+   "sign_number": "080"
+  },
+  "unicode": "𒅅",
+  "unicode_point": "U+12145",
+  "values": {
+   "logograms": [
+    "GÁL"
+   ],
+   "phonetic": [
+    "eg/k/q",
+    "gál",
+    "ig/k/q"
+   ]
+  }
+ },
+ "081": {
+  "sign": {
+   "name": "mud",
+   "sign_number": "081"
+  },
+  "unicode": "𒄷𒄭",
+  "unicode_point": "U+12137 & U+1212D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "mut",
+    "mud/t/T"
+   ]
+  }
+ },
+ "083": {
+  "sign": {
+   "name": "rad",
+   "sign_number": "083"
+  },
+  "unicode": "𒋥",
+  "unicode_point": "U+122E5",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "rud/t/T",
+    "rad/t/T"
+   ]
+  }
+ },
+ "084": {
+  "sign": {
+   "name": "zi",
+   "sign_number": "084"
+  },
+  "unicode": "𒍣",
+  "unicode_point": "U+12363",
+  "values": {
+   "logograms": [
+    "ZI"
+   ],
+   "phonetic": [
+    "zi\n\t     zi",
+    "sé Sí",
+    "ze",
+    "Sé",
+    "sí",
+    "zi"
+   ]
+  }
+ },
+ "085": {
+  "sign": {
+   "name": "gi",
+   "sign_number": "085"
+  },
+  "unicode": "𒄀",
+  "unicode_point": "U+12100",
+  "values": {
+   "Additional": [
+    "sign is derived from a pictogram of reed; Sum. gi is\n\t\t`reed'"
+   ],
+   "logograms": [
+    "GI"
+   ],
+   "phonetic": [
+    "ge",
+    "qì",
+    "gi",
+    "qè"
+   ]
+  }
+ },
+ "086": {
+  "sign": {
+   "name": "ri",
+   "sign_number": "086"
+  },
+  "unicode": "𒊑",
+  "unicode_point": "U+12291",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "Tal",
+    "tala",
+    "re",
+    "tal",
+    "ri",
+    "dal"
+   ]
+  }
+ },
+ "087": {
+  "sign": {
+   "name": "nun",
+   "sign_number": "087"
+  },
+  "unicode": "𒉣",
+  "unicode_point": "U+12263",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "síl",
+    "zil",
+    "nun",
+    "Sil"
+   ]
+  }
+ },
+ "088": {
+  "sign": {
+   "name": "kab",
+   "sign_number": "088"
+  },
+  "unicode": "𒆏",
+  "unicode_point": "U+1218F",
+  "values": {
+   "phonetic": [
+    "kab/p; (gáb/p)",
+    "qáb/p",
+    "kab"
+   ]
+  }
+ },
+ "090": {
+  "sign": {
+   "name": "gat",
+   "sign_number": "090"
+  },
+  "unicode": "𒃰",
+  "unicode_point": "U+120F0",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kad/t",
+    "qàd/t",
+    "gat"
+   ]
+  }
+ },
+ "094": {
+  "sign": {
+   "name": "dim",
+   "sign_number": "094"
+  },
+  "unicode": "𒁴",
+  "unicode_point": "U+12074",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "dim",
+    "tì",
+    "tim",
+    "Tim"
+   ]
+  }
+ },
+ "095": {
+  "sign": {
+   "name": "mun",
+   "sign_number": "095"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "096": {
+  "sign": {
+   "name": "bulug",
+   "sign_number": "096"
+  },
+  "unicode": "𒁑",
+  "unicode_point": "U+12051",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "097": {
+  "sign": {
+   "name": "ag",
+   "sign_number": "097"
+  },
+  "unicode": "𒀝",
+  "unicode_point": "U+1201D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "",
+    "ag/k/q"
+   ]
+  }
+ },
+ "098": {
+  "sign": {
+   "name": "me3",
+   "sign_number": "098"
+  },
+  "unicode": "𒀞",
+  "unicode_point": "U+1201E",
+  "values": {
+   "logograms": [
+    "MÈ"
+   ],
+   "phonetic": [
+    "mè"
+   ]
+  }
+ },
+ "099": {
+  "sign": {
+   "name": "en",
+   "sign_number": "099"
+  },
+  "unicode": "𒂗",
+  "unicode_point": "U+12097",
+  "values": {
+   "logograms": [
+    "EN"
+   ],
+   "phonetic": [
+    "(verticals only recognizable from the heads)\n\t\n\tIn ligature with \n\tdingir EN is often written like\n\t\n\t\n\t\tdingir.en\n\t\n\t\tdingir.en",
+    "(in~4~)",
+    "en"
+   ]
+  }
+ },
+ "101": {
+  "sign": {
+   "name": "sur",
+   "sign_number": "101"
+  },
+  "unicode": "𒋩",
+  "unicode_point": "U+122E9",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "",
+    "šur",
+    "sur"
+   ]
+  }
+ },
+ "102": {
+  "sign": {
+   "name": "mush2",
+   "sign_number": "102"
+  },
+  "unicode": "𒈽",
+  "unicode_point": "U+1223D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "103": {
+  "sign": {
+   "name": "inanna",
+   "sign_number": "103"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "104": {
+  "sign": {
+   "name": "sa",
+   "sign_number": "104"
+  },
+  "unicode": "𒊓",
+  "unicode_point": "U+12293",
+  "values": {
+   "logograms": [
+    "SA"
+   ],
+   "phonetic": [
+    "sa"
+   ]
+  }
+ },
+ "105": {
+  "sign": {
+   "name": "gan2",
+   "sign_number": "105"
+  },
+  "unicode": "𒃷",
+  "unicode_point": "U+120F7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gán",
+    "kára",
+    "kán",
+    "kár"
+   ]
+  }
+ },
+ "106": {
+  "sign": {
+   "name": "gu2",
+   "sign_number": "106"
+  },
+  "unicode": "𒄘",
+  "unicode_point": "U+12118",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tik/q",
+    "gú"
+   ]
+  }
+ },
+ "107": {
+  "sign": {
+   "name": "usan",
+   "sign_number": "107"
+  },
+  "values": {
+   "logograms": [
+    "USAN"
+   ],
+   "phonetic": []
+  }
+ },
+ "108": {
+  "sign": {
+   "name": "dur",
+   "sign_number": "108"
+  },
+  "unicode": "𒄙",
+  "unicode_point": "U+12119",
+  "values": {
+   "logograms": [
+    "GUN"
+   ],
+   "phonetic": [
+    "biltu",
+    "dur",
+    "tú",
+    "Tur"
+   ]
+  }
+ },
+ "109": {
+  "sign": {
+   "name": "lal3",
+   "sign_number": "109"
+  },
+  "unicode": "𒋭",
+  "unicode_point": "U+122ED",
+  "values": {
+   "composition": [
+    "= TA x HI"
+   ],
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "làl"
+   ]
+  }
+ },
+ "110": {
+  "sign": {
+   "name": "ku7",
+   "sign_number": "110"
+  },
+  "unicode": "𒆯",
+  "unicode_point": "U+121AF",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "111": {
+  "sign": {
+   "name": "gur",
+   "sign_number": "111"
+  },
+  "unicode": "𒄥",
+  "unicode_point": "U+12125",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "qur",
+    "gur"
+   ]
+  }
+ },
+ "112": {
+  "sign": {
+   "name": "si",
+   "sign_number": "112"
+  },
+  "unicode": "𒋛",
+  "unicode_point": "U+122DB",
+  "values": {
+   "logograms": [
+    "SI"
+   ],
+   "phonetic": [
+    "se",
+    "Sì",
+    "ší",
+    "si"
+   ]
+  }
+ },
+ "114": {
+  "sign": {
+   "name": "dar",
+   "sign_number": "114"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "dír",
+    "(Tár)",
+    "dar",
+    "tár"
+   ]
+  }
+ },
+ "115": {
+  "sign": {
+   "name": "sag",
+   "sign_number": "115"
+  },
+  "unicode": "𒊕",
+  "unicode_point": "U+12295",
+  "values": {
+   "logograms": [
+    "SAG"
+   ],
+   "phonetic": [
+    "sag/k/q",
+    "SAG\n\t     \n\t    \triš",
+    "šag/k/q",
+    "reS/š",
+    "ris/š"
+   ]
+  }
+ },
+ "122": {
+  "sign": {
+   "name": "ma2",
+   "sign_number": "122"
+  },
+  "unicode": "𒈣",
+  "unicode_point": "U+12223",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "má"
+   ]
+  }
+ },
+ "123": {
+  "sign": {
+   "name": "dir",
+   "sign_number": "123"
+  },
+  "unicode": "𒋛𒀀",
+  "unicode_point": "U+122DB & U+12000",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "Tir",
+    "mál",
+    "sa~5~",
+    "dir"
+   ]
+  }
+ },
+ "124": {
+  "sign": {
+   "name": "tab",
+   "sign_number": "124"
+  },
+  "unicode": "𒋰",
+  "unicode_point": "U+122F0",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "dáb/p",
+    "Tab/p",
+    "tab/p"
+   ]
+  }
+ },
+ "126": {
+  "sign": {
+   "name": "tag",
+   "sign_number": "126"
+  },
+  "unicode": "𒋳",
+  "unicode_point": "U+122F3",
+  "values": {
+   "logograms": [
+    "TAG"
+   ],
+   "phonetic": [
+    "šum",
+    "šu~14~",
+    "tà",
+    "tag/k/q"
+   ]
+  }
+ },
+ "128": {
+  "sign": {
+   "name": "ab",
+   "sign_number": "128"
+  },
+  "unicode": "𒀊",
+  "unicode_point": "U+1200A",
+  "values": {
+   "logograms": [
+    "AB"
+   ],
+   "phonetic": [
+    "ìs/S/z)",
+    "èš",
+    "(ès/S/z",
+    "ab/p"
+   ]
+  }
+ },
+ "129": {
+  "sign": {
+   "name": "nab",
+   "sign_number": "129"
+  },
+  "unicode": "𒀮",
+  "unicode_point": "U+1202E",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "nab/p"
+   ]
+  }
+ },
+ "129a": {
+  "sign": {
+   "name": "mul",
+   "sign_number": "129a"
+  },
+  "unicode": "𒀯",
+  "unicode_point": "U+1202F",
+  "values": {
+   "determinative": [
+    "MUL before stars and constellations\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "MUL"
+   ],
+   "phonetic": [
+    "mul"
+   ]
+  }
+ },
+ "130": {
+  "sign": {
+   "name": "ug",
+   "sign_number": "130"
+  },
+  "unicode": "𒊌",
+  "unicode_point": "U+1228C",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ug/k/q"
+   ]
+  }
+ },
+ "131": {
+  "sign": {
+   "name": "az",
+   "sign_number": "131"
+  },
+  "unicode": "𒊍",
+  "unicode_point": "U+1228D",
+  "values": {
+   "composition": [
+    "= PIRIG x ZA"
+   ],
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "as/S/z"
+   ]
+  }
+ },
+ "133": {
+  "sign": {
+   "name": "ka2",
+   "sign_number": "133"
+  },
+  "unicode": "𒆍",
+  "unicode_point": "U+1218D",
+  "values": {
+   "logograms": [
+    "KÁ"
+   ],
+   "phonetic": [
+    "ká"
+   ]
+  }
+ },
+ "134": {
+  "sign": {
+   "name": "um",
+   "sign_number": "134"
+  },
+  "unicode": "𒌝",
+  "unicode_point": "U+1231D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "díh",
+    "um"
+   ]
+  }
+ },
+ "138": {
+  "sign": {
+   "name": "dub",
+   "sign_number": "138"
+  },
+  "unicode": "𒁾",
+  "unicode_point": "U+1207E",
+  "values": {
+   "logograms": [
+    "DUB"
+   ],
+   "phonetic": [
+    "dub/p",
+    "Tub/p"
+   ]
+  }
+ },
+ "139": {
+  "sign": {
+   "name": "ta",
+   "sign_number": "139"
+  },
+  "unicode": "𒋫",
+  "unicode_point": "U+122EB",
+  "values": {
+   "logograms": [
+    "TA"
+   ],
+   "phonetic": [
+    "Tá",
+    "ta",
+    "ta\n\t    (one of the small horizontals is hided in the thick horizontal stroke)"
+   ]
+  }
+ },
+ "142": {
+  "sign": {
+   "name": "i",
+   "sign_number": "142"
+  },
+  "unicode": "𒄿",
+  "unicode_point": "U+1213F",
+  "values": {
+   "Additional": [
+    "Sumerian i means `five'",
+    "cf. the five strokes in this sign)"
+   ],
+   "logograms": [
+    "I"
+   ],
+   "phonetic": [
+    "",
+    "'i",
+    "i",
+    "ná"
+   ]
+  }
+ },
+ "142a": {
+  "sign": {
+   "name": "ia",
+   "sign_number": "142a"
+  },
+  "unicode": "𒅀",
+  "unicode_point": "U+12140",
+  "values": {
+   "composition": [
+    "= I + A"
+   ],
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "also ii",
+    "iu",
+    "ie",
+    "ia",
+    "ja",
+    "je ju"
+   ]
+  }
+ },
+ "143": {
+  "sign": {
+   "name": "kam2",
+   "sign_number": "143"
+  },
+  "unicode": "𒃶",
+  "unicode_point": "U+120F6",
+  "values": {
+   "logograms": [
+    "KÁM"
+   ],
+   "phonetic": [
+    "hí",
+    "kan",
+    "kám",
+    "li~6~\n\t\tin prefix for precative",
+    "gan",
+    "qan",
+    "hé"
+   ]
+  }
+ },
+ "144": {
+  "sign": {
+   "name": "tur",
+   "sign_number": "144"
+  },
+  "unicode": "𒌉",
+  "unicode_point": "U+12309",
+  "values": {
+   "logograms": [
+    "TUR",
+    "DUMU"
+   ],
+   "phonetic": []
+  }
+ },
+ "145": {
+  "sign": {
+   "name": "ad",
+   "sign_number": "145"
+  },
+  "unicode": "𒀜",
+  "unicode_point": "U+1201C",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ad",
+    "ad/t/T",
+    "àb/p"
+   ]
+  }
+ },
+ "146": {
+  "sign": {
+   "name": "hashhur",
+   "sign_number": "146"
+  },
+  "unicode": "𒈢",
+  "unicode_point": "U+12222",
+  "values": {
+   "logograms": [
+    "HAŠHUR"
+   ],
+   "phonetic": []
+  }
+ },
+ "147": {
+  "sign": {
+   "name": "zi2",
+   "sign_number": "147"
+  },
+  "unicode": "𒍢",
+  "unicode_point": "U+12362",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "se~20~",
+    "zé",
+    "Se",
+    "si~20~",
+    "Si",
+    "zí"
+   ]
+  }
+ },
+ "148": {
+  "sign": {
+   "name": "in",
+   "sign_number": "148"
+  },
+  "unicode": "𒅔",
+  "unicode_point": "U+12154",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "en~6~",
+    "in"
+   ]
+  }
+ },
+ "149": {
+  "sign": {
+   "name": "rab",
+   "sign_number": "149"
+  },
+  "unicode": "𒊐",
+  "unicode_point": "U+12290",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "",
+    "rab/p"
+   ]
+  }
+ },
+ "151": {
+  "sign": {
+   "name": "lugal",
+   "sign_number": "151"
+  },
+  "unicode": "𒈗",
+  "unicode_point": "U+12217",
+  "values": {
+   "composition": [
+    "= LÚ + GAL"
+   ],
+   "logograms": [
+    "LUGAL"
+   ],
+   "phonetic": [
+    "šàr"
+   ]
+  }
+ },
+ "152": {
+  "sign": {
+   "name": "ezen",
+   "sign_number": "152"
+  },
+  "unicode": "𒂡",
+  "unicode_point": "U+120A1",
+  "values": {
+   "composition": [
+    "BÀD = EZEN x BAD"
+   ],
+   "logograms": [
+    "BÀD"
+   ],
+   "phonetic": [
+    "šìr",
+    "hir",
+    "sì"
+   ]
+  }
+ },
+ "164": {
+  "sign": {
+   "name": "sum",
+   "sign_number": "164"
+  },
+  "unicode": "𒋧",
+  "unicode_point": "U+122E7",
+  "values": {
+   "logograms": [
+    "SUM",
+    "SUMU",
+    "SÌ"
+   ],
+   "phonetic": [
+    "šúm",
+    "sì",
+    "sè",
+    "sím"
+   ]
+  }
+ },
+ "166": {
+  "sign": {
+   "name": "kaskal",
+   "sign_number": "166"
+  },
+  "unicode": "𒆜",
+  "unicode_point": "U+1219C",
+  "values": {
+   "logograms": [
+    "KASKAL"
+   ],
+   "phonetic": [
+    "raš",
+    "buš",
+    "kas",
+    "ras/š",
+    "íš"
+   ]
+  }
+ },
+ "167": {
+  "sign": {
+   "name": "gab",
+   "sign_number": "167"
+  },
+  "unicode": "𒂃",
+  "unicode_point": "U+12083",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "Táh",
+    "tuh",
+    "qab/p",
+    "du~8~",
+    "gaba",
+    "duh",
+    "táh"
+   ]
+  }
+ },
+ "169": {
+  "sign": {
+   "name": "dah",
+   "sign_number": "169"
+  },
+  "unicode": "𒈭",
+  "unicode_point": "U+1222D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tah",
+    "Tah",
+    "dah"
+   ]
+  }
+ },
+ "170": {
+  "sign": {
+   "name": "am",
+   "sign_number": "170"
+  },
+  "unicode": "𒄠",
+  "unicode_point": "U+12120",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "am"
+   ]
+  }
+ },
+ "172": {
+  "sign": {
+   "name": "ne",
+   "sign_number": "172"
+  },
+  "unicode": "𒉈",
+  "unicode_point": "U+12248",
+  "values": {
+   "Additional": [
+    "sign derives from a pictogram of a fireplace and is logogram\n\t\tfor many words relating to `heat'"
+   ],
+   "logograms": [
+    "IZI",
+    "KÚM",
+    "BIL"
+   ],
+   "phonetic": [
+    "kúm",
+    "Sah",
+    "bil",
+    "bí",
+    "pe~5~",
+    "pil",
+    "Ti~5~",
+    "pi~5~",
+    "Séh",
+    "Tà",
+    "dè",
+    "ne"
+   ]
+  }
+ },
+ "173": {
+  "sign": {
+   "name": "bil2",
+   "sign_number": "173"
+  },
+  "unicode": "𒉋",
+  "unicode_point": "U+1224B",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "181": {
+  "sign": {
+   "name": "azu",
+   "sign_number": "181"
+  },
+  "values": {
+   "logograms": [
+    "AZU",
+    "ÚZU"
+   ],
+   "phonetic": []
+  }
+ },
+ "183": {
+  "sign": {
+   "name": "ram",
+   "sign_number": "183"
+  },
+  "unicode": "𒉘",
+  "unicode_point": "U+12258",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ram",
+    "rama in ramänu"
+   ]
+  }
+ },
+ "187": {
+  "sign": {
+   "name": "sham2",
+   "sign_number": "187"
+  },
+  "unicode": "",
+  "unicode_point": "important code point missing",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "šám"
+   ]
+  }
+ },
+ "190": {
+  "sign": {
+   "name": "zik",
+   "sign_number": "190"
+  },
+  "unicode": "𒍨",
+  "unicode_point": "U+12368",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "zíb",
+    "zik/q",
+    "háš"
+   ]
+  }
+ },
+ "191": {
+  "sign": {
+   "name": "kum",
+   "sign_number": "191"
+  },
+  "unicode": "𒄣",
+  "unicode_point": "U+12123",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kum",
+    "kùn",
+    "qum",
+    "qu"
+   ]
+  }
+ },
+ "195": {
+  "sign": {
+   "name": "unug",
+   "sign_number": "195"
+  },
+  "unicode": "𒀕",
+  "unicode_point": "U+12015",
+  "values": {
+   "logograms": [
+    "UNUG"
+   ],
+   "phonetic": [
+    "eri~11~",
+    "unu"
+   ]
+  }
+ },
+ "201": {
+  "sign": {
+   "name": "suhush",
+   "sign_number": "201"
+  },
+  "unicode": "𒁼",
+  "unicode_point": "U+1207C",
+  "values": {
+   "logograms": [
+    "SUHUŠ"
+   ],
+   "phonetic": [
+    "kas~5~"
+   ]
+  }
+ },
+ "202": {
+  "sign": {
+   "name": "kash4",
+   "sign_number": "202"
+  },
+  "unicode": "𒁽",
+  "unicode_point": "U+1207D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kaš~4~"
+   ]
+  }
+ },
+ "203": {
+  "sign": {
+   "name": "ur2",
+   "sign_number": "203"
+  },
+  "unicode": "𒌫",
+  "unicode_point": "U+1232B",
+  "values": {
+   "logograms": [
+    "ÚR"
+   ],
+   "phonetic": [
+    "úr"
+   ]
+  }
+ },
+ "205": {
+  "sign": {
+   "name": "il",
+   "sign_number": "205"
+  },
+  "unicode": "𒅋",
+  "unicode_point": "U+1214B",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "él",
+    "il"
+   ]
+  }
+ },
+ "206": {
+  "sign": {
+   "name": "du",
+   "sign_number": "206"
+  },
+  "unicode": "𒁺",
+  "unicode_point": "U+1207A",
+  "values": {
+   "Additional": [
+    "GIN",
+    "GUB",
+    "TÚM"
+   ],
+   "phonetic": [
+    "Tù",
+    "qub/p",
+    "ša~4~",
+    "tù",
+    "gub/p",
+    "GUB",
+    "du\n\t     \n\t\tGIN",
+    "du",
+    "kin~7~",
+    "TÚM"
+   ]
+  }
+ },
+ "207": {
+  "sign": {
+   "name": "tum",
+   "sign_number": "207"
+  },
+  "unicode": "𒌈",
+  "unicode_point": "U+12308",
+  "values": {
+   "phonetic": [
+    "dum",
+    "éb/p)",
+    "Tum",
+    "(íb/p",
+    "tu~4~",
+    "tum"
+   ]
+  }
+ },
+ "209": {
+  "sign": {
+   "name": "egir",
+   "sign_number": "209"
+  },
+  "unicode": "𒂕",
+  "unicode_point": "U+12095",
+  "values": {
+   "logograms": [
+    "EGIR"
+   ],
+   "phonetic": [
+    "egir"
+   ]
+  }
+ },
+ "211": {
+  "sign": {
+   "name": "ush",
+   "sign_number": "211"
+  },
+  "unicode": "𒍑",
+  "unicode_point": "U+12351",
+  "values": {
+   "logograms": [
+    "NITA"
+   ],
+   "phonetic": [
+    "ús/S/z",
+    "nid/t/T",
+    "uš\n\t     \n\t    uš\n\t     \n\t    uš",
+    "uš"
+   ]
+  }
+ },
+ "212": {
+  "sign": {
+   "name": "ish",
+   "sign_number": "212"
+  },
+  "unicode": "𒅖",
+  "unicode_point": "U+12156",
+  "values": {
+   "logograms": [
+    "NITA"
+   ],
+   "phonetic": [
+    "ís/S/z",
+    "eš~15~",
+    "nid/t/T",
+    "iš"
+   ]
+  }
+ },
+ "214": {
+  "sign": {
+   "name": "bi",
+   "sign_number": "214"
+  },
+  "unicode": "𒁉",
+  "unicode_point": "U+12049",
+  "values": {
+   "logograms": [
+    "BI",
+    "KAŠ"
+   ],
+   "phonetic": [
+    "pí",
+    "bi\n\t     bi",
+    "pé",
+    "also\n\t\tkaš",
+    "gaš",
+    "kaš",
+    "bi",
+    "bé",
+    "kás"
+   ]
+  }
+ },
+ "215": {
+  "sign": {
+   "name": "im",
+   "sign_number": "215"
+  },
+  "unicode": "𒋆",
+  "unicode_point": "U+122C6",
+  "values": {
+   "phonetic": [
+    "",
+    "šim",
+    "rig/k/q"
+   ]
+  }
+ },
+ "226": {
+  "sign": {
+   "name": "gisal",
+   "sign_number": "226"
+  },
+  "unicode": "𒄐",
+  "unicode_point": "U+12110",
+  "values": {
+   "logograms": [
+    "GISAL"
+   ],
+   "phonetic": []
+  }
+ },
+ "228": {
+  "sign": {
+   "name": "kib",
+   "sign_number": "228"
+  },
+  "values": {
+   "determinative": [
+    "NA~4~ before stone items\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "NA~4~",
+    "ZÁ"
+   ],
+   "phonetic": [
+    "tàk/q",
+    "tur~4~",
+    "dàg/k/q",
+    "ia~4~"
+   ]
+  }
+ },
+ "230": {
+  "sign": {
+   "name": "gag",
+   "sign_number": "230"
+  },
+  "unicode": "𒆕",
+  "unicode_point": "U+12195",
+  "values": {
+   "logograms": [
+    "DÙ"
+   ],
+   "phonetic": [
+    "gag",
+    "dà",
+    "qaqa",
+    "rú",
+    "kak/q"
+   ]
+  }
+ },
+ "231": {
+  "sign": {
+   "name": "ni",
+   "sign_number": "231"
+  },
+  "unicode": "𒉌",
+  "unicode_point": "U+1224C",
+  "values": {
+   "logograms": [
+    "Ì"
+   ],
+   "phonetic": [
+    "",
+    "lí",
+    "zal",
+    "Sal",
+    "tíq",
+    "né",
+    "ni",
+    "lé",
+    "ì",
+    "dik/q"
+   ]
+  }
+ },
+ "232": {
+  "sign": {
+   "name": "ir",
+   "sign_number": "232"
+  },
+  "unicode": "𒅕",
+  "unicode_point": "U+12155",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ir",
+    "er"
+   ]
+  }
+ },
+ "233": {
+  "sign": {
+   "name": "ga2",
+   "sign_number": "233"
+  },
+  "unicode": "𒂷",
+  "unicode_point": "U+120B7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gá",
+    "mal",
+    "maà",
+    "ba~4~"
+   ]
+  }
+ },
+ "237": {
+  "sign": {
+   "name": "ama",
+   "sign_number": "237"
+  },
+  "unicode": "𒂼",
+  "unicode_point": "U+120BC",
+  "values": {
+   "logograms": [
+    "AMA"
+   ],
+   "phonetic": []
+  }
+ },
+ "255": {
+  "sign": {
+   "name": "ur3",
+   "sign_number": "255"
+  },
+  "unicode": "𒃡",
+  "unicode_point": "U+120E1",
+  "values": {
+   "composition": [
+    "ÙR = GÁ x NIR"
+   ],
+   "logograms": [
+    "ÙR"
+   ],
+   "phonetic": [
+    "ùr"
+   ]
+  }
+ },
+ "278": {
+  "sign": {
+   "name": "galga",
+   "sign_number": "278"
+  },
+  "unicode": "𒃌",
+  "unicode_point": "U+120CC",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": []
+  }
+ },
+ "280": {
+  "sign": {
+   "name": "dag",
+   "sign_number": "280"
+  },
+  "unicode": "𒁖",
+  "unicode_point": "U+12056",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tág/k/q",
+    "pàr",
+    "dag/k/q"
+   ]
+  }
+ },
+ "295": {
+  "sign": {
+   "name": "pa",
+   "sign_number": "295"
+  },
+  "unicode": "𒉺",
+  "unicode_point": "U+1227A",
+  "values": {
+   "logograms": [
+    "GIDRI",
+    "UGULA",
+    "PA"
+   ],
+   "phonetic": [
+    "sàk",
+    "zák/q",
+    "had/t/T",
+    "pa",
+    "hás/S"
+   ]
+  }
+ },
+ "295k": {
+  "sign": {
+   "name": "shab",
+   "sign_number": "295k"
+  },
+  "unicode": "𒉺𒅁",
+  "unicode_point": "U+1227A & U+12141",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "295m": {
+  "sign": {
+   "name": "sipa",
+   "sign_number": "295m"
+  },
+  "unicode": "𒉺𒇻",
+  "unicode_point": "U+1227A & U+121FB",
+  "values": {
+   "logograms": [
+    "SIPA"
+   ],
+   "phonetic": [
+    "šap~5~",
+    "šab~5~"
+   ]
+  }
+ },
+ "296": {
+  "sign": {
+   "name": "gu4",
+   "sign_number": "296"
+  },
+  "unicode": "𒄑",
+  "unicode_point": "U+12111",
+  "values": {
+   "determinative": [
+    "GU~4~ before cattle names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "GU~4~",
+    "GUD"
+   ],
+   "phonetic": [
+    "(gu~4~)"
+   ]
+  }
+ },
+ "298": {
+  "sign": {
+   "name": "al",
+   "sign_number": "298"
+  },
+  "unicode": "𒀠",
+  "unicode_point": "U+12020",
+  "values": {
+   "phonetic": [
+    "al"
+   ]
+  }
+ },
+ "306": {
+  "sign": {
+   "name": "ub",
+   "sign_number": "306"
+  },
+  "unicode": "𒌒",
+  "unicode_point": "U+12312",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ár",
+    "up",
+    "ub/p"
+   ]
+  }
+ },
+ "308": {
+  "sign": {
+   "name": "e",
+   "sign_number": "308"
+  },
+  "unicode": "𒂊",
+  "unicode_point": "U+1208A",
+  "values": {
+   "Additional": [
+    "e\n\t     e"
+   ],
+   "phonetic": [
+    "",
+    "'e",
+    "e"
+   ]
+  }
+ },
+ "309": {
+  "sign": {
+   "name": "dug",
+   "sign_number": "309"
+  },
+  "unicode": "𒂁",
+  "unicode_point": "U+12081",
+  "values": {
+   "determinative": [
+    "DUG before pottery and items made from clay\n\t\t(see examples)"
+   ],
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tùk/q",
+    "lud/t/T",
+    "lud",
+    "dug/k/q"
+   ]
+  }
+ },
+ "310": {
+  "sign": {
+   "name": "gurun",
+   "sign_number": "310"
+  },
+  "unicode": "𒄧",
+  "unicode_point": "U+12127",
+  "values": {
+   "logograms": [
+    "GURUN",
+    "UG"
+   ],
+   "phonetic": []
+  }
+ },
+ "312": {
+  "sign": {
+   "name": "un",
+   "sign_number": "312"
+  },
+  "values": {
+   "logograms": [
+    "KALAM"
+   ],
+   "phonetic": [
+    "un"
+   ]
+  }
+ },
+ "313": {
+  "sign": {
+   "name": "lil2",
+   "sign_number": "313"
+  },
+  "unicode": "𒆤",
+  "unicode_point": "U+121A4",
+  "values": {
+   "Additional": [
+    "líl\n\t      líl"
+   ],
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "lí",
+    "mis/S",
+    "miš",
+    "mèš",
+    "rid/t/T",
+    "shid\n\t     mes"
+   ]
+  }
+ },
+ "318": {
+  "sign": {
+   "name": "u2",
+   "sign_number": "318"
+  },
+  "unicode": "𒌑",
+  "unicode_point": "U+12311",
+  "values": {
+   "determinative": [
+    "Ú before plant names \n\t\t(see examples)"
+   ],
+   "logograms": [
+    "Ú"
+   ],
+   "phonetic": [
+    "ú\n\t      ú",
+    "ú",
+    "šam",
+    "sam",
+    "'u&aucute"
+   ]
+  }
+ },
+ "319": {
+  "sign": {
+   "name": "ga",
+   "sign_number": "319"
+  },
+  "unicode": "𒂵",
+  "unicode_point": "U+120B5",
+  "values": {
+   "logograms": [
+    "GA"
+   ],
+   "phonetic": [
+    "ga",
+    "kà",
+    "qá"
+   ]
+  }
+ },
+ "320": {
+  "sign": {
+   "name": "il2",
+   "sign_number": "320"
+  },
+  "unicode": "𒅍",
+  "unicode_point": "U+1214D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "íl",
+    "íla"
+   ]
+  }
+ },
+ "321": {
+  "sign": {
+   "name": "luh",
+   "sign_number": "321"
+  },
+  "unicode": "𒈛",
+  "unicode_point": "U+1221B",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ìh",
+    "rah",
+    "làh",
+    "luh",
+    "rih"
+   ]
+  }
+ },
+ "322": {
+  "sign": {
+   "name": "kal",
+   "sign_number": "322"
+  },
+  "unicode": "𒆗",
+  "unicode_point": "U+12197",
+  "values": {
+   "logograms": [
+    "KALAG",
+    "GURUŠ"
+   ],
+   "phonetic": [
+    "tan",
+    "líb/p",
+    "rib/p",
+    "lab/p",
+    "dan",
+    "kal"
+   ]
+  }
+ },
+ "323": {
+  "sign": {
+   "name": "alad",
+   "sign_number": "323"
+  },
+  "unicode": "𒆘",
+  "unicode_point": "U+12198",
+  "values": {
+   "logograms": [
+    "ALAD"
+   ],
+   "phonetic": []
+  }
+ },
+ "324": {
+  "sign": {
+   "name": "e2",
+   "sign_number": "324"
+  },
+  "unicode": "𒂍",
+  "unicode_point": "U+1208D",
+  "values": {
+   "determinative": [
+    "É before buildings and temples names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "É"
+   ],
+   "phonetic": [
+    "pid/t/T",
+    "bit/T",
+    "é",
+    "(é)"
+   ]
+  }
+ },
+ "325": {
+  "sign": {
+   "name": "gir",
+   "sign_number": "325"
+  },
+  "unicode": "𒉪",
+  "unicode_point": "U+1226A",
+  "values": {
+   "phonetic": [
+    "nàr",
+    "nir",
+    "nàr\n\t     nir"
+   ]
+  }
+ },
+ "326": {
+  "sign": {
+   "name": "gi4",
+   "sign_number": "326"
+  },
+  "unicode": "𒄄",
+  "unicode_point": "U+12104",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gi~4~",
+    "qe~4~",
+    "qi~4~"
+   ]
+  }
+ },
+ "328": {
+  "sign": {
+   "name": "ra",
+   "sign_number": "328"
+  },
+  "unicode": "𒊏",
+  "unicode_point": "U+1228F",
+  "values": {
+   "logograms": [
+    "RA"
+   ],
+   "phonetic": [
+    "ra\n\t      ra",
+    "ra"
+   ]
+  }
+ },
+ "329": {
+  "sign": {
+   "name": "dul3",
+   "sign_number": "329"
+  },
+  "unicode": "𒊨",
+  "unicode_point": "U+122A8",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "dùl"
+   ]
+  }
+ },
+ "330": {
+  "sign": {
+   "name": "lu2",
+   "sign_number": "330"
+  },
+  "unicode": "𒇽",
+  "unicode_point": "U+121FD",
+  "values": {
+   "determinative": [
+    "LÚ in front of profesional and personal (male) names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "LÚ"
+   ],
+   "phonetic": [
+    "(lú)"
+   ]
+  }
+ },
+ "331": {
+  "sign": {
+   "name": "shesh",
+   "sign_number": "331"
+  },
+  "unicode": "𒋀",
+  "unicode_point": "U+122C0",
+  "values": {
+   "logograms": [
+    "ŠEŠ"
+   ],
+   "phonetic": [
+    "šiS/z",
+    "áha",
+    "áh",
+    "šiš",
+    "šas/S",
+    "sis/š",
+    "šaš"
+   ]
+  }
+ },
+ "331e": {
+  "sign": {
+   "name": "sar",
+   "sign_number": "331e"
+  },
+  "values": {
+   "determinative": [
+    "SAR after herb names",
+    "vegatables and medicaments\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "SAR"
+   ],
+   "phonetic": [
+    "",
+    "sar",
+    "šar"
+   ]
+  }
+ },
+ "332": {
+  "sign": {
+   "name": "zag",
+   "sign_number": "332"
+  },
+  "unicode": "𒍠",
+  "unicode_point": "U+12360",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "zag/k/q"
+   ]
+  }
+ },
+ "333": {
+  "sign": {
+   "name": "gar3",
+   "sign_number": "333"
+  },
+  "unicode": "𒃼",
+  "unicode_point": "U+120FC",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "kàr",
+    "qar",
+    "gàr"
+   ]
+  }
+ },
+ "334": {
+  "sign": {
+   "name": "a2",
+   "sign_number": "334"
+  },
+  "unicode": "𒀉",
+  "unicode_point": "U+12009",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "335": {
+  "sign": {
+   "name": "da",
+   "sign_number": "335"
+  },
+  "unicode": "𒁕",
+  "unicode_point": "U+12055",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "da",
+    "Ta"
+   ]
+  }
+ },
+ "336": {
+  "sign": {
+   "name": "lil",
+   "sign_number": "336"
+  },
+  "unicode": "𒇸",
+  "unicode_point": "U+121F8",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "lil"
+   ]
+  }
+ },
+ "337": {
+  "sign": {
+   "name": "muru2",
+   "sign_number": "337"
+  },
+  "unicode": "𒌘",
+  "unicode_point": "U+12318",
+  "values": {
+   "logograms": [
+    "MÁRU",
+    "MÚRUB"
+   ],
+   "phonetic": []
+  }
+ },
+ "338": {
+  "sign": {
+   "name": "de2",
+   "sign_number": "338"
+  },
+  "unicode": "𒌣",
+  "unicode_point": "U+12323",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "339": {
+  "sign": {
+   "name": "ash2",
+   "sign_number": "339"
+  },
+  "unicode": "𒀾",
+  "unicode_point": "U+1203E",
+  "values": {
+   "logograms": [
+    "UMUN",
+    "DÉ"
+   ],
+   "phonetic": [
+    "dé"
+   ]
+  }
+ },
+ "342": {
+  "sign": {
+   "name": "ma",
+   "sign_number": "342"
+  },
+  "unicode": "𒈠",
+  "unicode_point": "U+12220",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "",
+    "ma",
+    "wa~6~"
+   ]
+  }
+ },
+ "343": {
+  "sign": {
+   "name": "gal",
+   "sign_number": "343"
+  },
+  "unicode": "𒃲",
+  "unicode_point": "U+120F2",
+  "values": {
+   "logograms": [
+    "GAL"
+   ],
+   "phonetic": [
+    "qal",
+    "kál",
+    "gal",
+    "GAL"
+   ]
+  }
+ },
+ "344": {
+  "sign": {
+   "name": "bara2",
+   "sign_number": "344"
+  },
+  "unicode": "𒁈",
+  "unicode_point": "U+12048",
+  "values": {
+   "logograms": [
+    "BÁRA"
+   ],
+   "phonetic": [
+    "bára"
+   ]
+  }
+ },
+ "346": {
+  "sign": {
+   "name": "gir",
+   "sign_number": "346"
+  },
+  "unicode": "𒄫",
+  "unicode_point": "U+1212B",
+  "values": {
+   "logograms": [
+    "GIR"
+   ],
+   "phonetic": [
+    "piš",
+    "peš",
+    "pùš",
+    "gir",
+    "biš",
+    "gir\n\t     kir",
+    "qir",
+    "qer",
+    "bís",
+    "pis"
+   ]
+  }
+ },
+ "347": {
+  "sign": {
+   "name": "mir",
+   "sign_number": "347"
+  },
+  "unicode": "𒂆",
+  "unicode_point": "U+12086",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "mir"
+   ]
+  }
+ },
+ "349": {
+  "sign": {
+   "name": "bur",
+   "sign_number": "349"
+  },
+  "unicode": "𒁓",
+  "unicode_point": "U+12053",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "pur",
+    "bur"
+   ]
+  }
+ },
+ "353": {
+  "sign": {
+   "name": "sha",
+   "sign_number": "353"
+  },
+  "unicode": "𒊭",
+  "unicode_point": "U+122AD",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ša"
+   ]
+  }
+ },
+ "354": {
+  "sign": {
+   "name": "shu",
+   "sign_number": "354"
+  },
+  "unicode": "𒋗",
+  "unicode_point": "U+122D7",
+  "values": {
+   "logograms": [
+    "ŠU"
+   ],
+   "phonetic": [
+    "šu",
+    "qat",
+    "qad",
+    "and"
+   ]
+  }
+ },
+ "355": {
+  "sign": {
+   "name": "lul",
+   "sign_number": "355"
+  },
+  "unicode": "𒈜",
+  "unicode_point": "U+1221C",
+  "values": {
+   "logograms": [
+    "LUL"
+   ],
+   "phonetic": [
+    "bàh",
+    "lub/p",
+    "pah",
+    "nar",
+    "lib",
+    "puh",
+    "lul",
+    "lip"
+   ]
+  }
+ },
+ "356": {
+  "sign": {
+   "name": "sa6",
+   "sign_number": "356"
+  },
+  "unicode": "𒊷",
+  "unicode_point": "U+122B7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "360": {
+  "sign": {
+   "name": "ish8",
+   "sign_number": "360"
+  },
+  "unicode": "𒀹",
+  "unicode_point": "U+12039",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "iš~8~"
+   ]
+  }
+ },
+ "366": {
+  "sign": {
+   "name": "kur",
+   "sign_number": "366"
+  },
+  "unicode": "𒆳",
+  "unicode_point": "U+121B3",
+  "values": {
+   "logograms": [
+    "KUR"
+   ],
+   "phonetic": [
+    "mad/t/T",
+    "KUR.KUR",
+    "nad/t",
+    "lad/t/T",
+    "gìn",
+    "kur",
+    "sad/t",
+    "šad/t/T",
+    "qúr",
+    "kìn"
+   ]
+  }
+ },
+ "367": {
+  "sign": {
+   "name": "she",
+   "sign_number": "367"
+  },
+  "unicode": "𒊺",
+  "unicode_point": "U+122BA",
+  "values": {
+   "logograms": [
+    "ŠE"
+   ],
+   "phonetic": [
+    "še"
+   ]
+  }
+ },
+ "371": {
+  "sign": {
+   "name": "bu",
+   "sign_number": "371"
+  },
+  "unicode": "𒁍",
+  "unicode_point": "U+1204D",
+  "values": {
+   "logograms": [
+    "GÍD"
+   ],
+   "phonetic": [
+    "sír",
+    "(gíd/t/T",
+    "qíd/t",
+    "bu",
+    "ší)",
+    "pu",
+    "bu\n\t\t  bu"
+   ]
+  }
+ },
+ "372": {
+  "sign": {
+   "name": "uz",
+   "sign_number": "372"
+  },
+  "unicode": "𒊺𒄷",
+  "unicode_point": "U+122BA & U+12137",
+  "values": {
+   "phonetic": [
+    "us/S/z",
+    "us\n\t     uz"
+   ]
+  }
+ },
+ "373": {
+  "sign": {
+   "name": "sud",
+   "sign_number": "373"
+  },
+  "unicode": "𒋤",
+  "unicode_point": "U+122E4",
+  "values": {
+   "logograms": [
+    "SÙ",
+    "SUD"
+   ],
+   "phonetic": [
+    "sir",
+    "š ud/t/T"
+   ]
+  }
+ },
+ "374": {
+  "sign": {
+   "name": "mush",
+   "sign_number": "374"
+  },
+  "unicode": "𒈲",
+  "unicode_point": "U+12232",
+  "values": {
+   "logograms": [
+    "MUŠ"
+   ],
+   "phonetic": [
+    "zìr",
+    "muš",
+    "Sir"
+   ]
+  }
+ },
+ "375": {
+  "sign": {
+   "name": "tir",
+   "sign_number": "375"
+  },
+  "unicode": "𒌁",
+  "unicode_point": "U+12301",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tir",
+    "Tir~5~"
+   ]
+  }
+ },
+ "376": {
+  "sign": {
+   "name": "te",
+   "sign_number": "376"
+  },
+  "unicode": "𒋼",
+  "unicode_point": "U+122FC",
+  "values": {
+   "logograms": [
+    "TE"
+   ],
+   "phonetic": [
+    "de~4~",
+    "Te~4~",
+    "te",
+    "ti~7~",
+    "Ti~4~"
+   ]
+  }
+ },
+ "376a": {
+  "sign": {
+   "name": "kar",
+   "sign_number": "376a"
+  },
+  "values": {
+   "Additional": [
+    "composition = TE + A"
+   ],
+   "logograms": [
+    "KAR"
+   ],
+   "phonetic": [
+    "kar"
+   ]
+  }
+ },
+ "377": {
+  "sign": {
+   "name": "lish",
+   "sign_number": "377"
+  },
+  "unicode": "𒇺",
+  "unicode_point": "U+121FA",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "381": {
+  "sign": {
+   "name": "ud",
+   "sign_number": "381"
+  },
+  "unicode": "𒌓",
+  "unicode_point": "U+12313",
+  "values": {
+   "logograms": [
+    "U~4~",
+    "UTU",
+    "BABBAR"
+   ],
+   "phonetic": [
+    "",
+    "u~4~",
+    "pir",
+    "hiš",
+    "par",
+    "bír",
+    "Tam",
+    "tam",
+    "ud/t/T",
+    "lih",
+    "lah",
+    "tú",
+    "è"
+   ]
+  }
+ },
+ "383": {
+  "sign": {
+   "name": "pi",
+   "sign_number": "383"
+  },
+  "unicode": "𒉿",
+  "unicode_point": "U+1227F",
+  "values": {
+   "logograms": [
+    "PI"
+   ],
+   "phonetic": [
+    "wi",
+    "ew",
+    "aw",
+    "uw",
+    "wu",
+    "we",
+    "pe",
+    "wa",
+    "pi",
+    "iw"
+   ]
+  }
+ },
+ "384": {
+  "sign": {
+   "name": "sha3",
+   "sign_number": "384"
+  },
+  "unicode": "𒊮",
+  "unicode_point": "U+122AE",
+  "values": {
+   "logograms": [
+    "ŠÀ"
+   ],
+   "phonetic": [
+    "lib/p",
+    "šà"
+   ]
+  }
+ },
+ "390": {
+  "sign": {
+   "name": "pesh4",
+   "sign_number": "390"
+  },
+  "unicode": "𒊯",
+  "unicode_point": "U+122AF",
+  "values": {
+   "logograms": [
+    "PEŠ~4~"
+   ],
+   "phonetic": []
+  }
+ },
+ "392": {
+  "sign": {
+   "name": "uh2",
+   "sign_number": "392"
+  },
+  "unicode": "𒌔",
+  "unicode_point": "U+12314",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "úh"
+   ]
+  }
+ },
+ "393": {
+  "sign": {
+   "name": "erim",
+   "sign_number": "393"
+  },
+  "unicode": "𒂟",
+  "unicode_point": "U+1209F",
+  "values": {
+   "logograms": [
+    "ERIM"
+   ],
+   "phonetic": [
+    "par~5~",
+    "pír",
+    "Sab/p",
+    "bìr",
+    "zab/p"
+   ]
+  }
+ },
+ "394": {
+  "sign": {
+   "name": "nunuz",
+   "sign_number": "394"
+  },
+  "unicode": "𒉭",
+  "unicode_point": "U+1226D",
+  "values": {
+   "logograms": [
+    "NUNUZ"
+   ],
+   "phonetic": []
+  }
+ },
+ "395": {
+  "sign": {
+   "name": "zib",
+   "sign_number": "395"
+  },
+  "unicode": "𒍦",
+  "unicode_point": "U+12366",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "Sib/p",
+    "zib/p",
+    "sip"
+   ]
+  }
+ },
+ "396": {
+  "sign": {
+   "name": "hi",
+   "sign_number": "396"
+  },
+  "unicode": "𒄭",
+  "unicode_point": "U+1212D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "sár",
+    "šár",
+    "Tí",
+    "Té",
+    "dí",
+    "hi",
+    "he",
+    "Tà"
+   ]
+  }
+ },
+ "397": {
+  "sign": {
+   "name": "aleph",
+   "sign_number": "397"
+  },
+  "unicode": "𒀪",
+  "unicode_point": "U+1202A",
+  "values": {
+   "phonetic": [
+    "i'",
+    "'u",
+    "'i",
+    "'a",
+    "e'",
+    "u'",
+    "a'",
+    "'e"
+   ]
+  }
+ },
+ "398": {
+  "sign": {
+   "name": "ah",
+   "sign_number": "398"
+  },
+  "unicode": "𒄴",
+  "unicode_point": "U+12134",
+  "values": {
+   "phonetic": [
+    "uh",
+    "ih",
+    "ah",
+    "eh"
+   ]
+  }
+ },
+ "399": {
+  "sign": {
+   "name": "im",
+   "sign_number": "399"
+  },
+  "unicode": "𒅎",
+  "unicode_point": "U+1214E",
+  "values": {
+   "logograms": [
+    "IM",
+    "IŠKUR"
+   ],
+   "phonetic": [
+    "šar~5~",
+    "im",
+    "em"
+   ]
+  }
+ },
+ "400": {
+  "sign": {
+   "name": "bir",
+   "sign_number": "400"
+  },
+  "unicode": "𒄵",
+  "unicode_point": "U+12135",
+  "values": {
+   "phonetic": [
+    "pì",
+    "bir"
+   ]
+  }
+ },
+ "401": {
+  "sign": {
+   "name": "har",
+   "sign_number": "401"
+  },
+  "unicode": "𒄯",
+  "unicode_point": "U+1212F",
+  "values": {
+   "logograms": [
+    "HAR"
+   ],
+   "phonetic": [
+    "har",
+    "kín",
+    "hír",
+    "ur~5~",
+    "hur",
+    "mur",
+    "har\n\t     har"
+   ]
+  }
+ },
+ "402": {
+  "sign": {
+   "name": "hush",
+   "sign_number": "402"
+  },
+  "unicode": "𒄭𒄊",
+  "unicode_point": "U+1212D & U+1210A",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "huš"
+   ]
+  }
+ },
+ "404": {
+  "sign": {
+   "name": "hia",
+   "sign_number": "404"
+  },
+  "values": {
+   "logograms": [
+    "HÁ"
+   ],
+   "phonetic": [
+    "hia",
+    "há"
+   ]
+  }
+ },
+ "405": {
+  "sign": {
+   "name": "sur3",
+   "sign_number": "405"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gám",
+    "qám",
+    "kam"
+   ]
+  }
+ },
+ "411": {
+  "sign": {
+   "name": "u",
+   "sign_number": "411"
+  },
+  "unicode": "𒌋",
+  "unicode_point": "U+1230B",
+  "values": {
+   "logograms": [
+    "U"
+   ],
+   "phonetic": [
+    "u"
+   ]
+  }
+ },
+ "420": {
+  "sign": {
+   "name": "ab2",
+   "sign_number": "420"
+  },
+  "unicode": "𒀖",
+  "unicode_point": "U+12016",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "li~8~",
+    "lid/t/T",
+    "le~8~",
+    "áp",
+    "rím",
+    "áb",
+    "lid"
+   ]
+  }
+ },
+ "425": {
+  "sign": {
+   "name": "kish",
+   "sign_number": "425"
+  },
+  "unicode": "𒆧",
+  "unicode_point": "U+121A7",
+  "values": {
+   "logograms": [
+    "KIŠ"
+   ],
+   "phonetic": [
+    "qis/š",
+    "kis/š"
+   ]
+  }
+ },
+ "427": {
+  "sign": {
+   "name": "mi",
+   "sign_number": "427"
+  },
+  "unicode": "𒈪",
+  "unicode_point": "U+1222A",
+  "values": {
+   "logograms": [
+    "GI~6~"
+   ],
+   "phonetic": [
+    "mi",
+    "mé",
+    "Síl"
+   ]
+  }
+ },
+ "428": {
+  "sign": {
+   "name": "shagan",
+   "sign_number": "428"
+  },
+  "unicode": "𒌋𒃶",
+  "unicode_point": "U+1230B & U+120F6",
+  "values": {
+   "logograms": [
+    "AGAN"
+   ],
+   "phonetic": []
+  }
+ },
+ "429": {
+  "sign": {
+   "name": "gul",
+   "sign_number": "429"
+  },
+  "unicode": "𒄢",
+  "unicode_point": "U+12122",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gul",
+    "sún",
+    "qúl",
+    "kúl"
+   ]
+  }
+ },
+ "430": {
+  "sign": {
+   "name": "gir4",
+   "sign_number": "430"
+  },
+  "unicode": "𒌋𒀜",
+  "unicode_point": "U+1230B & U+1201C",
+  "values": {
+   "logograms": [
+    "GIR~4~"
+   ],
+   "phonetic": []
+  }
+ },
+ "431": {
+  "sign": {
+   "name": "na2",
+   "sign_number": "431"
+  },
+  "unicode": "𒈿",
+  "unicode_point": "U+1223F",
+  "values": {
+   "phonetic": [
+    "nú",
+    "ná"
+   ]
+  }
+ },
+ "433": {
+  "sign": {
+   "name": "nim",
+   "sign_number": "433"
+  },
+  "unicode": "𒉏",
+  "unicode_point": "U+1224F",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "num",
+    "tu~8~",
+    "nù",
+    "ni~7~",
+    "nim",
+    "tum~4~"
+   ]
+  }
+ },
+ "435": {
+  "sign": {
+   "name": "lam",
+   "sign_number": "435"
+  },
+  "unicode": "𒇴",
+  "unicode_point": "U+121F4",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "lam"
+   ]
+  }
+ },
+ "437": {
+  "sign": {
+   "name": "amar",
+   "sign_number": "437"
+  },
+  "unicode": "𒀫",
+  "unicode_point": "U+1202B",
+  "values": {
+   "logograms": [
+    "AMAR"
+   ],
+   "phonetic": [
+    "Sur",
+    "zur"
+   ]
+  }
+ },
+ "438": {
+  "sign": {
+   "name": "siskur",
+   "sign_number": "438"
+  },
+  "unicode": "𒀬",
+  "unicode_point": "U+1202C",
+  "values": {
+   "logograms": [
+    "SISKUR"
+   ],
+   "phonetic": []
+  }
+ },
+ "439": {
+  "sign": {
+   "name": "pan",
+   "sign_number": "439"
+  },
+  "unicode": "𒉼",
+  "unicode_point": "U+1227C",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ban",
+    "pan"
+   ]
+  }
+ },
+ "440": {
+  "sign": {
+   "name": "gim",
+   "sign_number": "440"
+  },
+  "unicode": "𒁶",
+  "unicode_point": "U+12076",
+  "values": {
+   "logograms": [
+    "DÍM"
+   ],
+   "phonetic": [
+    "dím",
+    "gim",
+    "Tim",
+    "kim",
+    "qim"
+   ]
+  }
+ },
+ "441": {
+  "sign": {
+   "name": "ul",
+   "sign_number": "441"
+  },
+  "unicode": "𒌌",
+  "unicode_point": "U+1230C",
+  "values": {
+   "phonetic": [
+    "ul\n\t     ul",
+    "ul"
+   ]
+  }
+ },
+ "444": {
+  "sign": {
+   "name": "pirig",
+   "sign_number": "444"
+  },
+  "unicode": "𒄊",
+  "unicode_point": "U+1210A",
+  "values": {
+   "logograms": [
+    "GÌR",
+    "PIRIG"
+   ],
+   "phonetic": [
+    "nè",
+    "gìr"
+   ]
+  }
+ },
+ "446": {
+  "sign": {
+   "name": "gig",
+   "sign_number": "446"
+  },
+  "unicode": "𒈪𒉭",
+  "unicode_point": "U+1222A & U+1226D",
+  "values": {
+   "logograms": [
+    "GIG"
+   ],
+   "phonetic": [
+    "gig",
+    "qiq"
+   ]
+  }
+ },
+ "449": {
+  "sign": {
+   "name": "igi",
+   "sign_number": "449"
+  },
+  "unicode": "𒅆",
+  "unicode_point": "U+12146",
+  "values": {
+   "logograms": [
+    "IGI",
+    "LIM"
+   ],
+   "phonetic": [
+    "ši",
+    "pàn",
+    "igi",
+    "= Šamši)",
+    "IGI",
+    "lì",
+    "lim\n\t\t(ši\n\t\tonly in UTU-ši",
+    "še~20~"
+   ]
+  }
+ },
+ "450": {
+  "sign": {
+   "name": "pa3",
+   "sign_number": "450"
+  },
+  "unicode": "𒅆𒊒",
+  "unicode_point": "U+12146 & U+12292",
+  "values": {
+   "phonetic": [
+    "pà"
+   ]
+  }
+ },
+ "451": {
+  "sign": {
+   "name": "ar",
+   "sign_number": "451"
+  },
+  "unicode": "𒅈",
+  "unicode_point": "U+12148",
+  "values": {
+   "phonetic": [
+    "ar"
+   ]
+  }
+ },
+ "454": {
+  "sign": {
+   "name": "sig5",
+   "sign_number": "454"
+  },
+  "unicode": "𒅆𒂟",
+  "unicode_point": "U+12146 & U+1209F",
+  "values": {
+   "composition": [
+    "= IGI + ERIM"
+   ],
+   "logograms": [
+    "SIG~5~"
+   ],
+   "phonetic": []
+  }
+ },
+ "455": {
+  "sign": {
+   "name": "u3",
+   "sign_number": "455"
+  },
+  "unicode": "𒅇",
+  "unicode_point": "U+12147",
+  "values": {
+   "logograms": [
+    "Ù"
+   ],
+   "phonetic": [
+    "ù"
+   ]
+  }
+ },
+ "456": {
+  "sign": {
+   "name": "hul",
+   "sign_number": "456"
+  },
+  "unicode": "𒅆𒌨",
+  "unicode_point": "U+12146 & U+12328",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "hul"
+   ]
+  }
+ },
+ "457": {
+  "sign": {
+   "name": "di",
+   "sign_number": "457"
+  },
+  "unicode": "𒁲",
+  "unicode_point": "U+12072",
+  "values": {
+   "logograms": [
+    "DI",
+    "SILIM"
+   ],
+   "phonetic": [
+    "šùl",
+    "di",
+    "de",
+    "te",
+    "Ti"
+   ]
+  }
+ },
+ "459": {
+  "sign": {
+   "name": "dul",
+   "sign_number": "459"
+  },
+  "unicode": "𒌋𒌆",
+  "unicode_point": "U+1230B & U+12306",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "dul",
+    "tul"
+   ]
+  }
+ },
+ "460": {
+  "sign": {
+   "name": "du6",
+   "sign_number": "460"
+  },
+  "values": {
+   "logograms": [
+    "DU~6~"
+   ],
+   "phonetic": [
+    "tu~21~",
+    "dul~6~",
+    "tul~6~"
+   ]
+  }
+ },
+ "461": {
+  "sign": {
+   "name": "ki",
+   "sign_number": "461"
+  },
+  "unicode": "𒆠",
+  "unicode_point": "U+121A0",
+  "values": {
+   "determinative": [
+    "KI after city names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "KI"
+   ],
+   "phonetic": [
+    "qé",
+    "ki",
+    "ke; qí"
+   ]
+  }
+ },
+ "465": {
+  "sign": {
+   "name": "din",
+   "sign_number": "465"
+  },
+  "unicode": "𒁷",
+  "unicode_point": "U+12077",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "tén",
+    "tin",
+    "din"
+   ]
+  }
+ },
+ "468": {
+  "sign": {
+   "name": "kug",
+   "sign_number": "468"
+  },
+  "unicode": "𒆬",
+  "unicode_point": "U+121AC",
+  "values": {
+   "logograms": [
+    "KÙ"
+   ],
+   "phonetic": [
+    "(kù)"
+   ]
+  }
+ },
+ "471": {
+  "sign": {
+   "name": "man",
+   "sign_number": "471"
+  },
+  "unicode": "𒎙",
+  "unicode_point": "U+12399",
+  "values": {
+   "logograms": [
+    "XX"
+   ],
+   "phonetic": [
+    "naš",
+    "nis",
+    "niš",
+    "neš",
+    "man",
+    "mam",
+    "mìm",
+    "mìn"
+   ]
+  }
+ },
+ "472": {
+  "sign": {
+   "name": "esh",
+   "sign_number": "472"
+  },
+  "unicode": "𒌍",
+  "unicode_point": "U+1230D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "iš~5~",
+    "sin",
+    "és",
+    "bà",
+    "iš",
+    "eš"
+   ]
+  }
+ },
+ "473": {
+  "sign": {
+   "name": "nimin",
+   "sign_number": "473"
+  },
+  "unicode": "𒐏",
+  "unicode_point": "U+1240F",
+  "values": {
+   "logograms": [
+    "NIMIN"
+   ],
+   "phonetic": []
+  }
+ },
+ "475": {
+  "sign": {
+   "name": "ninnu",
+   "sign_number": "475"
+  },
+  "unicode": "𒐐",
+  "unicode_point": "U+12410",
+  "values": {
+   "logograms": [
+    "NINNU"
+   ],
+   "phonetic": []
+  }
+ },
+ "480": {
+  "sign": {
+   "name": "dish",
+   "sign_number": "480"
+  },
+  "unicode": "𒁹",
+  "unicode_point": "U+12079",
+  "values": {
+   "determinative": [
+    "before (male) personal names\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "GÉŠ",
+    "GÍŠ",
+    "DIŠ"
+   ],
+   "phonetic": [
+    "dáš",
+    "Tiš",
+    "gì",
+    "diš",
+    "táš",
+    "tiš",
+    "ana",
+    "tiz"
+   ]
+  }
+ },
+ "481": {
+  "sign": {
+   "name": "lal",
+   "sign_number": "481"
+  },
+  "unicode": "𒇲",
+  "unicode_point": "U+121F2",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "lá",
+    "lá\n\t     lá",
+    "lal"
+   ]
+  }
+ },
+ "482": {
+  "sign": {
+   "name": "lal2",
+   "sign_number": "482"
+  },
+  "unicode": "𒇳",
+  "unicode_point": "U+121F3",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "lál"
+   ]
+  }
+ },
+ "483": {
+  "sign": {
+   "name": "lagab",
+   "sign_number": "483"
+  },
+  "unicode": "𒆸",
+  "unicode_point": "U+121B8",
+  "values": {
+   "logograms": [
+    "LAGAŠ",
+    "NÍGIN"
+   ],
+   "phonetic": [
+    "reme",
+    "kil",
+    "qil",
+    "rin;\n\t\trì",
+    "kìr",
+    "rè",
+    "rim",
+    "Gíl",
+    "hab/p"
+   ]
+  }
+ },
+ "484": {
+  "sign": {
+   "name": "engur",
+   "sign_number": "484"
+  },
+  "unicode": "𒇉",
+  "unicode_point": "U+121C9",
+  "values": {
+   "logograms": [
+    "ENGUR"
+   ],
+   "phonetic": []
+  }
+ },
+ "486": {
+  "sign": {
+   "name": "gigir",
+   "sign_number": "486"
+  },
+  "unicode": "𒇀",
+  "unicode_point": "U+121C0",
+  "values": {
+   "logograms": [
+    "GIGIR"
+   ],
+   "phonetic": []
+  }
+ },
+ "491": {
+  "sign": {
+   "name": "zar",
+   "sign_number": "491"
+  },
+  "unicode": "𒇡",
+  "unicode_point": "U+121E1",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "zar",
+    "Sar"
+   ]
+  }
+ },
+ "494": {
+  "sign": {
+   "name": "us5",
+   "sign_number": "494"
+  },
+  "unicode": "𒇇",
+  "unicode_point": "U+121C7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "u~8~",
+    "ù'",
+    "us~5~"
+   ]
+  }
+ },
+ "515": {
+  "sign": {
+   "name": "bul",
+   "sign_number": "515"
+  },
+  "unicode": "𒇧",
+  "unicode_point": "U+121E7",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "pul",
+    "bul"
+   ]
+  }
+ },
+ "522": {
+  "sign": {
+   "name": "sug",
+   "sign_number": "522"
+  },
+  "unicode": "𒆹",
+  "unicode_point": "U+121B9",
+  "values": {
+   "logograms": [
+    "SUG"
+   ],
+   "phonetic": []
+  }
+ },
+ "529": {
+  "sign": {
+   "name": "nigin",
+   "sign_number": "529"
+  },
+  "unicode": "𒆸𒆸",
+  "unicode_point": "U+121B8 & U+121B8",
+  "values": {
+   "determinative": [
+    "ME after logogram as plural sign (short for MESH)\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "ME"
+   ],
+   "phonetic": [
+    "mì",
+    "me",
+    "méš",
+    "sib/p",
+    "šib/p"
+   ]
+  }
+ },
+ "533": {
+  "sign": {
+   "name": "mesh",
+   "sign_number": "533"
+  },
+  "values": {
+   "determinative": [
+    "MEŠ \n\t\tafter logogram as plural sign\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "ME"
+   ],
+   "phonetic": [
+    "iacute;š",
+    "meš"
+   ]
+  }
+ },
+ "535": {
+  "sign": {
+   "name": "ib",
+   "sign_number": "535"
+  },
+  "unicode": "𒅁",
+  "unicode_point": "U+12141",
+  "values": {
+   "logograms": [
+    "URAŠ"
+   ],
+   "phonetic": [
+    "eb/p",
+    "ib/p"
+   ]
+  }
+ },
+ "536": {
+  "sign": {
+   "name": "ku",
+   "sign_number": "536"
+  },
+  "unicode": "𒆪",
+  "unicode_point": "U+121AA",
+  "values": {
+   "logograms": [
+    "KU",
+    "DÚR"
+   ],
+   "phonetic": [
+    "túg",
+    "éš",
+    "qú",
+    "šù",
+    "šè",
+    "tuš",
+    "dúr",
+    "ku"
+   ]
+  }
+ },
+ "537": {
+  "sign": {
+   "name": "lu",
+   "sign_number": "537"
+  },
+  "unicode": "𒇻",
+  "unicode_point": "U+121FB",
+  "values": {
+   "logograms": [
+    "UDU",
+    "DAB",
+    "DIB"
+   ],
+   "phonetic": [
+    "Tib/p",
+    "dib/p",
+    "lu\n\t    (The first vertical stroke is difficult to see)",
+    "dab/p",
+    "lu"
+   ]
+  }
+ },
+ "538": {
+  "sign": {
+   "name": "kin",
+   "sign_number": "538"
+  },
+  "unicode": "𒆥",
+  "unicode_point": "U+121A5",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "qin",
+    "qi",
+    "kin",
+    "qe"
+   ]
+  }
+ },
+ "539": {
+  "sign": {
+   "name": "sik2",
+   "sign_number": "539"
+  },
+  "unicode": "𒋠",
+  "unicode_point": "U+122E0",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "sík/g"
+   ]
+  }
+ },
+ "540": {
+  "sign": {
+   "name": "dara4",
+   "sign_number": "540"
+  },
+  "unicode": "𒁱",
+  "unicode_point": "U+12071",
+  "values": {
+   "logograms": [
+    "DARA~4~"
+   ],
+   "phonetic": []
+  }
+ },
+ "541": {
+  "sign": {
+   "name": "eren",
+   "sign_number": "541"
+  },
+  "unicode": "𒂞",
+  "unicode_point": "U+1209E",
+  "values": {
+   "logograms": [
+    "EREN"
+   ],
+   "phonetic": []
+  }
+ },
+ "542": {
+  "sign": {
+   "name": "gur7",
+   "sign_number": "542"
+  },
+  "unicode": "𒄦",
+  "unicode_point": "U+12126",
+  "values": {
+   "logograms": [
+    "KÈŠ"
+   ],
+   "phonetic": []
+  }
+ },
+ "545": {
+  "sign": {
+   "name": "shu2",
+   "sign_number": "545"
+  },
+  "unicode": "𒋙",
+  "unicode_point": "U+122D9",
+  "values": {
+   "phonetic": [
+    "šú\n\t     \n\t     (Often used as suffix for the\n\t     possessive pronomen 3rd person singular `his')",
+    "šú\n\t    \n\t    \tšú"
+   ]
+  }
+ },
+ "546": {
+  "sign": {
+   "name": "en2",
+   "sign_number": "546"
+  },
+  "unicode": "𒋙𒀭",
+  "unicode_point": "U+122D9 & U+1202D",
+  "values": {
+   "determinative": [
+    "MUNUS",
+    "MÍ before female persons",
+    "professions and\n\t\tfemale gender (often in abstract nouns)\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "MUNUS",
+    "MÍ"
+   ],
+   "phonetic": [
+    "sal",
+    "mim",
+    "rag/k/q",
+    "šal",
+    "mám"
+   ]
+  }
+ },
+ "555": {
+  "sign": {
+   "name": "zum",
+   "sign_number": "555"
+  },
+  "unicode": "𒍮",
+  "unicode_point": "U+1236E",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "ríg/k/q",
+    "súm",
+    "Su",
+    "Sum",
+    "zum"
+   ]
+  }
+ },
+ "556": {
+  "sign": {
+   "name": "nin",
+   "sign_number": "556"
+  },
+  "unicode": "𒊩𒆪",
+  "unicode_point": "U+122A9 & U+121AA",
+  "values": {
+   "logograms": [
+    "NIN"
+   ],
+   "phonetic": [
+    "in~5~",
+    "nin",
+    "ereš",
+    "ním",
+    "min~4~"
+   ]
+  }
+ },
+ "557": {
+  "sign": {
+   "name": "dam",
+   "sign_number": "557"
+  },
+  "unicode": "𒁮",
+  "unicode_point": "U+1206E",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "Ta~4~",
+    "dam",
+    "Tam",
+    "da~4~",
+    "tám"
+   ]
+  }
+ },
+ "558": {
+  "sign": {
+   "name": "geme2",
+   "sign_number": "558"
+  },
+  "unicode": "𒊩𒆳",
+  "unicode_point": "U+122A9 & U+121B3",
+  "values": {
+   "logograms": [
+    "GEMÉ"
+   ],
+   "phonetic": []
+  }
+ },
+ "559": {
+  "sign": {
+   "name": "gu",
+   "sign_number": "559"
+  },
+  "unicode": "𒄖",
+  "unicode_point": "U+12116",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "gu",
+    "qù"
+   ]
+  }
+ },
+ "560": {
+  "sign": {
+   "name": "nagar",
+   "sign_number": "560"
+  },
+  "unicode": "𒉄",
+  "unicode_point": "U+12244",
+  "values": {
+   "logograms": [
+    "NAGAR"
+   ],
+   "phonetic": [
+    "alla"
+   ]
+  }
+ },
+ "561": {
+  "sign": {
+   "name": "tugul",
+   "sign_number": "561"
+  },
+  "unicode": "𒉄𒍞",
+  "unicode_point": "U+12244 & U+1235E",
+  "values": {
+   "logograms": [
+    "TUGUL"
+   ],
+   "phonetic": []
+  }
+ },
+ "562": {
+  "sign": {
+   "name": "kushu2",
+   "sign_number": "562"
+  },
+  "unicode": "𒆵",
+  "unicode_point": "U+121B5",
+  "values": {
+   "logograms": [
+    "NIG"
+   ],
+   "phonetic": [
+    "nik",
+    "nig/k/q"
+   ]
+  }
+ },
+ "564": {
+  "sign": {
+   "name": "el",
+   "sign_number": "564"
+  },
+  "unicode": "𒂖",
+  "unicode_point": "U+12096",
+  "values": {
+   "logograms": [
+    "SIKIL"
+   ],
+   "phonetic": [
+    "el",
+    "il~5~"
+   ]
+  }
+ },
+ "565": {
+  "sign": {
+   "name": "lum",
+   "sign_number": "565"
+  },
+  "unicode": "𒈝",
+  "unicode_point": "U+1221D",
+  "values": {
+   "logograms": [
+    "SIG~4~"
+   ],
+   "phonetic": [
+    "núm",
+    "kúš",
+    "gúm",
+    "kús",
+    "lu~4~",
+    "lum"
+   ]
+  }
+ },
+ "567": {
+  "sign": {
+   "name": "sig4",
+   "sign_number": "567"
+  },
+  "unicode": "𒋞",
+  "unicode_point": "U+122DE",
+  "values": {
+   "logograms": [
+    "SIG~4~"
+   ],
+   "phonetic": []
+  }
+ },
+ "570": {
+  "sign": {
+   "name": "min",
+   "sign_number": "570"
+  },
+  "unicode": "𒈫",
+  "unicode_point": "U+1222B",
+  "values": {
+   "determinative": [
+    "MIN as a dual sign after a noun\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "MIN",
+    "number 2"
+   ],
+   "phonetic": [
+    "min"
+   ]
+  }
+ },
+ "571": {
+  "sign": {
+   "name": "1/3",
+   "sign_number": "571"
+  },
+  "unicode": "𒑚",
+  "unicode_point": "U+1245A",
+  "values": {
+   "logograms": [
+    "number 1/3"
+   ],
+   "phonetic": []
+  }
+ },
+ "572": {
+  "sign": {
+   "name": "2/3",
+   "sign_number": "572"
+  },
+  "unicode": "𒑛",
+  "unicode_point": "U+1245B",
+  "values": {
+   "logograms": [
+    "number 2/3"
+   ],
+   "phonetic": []
+  }
+ },
+ "573": {
+  "sign": {
+   "name": "5/6",
+   "sign_number": "573"
+  },
+  "unicode": "𒑜",
+  "unicode_point": "U+1245C",
+  "values": {
+   "logograms": [
+    "number 5/6"
+   ],
+   "phonetic": []
+  }
+ },
+ "574": {
+  "sign": {
+   "name": "tuk",
+   "sign_number": "574"
+  },
+  "unicode": "𒌇",
+  "unicode_point": "U+12307",
+  "values": {
+   "logograms": [
+    "TUK"
+   ],
+   "phonetic": [
+    "tuk",
+    "tug"
+   ]
+  }
+ },
+ "575": {
+  "sign": {
+   "name": "ur",
+   "sign_number": "575"
+  },
+  "unicode": "𒌨",
+  "unicode_point": "U+12328",
+  "values": {
+   "logograms": [
+    "UR"
+   ],
+   "phonetic": [
+    "taš",
+    "ís/S/š",
+    "ur",
+    "tas",
+    "lig/k/q",
+    "tas/S/z",
+    "daš",
+    "téš"
+   ]
+  }
+ },
+ "576": {
+  "sign": {
+   "name": "gidim",
+   "sign_number": "576"
+  },
+  "unicode": "𒄇",
+  "unicode_point": "U+12107",
+  "values": {
+   "logograms": [
+    "GIDIM"
+   ],
+   "phonetic": []
+  }
+ },
+ "577": {
+  "sign": {
+   "name": "udug",
+   "sign_number": "577"
+  },
+  "values": {
+   "logograms": [
+    "UDUG"
+   ],
+   "phonetic": [
+    "udug"
+   ]
+  }
+ },
+ "579": {
+  "sign": {
+   "name": "a",
+   "sign_number": "579"
+  },
+  "unicode": "𒀀",
+  "unicode_point": "U+12000",
+  "values": {
+   "logograms": [
+    "A"
+   ],
+   "phonetic": [
+    "'a",
+    "a",
+    "íd",
+    "a\n\t      a"
+   ]
+  }
+ },
+ "586": {
+  "sign": {
+   "name": "za",
+   "sign_number": "586"
+  },
+  "unicode": "𒍝",
+  "unicode_point": "U+1235D",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "sà",
+    "Sa",
+    "za"
+   ]
+  }
+ },
+ "589": {
+  "sign": {
+   "name": "ha",
+   "sign_number": "589"
+  },
+  "unicode": "𒄩",
+  "unicode_point": "U+12129",
+  "values": {
+   "logograms": [
+    "KU~6~"
+   ],
+   "phonetic": [
+    "ha"
+   ]
+  }
+ },
+ "592": {
+  "sign": {
+   "name": "sig",
+   "sign_number": "592"
+  },
+  "unicode": "𒋝",
+  "unicode_point": "U+122DD",
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    "šì",
+    "zík/q",
+    "sig/k/q",
+    "šig/k/q",
+    "bik",
+    "pik/q"
+   ]
+  }
+ },
+ "593": {
+  "sign": {
+   "name": "3",
+   "sign_number": "593"
+  },
+  "unicode": "𒐈",
+  "unicode_point": "U+12408",
+  "values": {
+   "logograms": [
+    "number 3"
+   ],
+   "phonetic": []
+  }
+ },
+ "595": {
+  "sign": {
+   "name": "thu",
+   "sign_number": "595"
+  },
+  "unicode": "𒂅",
+  "unicode_point": "U+12085",
+  "values": {
+   "logograms": [
+    "GÍN",
+    "TÙN"
+   ],
+   "phonetic": [
+    "Tu",
+    "puš~4~"
+   ]
+  }
+ },
+ "597": {
+  "sign": {
+   "name": "sha2",
+   "sign_number": "597"
+  },
+  "unicode": "𒃻",
+  "unicode_point": "U+120FB",
+  "values": {
+   "logograms": [
+    "LIMMU",
+    "NÍG"
+   ],
+   "phonetic": [
+    "",
+    "á\n\t\t   níg/k/q",
+    "gar"
+   ]
+  }
+ },
+ "598": {
+  "sign": {
+   "name": "5",
+   "sign_number": "598"
+  },
+  "values": {
+   "logograms": [
+    ""
+   ],
+   "phonetic": [
+    ""
+   ]
+  }
+ },
+ "599": {
+  "sign": {
+   "name": "6",
+   "sign_number": "599"
+  },
+  "values": {
+   "logograms": [
+    "number 6"
+   ],
+   "phonetic": []
+  }
+ },
+ "600": {
+  "sign": {
+   "name": "7",
+   "sign_number": "600"
+  },
+  "values": {
+   "logograms": [
+    "number 7"
+   ],
+   "phonetic": []
+  }
+ },
+ "601": {
+  "sign": {
+   "name": "8",
+   "sign_number": "601"
+  },
+  "values": {
+   "logograms": [
+    "number 8"
+   ],
+   "phonetic": [
+    "ussu"
+   ]
+  }
+ },
+ "602": {
+  "sign": {
+   "name": "9",
+   "sign_number": "602"
+  },
+  "values": {
+   "logograms": [
+    "number 9"
+   ],
+   "phonetic": []
+  }
+ }
+}
