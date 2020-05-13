@@ -58,7 +58,7 @@
   "unicode": "𒈯",
   "unicode_point": "U+1222F",
   "values": {
-   "logogram": [
+   "logograms": [
     "ZADIM"
    ],
    "phonetic": []
@@ -147,7 +147,7 @@
   "unicode": "𒁄",
   "unicode_point": "U+12044",
   "values": {
-   "logogram": [
+   "logograms": [
     "BAL",
     "BALA"
    ],
@@ -192,7 +192,7 @@
   "unicode": "𒋻",
   "unicode_point": "U+122FB",
   "values": {
-   "logogram": [
+   "logograms": [
     "SILA"
    ],
    "phonetic": [
@@ -218,20 +218,18 @@
   "unicode_point": "U+1202D",
   "values": {
    "Additional": [
-    "DINGIR.MEŠ\n\t\t (MEŠ is plurial sign)\n\t\t ilü '(the) gods'"
+    "DINGIR.MEŠ (MEŠ is plurial sign) ilü '(the) gods'"
    ],
    "determinative": [
     "before deities and demons",
-    "transcribed as ^d^ for dingir\n\t\t(see examples)"
+    "transcribed as ^d^ for dingir (see examples)"
    ],
-   "logogram": [
+   "logograms": [
     "AN",
     "DINGIR"
    ],
    "phonetic": [
-    "",
-    "in words related to \n\t\tilum `god')",
-    "(ìl",
+    "ìl",
     "èl",
     "an"
    ]
@@ -365,7 +363,7 @@
     "URU in front of city names\n\t\t(see examples)"
    ],
    "logograms": [
-    "URU\n\t    \n\t    \t  \n\t    \t\tURU\n\t    \t\tälu  \n\t    \t \t`city'"
+       "URU=ālu `city'"
    ],
    "phonetic": [
     "ere",
@@ -636,7 +634,7 @@
   "unicode_point": "U+1223E",
   "values": {
    "logograms": [
-    "NA\n\t    \n\t    \t  \n\t    \t\t\n\t    \t\t\t  \n\t    \t \t` '"
+       "NA.GADA=nāqidum; NA.RU=narûm"
    ],
    "phonetic": [
     "na"
@@ -1498,7 +1496,7 @@
   "unicode_point": "U+1231D",
   "values": {
    "logograms": [
-    ""
+    "UM, UMU=ummu"
    ],
    "phonetic": [
     "díh",
@@ -1554,13 +1552,12 @@
     "cf. the five strokes in this sign)"
    ],
    "logograms": [
-    "I"
+    "I=nadû"
    ],
    "phonetic": [
-    "",
-    "'i",
     "i",
-    "ná"
+    "ná",
+    "nát"
    ]
   }
  },
@@ -2704,14 +2701,15 @@
   "unicode_point": "U+1208D",
   "values": {
    "determinative": [
-    "É before buildings and temples names\n\t\t(see examples)"
+    "É before buildings and temples names (see examples)"
    ],
    "logograms": [
-    "É"
+    "É=bītum",
+    "É.GAL=ekallum"
    ],
    "phonetic": [
-    "pid/t/T",
-    "bit/T",
+    "pid/t/ṭ",
+    "bit/ṭ",
     "é",
     "(é)"
    ]
@@ -3002,7 +3000,7 @@
   "unicode_point": "U+120F2",
   "values": {
    "logograms": [
-    "GAL"
+    "GAL=rabûm"
    ],
    "phonetic": [
     "qal",
@@ -3226,16 +3224,16 @@
   "unicode_point": "U+1204D",
   "values": {
    "logograms": [
-    "GÍD"
+    "GÍD(.DA)=arkum"
    ],
    "phonetic": [
     "sír",
-    "(gíd/t/T",
+    "gíd/t/ṭ",
     "qíd/t",
     "bu",
-    "ší)",
+    "ší",
     "pu",
-    "bu\n\t\t  bu"
+    "bu"
    ]
   }
  },
@@ -4451,15 +4449,17 @@
    "name": "mesh",
    "sign_number": "533"
   },
+  "unicode": "𒈨𒌍",
+  "unicode_point": "U+12228 & U+1230D",
   "values": {
    "determinative": [
-    "MEŠ \n\t\tafter logogram as plural sign\n\t\t(see examples)"
+    "MEŠ after logogram as plural sign (see examples)"
    ],
    "logograms": [
-    "ME"
+    "ME",
+    "MEŠ"
    ],
    "phonetic": [
-    "iacute;š",
     "meš"
    ]
   }
@@ -4973,13 +4973,12 @@
   "unicode_point": "U+12000",
   "values": {
    "logograms": [
-    "A"
+    "A(.MEŠ)=mû"
    ],
    "phonetic": [
-    "'a",
     "a",
-    "íd",
-    "a\n\t      a"
+    "a",
+    "íd"
    ]
   }
  },
