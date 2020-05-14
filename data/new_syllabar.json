@@ -388,8 +388,25 @@
     "= URU x NÍG"
    ],
    "logograms": [
+    "UKKIN"
+   ],
+   "phonetic": [
+   ]
+  }
+ },
+ "050": {
+  "sign": {
+   "name": "arad",
+   "sign_number": "050"
+  },
+  "unicode": "𒀴",
+  "unicode_point": "U+12034",
+  "values": {
+   "Additional": [
+   ],
+   "logograms": [
     "ÌR",
-    "ARAD\n\t    \n\t    \t ARAD  \n\t    \t\tÌR\n\t    \t\twardu  \n\t    \t \t`slave'"
+    "NITA~2~"
    ],
    "phonetic": [
     "èr",
@@ -684,13 +701,14 @@
     "but also `to live'"
    ],
    "logograms": [
-    "TI"
+    "TI",
+    "TI(.LA)"
    ],
    "phonetic": [
-    "Tì",
+    "ṭì",
     "dì",
-    "Te~6~)",
-    "(te~9~",
+    "ṭe~6~",
+    "te~9~",
     "ti"
    ]
   }
@@ -1576,12 +1594,13 @@
     ""
    ],
    "phonetic": [
-    "also ii",
+    "ii",
     "iu",
     "ie",
     "ia",
     "ja",
-    "je ju"
+    "je",
+    "ju"
    ]
   }
  },
@@ -1619,7 +1638,9 @@
     "TUR",
     "DUMU"
    ],
-   "phonetic": []
+   "phonetic": [
+    "tur"
+   ]
   }
  },
  "145": {
@@ -1635,7 +1656,7 @@
    ],
    "phonetic": [
     "ad",
-    "ad/t/T",
+    "ad/t/ṭ",
     "àb/p"
    ]
   }
@@ -2885,10 +2906,11 @@
   "unicode_point": "U+12009",
   "values": {
    "logograms": [
-    ""
+    "À"
    ],
    "phonetic": [
-    ""
+    "id",
+    "ed"
    ]
   }
  },
@@ -2901,11 +2923,11 @@
   "unicode_point": "U+12055",
   "values": {
    "logograms": [
-    ""
+    "DA"
    ],
    "phonetic": [
     "da",
-    "Ta"
+    "ṭa"
    ]
   }
  },
@@ -3396,7 +3418,8 @@
   "unicode_point": "U+1227F",
   "values": {
    "logograms": [
-    "PI"
+    "PI",
+    "GEŠTU"
    ],
    "phonetic": [
     "wi",
@@ -3974,12 +3997,10 @@
    ],
    "phonetic": [
     "ši",
+    "lim",
     "pàn",
     "igi",
-    "= Šamši)",
-    "IGI",
     "lì",
-    "lim\n\t\t(ši\n\t\tonly in UTU-ši",
     "še~20~"
    ]
   }
@@ -4811,12 +4832,12 @@
     "SIG~4~"
    ],
    "phonetic": [
+    "lum",
     "núm",
     "kúš",
     "gúm",
     "kús",
-    "lu~4~",
-    "lum"
+    "lu~4~"
    ]
   }
  },
