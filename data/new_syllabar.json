@@ -12,7 +12,7 @@
     "DILI"
    ],
    "phonetic": [
-    "Til",
+    "ṭil",
     "rum",
     "rù",
     "ina",
@@ -92,8 +92,8 @@
    ],
    "phonetic": [
     "zu",
-    "(Sú)",
-    "Sú",
+    "(ṣú)",
+    "ṣú",
     "sú"
    ]
   }
@@ -118,7 +118,7 @@
     "su",
     "kuz",
     "su (mostly new)",
-    "kuS"
+    "kuṣ"
    ]
   }
  },
@@ -166,7 +166,7 @@
   "unicode_point": "U+12108",
   "values": {
    "phonetic": [
-    "ád/t/T; gír"
+    "ád/t/ṭ; gír"
    ]
   }
  },
@@ -199,12 +199,10 @@
     "qud/t",
     "tír",
     "šil",
-    "tar\n\t     (the diagonal stroke is often rather horizontal)",
     "tar",
-    "Tír\n\t\tkud/t",
     "sil",
-    "has/S/z/š",
-    "Tar",
+    "has/ṣ/z/š",
+    "ṭar",
     "tara"
    ]
   }
@@ -264,7 +262,7 @@
     "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \tawätumamätu \t    \t\n\t    \t \t`word'",
     "`message'",
     "`order'",
-    "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiSru\n\t    \t\tkiSaru\n\t    \t\t`knot'; `multitude'"
+    "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiṣru\n\t    \t\tkiṣaru\n\t    \t\t`knot'; `multitude'"
    ],
    "phonetic": []
   }
@@ -523,10 +521,10 @@
   "values": {
    "Additional": [
     "phonetic",
-    "mostly old\n\t\tTú"
+    "mostly old ṭú"
    ],
    "logograms": [
-    "KU~4~\n\t    \n\t    \t  \n\t    \t\tKU~4~\n\t    \t\terëbu  \n\t    \t \t`to enter'"
+    "KU~4~"
    ],
    "phonetic": [
     "tu"
@@ -535,17 +533,18 @@
  },
  "059": {
   "sign": {
-   "name": "ti",
+   "name": "li",
    "sign_number": "059"
   },
   "unicode": "𒇷",
   "unicode_point": "U+121F7",
   "values": {
    "logograms": [
-    ""
+    "^GIŠ^LI"
    ],
    "phonetic": [
-    ""
+    "li",
+    "le"
    ]
   }
  },
@@ -616,11 +615,10 @@
   "unicode_point": "U+12191",
   "values": {
    "Additional": [
-    "phonetic",
-    "new: \n\t\tpát/T",
+    "pát/ṭ",
     "bít",
     "pít",
-    "mid/t/T",
+    "mid/t/ṭ",
     "til",
     "zis",
     "ziz",
@@ -635,9 +633,8 @@
     "ÚŠ"
    ],
    "phonetic": [
-    "bad/t/T",
+    "bad/t/ṭ",
     "be",
-    "bad\n\t      bad",
     "ub/p"
    ]
   }
@@ -723,7 +720,7 @@
     ""
    ],
    "phonetic": [
-    "maS",
+    "maṣ",
     "maš",
     "mas"
    ]
@@ -852,7 +849,7 @@
    ],
    "phonetic": [
     "mut",
-    "mud/t/T"
+    "mud/t/ṭ"
    ]
   }
  },
@@ -868,8 +865,8 @@
     ""
    ],
    "phonetic": [
-    "rud/t/T",
-    "rad/t/T"
+    "rud/t/ṭ",
+    "rad/t/ṭ"
    ]
   }
  },
@@ -886,9 +883,9 @@
    ],
    "phonetic": [
     "zi\n\t     zi",
-    "sé Sí",
+    "sé ṣí",
     "ze",
-    "Sé",
+    "ṣé",
     "sí",
     "zi"
    ]
@@ -928,7 +925,7 @@
     ""
    ],
    "phonetic": [
-    "Tal",
+    "ṭal",
     "tala",
     "re",
     "tal",
@@ -952,7 +949,7 @@
     "síl",
     "zil",
     "nun",
-    "Sil"
+    "ṣil"
    ]
   }
  },
@@ -1004,7 +1001,7 @@
     "dim",
     "tì",
     "tim",
-    "Tim"
+    "ṭim"
    ]
   }
  },
@@ -1216,7 +1213,7 @@
     "biltu",
     "dur",
     "tú",
-    "Tur"
+    "ṭur"
    ]
   }
  },
@@ -1285,7 +1282,7 @@
    ],
    "phonetic": [
     "se",
-    "Sì",
+    "ṣì",
     "ší",
     "si"
    ]
@@ -1302,7 +1299,7 @@
    ],
    "phonetic": [
     "dír",
-    "(Tár)",
+    "(ṭár)",
     "dar",
     "tár"
    ]
@@ -1323,7 +1320,7 @@
     "sag/k/q",
     "SAG\n\t     \n\t    \triš",
     "šag/k/q",
-    "reS/š",
+    "reṣ/š",
     "ris/š"
    ]
   }
@@ -1356,7 +1353,7 @@
     ""
    ],
    "phonetic": [
-    "Tir",
+    "ṭir",
     "mál",
     "sa~5~",
     "dir"
@@ -1376,7 +1373,7 @@
    ],
    "phonetic": [
     "dáb/p",
-    "Tab/p",
+    "ṭab/p",
     "tab/p"
    ]
   }
@@ -1412,9 +1409,9 @@
     "AB"
    ],
    "phonetic": [
-    "ìs/S/z)",
+    "ìs/ṣ/z)",
     "èš",
-    "(ès/S/z",
+    "(ès/ṣ/z",
     "ab/p"
    ]
   }
@@ -1485,7 +1482,7 @@
     ""
    ],
    "phonetic": [
-    "as/S/z"
+    "as/ṣ/z"
    ]
   }
  },
@@ -1535,7 +1532,7 @@
    ],
    "phonetic": [
     "dub/p",
-    "Tub/p"
+    "ṭub/p"
    ]
   }
  },
@@ -1551,7 +1548,7 @@
     "TA"
    ],
    "phonetic": [
-    "Tá",
+    "ṭá",
     "ta",
     "ta\n\t    (one of the small horizontals is hided in the thick horizontal stroke)"
    ]
@@ -1689,9 +1686,9 @@
    "phonetic": [
     "se~20~",
     "zé",
-    "Se",
+    "ṣe",
     "si~20~",
-    "Si",
+    "ṣi",
     "zí"
    ]
   }
@@ -1823,7 +1820,7 @@
     ""
    ],
    "phonetic": [
-    "Táh",
+    "ṭáh",
     "tuh",
     "qab/p",
     "du~8~",
@@ -1846,7 +1843,7 @@
    ],
    "phonetic": [
     "tah",
-    "Tah",
+    "ṭah",
     "dah"
    ]
   }
@@ -1885,15 +1882,15 @@
    ],
    "phonetic": [
     "kúm",
-    "Sah",
+    "ṣah",
     "bil",
     "bí",
     "pe~5~",
     "pil",
-    "Ti~5~",
+    "ṭi~5~",
     "pi~5~",
-    "Séh",
-    "Tà",
+    "ṣéh",
+    "ṭà",
     "dè",
     "ne"
    ]
@@ -2094,16 +2091,14 @@
     "TÚM"
    ],
    "phonetic": [
-    "Tù",
+    "ṭù",
     "qub/p",
     "ša~4~",
     "tù",
     "gub/p",
     "GUB",
-    "du\n\t     \n\t\tGIN",
     "du",
-    "kin~7~",
-    "TÚM"
+    "kin~7~"
    ]
   }
  },
@@ -2118,7 +2113,7 @@
    "phonetic": [
     "dum",
     "éb/p)",
-    "Tum",
+    "ṭum",
     "(íb/p",
     "tu~4~",
     "tum"
@@ -2153,9 +2148,8 @@
     "NITA"
    ],
    "phonetic": [
-    "ús/S/z",
-    "nid/t/T",
-    "uš\n\t     \n\t    uš\n\t     \n\t    uš",
+    "ús/ṣ/z",
+    "nid/t/ṭ",
     "uš"
    ]
   }
@@ -2172,9 +2166,9 @@
     "NITA"
    ],
    "phonetic": [
-    "ís/S/z",
+    "ís/ṣ/z",
     "eš~15~",
-    "nid/t/T",
+    "nid/t/ṭ",
     "iš"
    ]
   }
@@ -2289,7 +2283,7 @@
     "",
     "lí",
     "zal",
-    "Sal",
+    "ṣal",
     "tíq",
     "né",
     "ni",
@@ -2416,9 +2410,9 @@
    "phonetic": [
     "sàk",
     "zák/q",
-    "had/t/T",
+    "had/t/ṭ",
     "pa",
-    "hás/S"
+    "hás/ṣ"
    ]
   }
  },
@@ -2457,11 +2451,38 @@
  },
  "296": {
   "sign": {
-   "name": "gu4",
+   "name": "gish",
    "sign_number": "296"
   },
   "unicode": "𒄑",
   "unicode_point": "U+12111",
+  "values": {
+   "determinative": [
+    "GIŠ"
+   ],
+   "logograms": [
+    "GIŠ",
+    "SÀG"
+   ],
+   "phonetic": [
+    "iz",
+    "is",
+    "iṣ",
+    "es",
+    "eṣ",
+    "ez",
+    "giš",
+    "níš"
+   ]
+  }
+},
+ "297": {
+  "sign": {
+   "name": "gu4",
+   "sign_number": "297"
+  },
+  "unicode": "𒄞",
+  "unicode_point": "U+1211E",
   "values": {
    "determinative": [
     "GU~4~ before cattle names\n\t\t(see examples)"
@@ -2540,7 +2561,7 @@
    ],
    "phonetic": [
     "tùk/q",
-    "lud/t/T",
+    "lud/t/ṭ",
     "lud",
     "dug/k/q"
    ]
@@ -2591,10 +2612,10 @@
    ],
    "phonetic": [
     "lí",
-    "mis/S",
+    "mis/ṣ",
     "miš",
     "mèš",
-    "rid/t/T",
+    "rid/t/ṭ",
     "shid\n\t     mes"
    ]
   }
@@ -2781,7 +2802,6 @@
     "RA"
    ],
    "phonetic": [
-    "ra\n\t      ra",
     "ra"
    ]
   }
@@ -2833,11 +2853,11 @@
     "ŠEŠ"
    ],
    "phonetic": [
-    "šiS/z",
+    "šiṣ/z",
     "áha",
     "áh",
     "šiš",
-    "šas/S",
+    "šas/ṣ",
     "sis/š",
     "šaš"
    ]
@@ -3007,7 +3027,6 @@
     ""
    ],
    "phonetic": [
-    "",
     "ma",
     "wa~6~"
    ]
@@ -3208,14 +3227,14 @@
     "KUR"
    ],
    "phonetic": [
-    "mad/t/T",
+    "mad/t/ṭ",
     "KUR.KUR",
     "nad/t",
-    "lad/t/T",
+    "lad/t/ṭ",
     "gìn",
     "kur",
     "sad/t",
-    "šad/t/T",
+    "šad/t/ṭ",
     "qúr",
     "kìn"
    ]
@@ -3268,8 +3287,7 @@
   "unicode_point": "U+122BA & U+12137",
   "values": {
    "phonetic": [
-    "us/S/z",
-    "us\n\t     uz"
+    "us/ṣ/z"
    ]
   }
  },
@@ -3287,7 +3305,7 @@
    ],
    "phonetic": [
     "sir",
-    "š ud/t/T"
+    "šud/t/ṭ"
    ]
   }
  },
@@ -3305,7 +3323,7 @@
    "phonetic": [
     "zìr",
     "muš",
-    "Sir"
+    "ṣir"
    ]
   }
  },
@@ -3322,7 +3340,7 @@
    ],
    "phonetic": [
     "tir",
-    "Tir~5~"
+    "ṭir~5~"
    ]
   }
  },
@@ -3339,10 +3357,10 @@
    ],
    "phonetic": [
     "de~4~",
-    "Te~4~",
+    "ṭe~4~",
     "te",
     "ti~7~",
-    "Ti~4~"
+    "ṭi~4~"
    ]
   }
  },
@@ -3393,15 +3411,14 @@
     "BABBAR"
    ],
    "phonetic": [
-    "",
     "u~4~",
     "pir",
     "hiš",
     "par",
     "bír",
-    "Tam",
+    "ṭam",
     "tam",
-    "ud/t/T",
+    "ud/t/ṭ",
     "lih",
     "lah",
     "tú",
@@ -3496,7 +3513,7 @@
    "phonetic": [
     "par~5~",
     "pír",
-    "Sab/p",
+    "ṣab/p",
     "bìr",
     "zab/p"
    ]
@@ -3528,7 +3545,7 @@
     ""
    ],
    "phonetic": [
-    "Sib/p",
+    "ṣib/p",
     "zib/p",
     "sip"
    ]
@@ -3548,12 +3565,12 @@
    "phonetic": [
     "sár",
     "šár",
-    "Tí",
-    "Té",
+    "ṭí",
+    "ṭé",
     "dí",
     "hi",
     "he",
-    "Tà"
+    "ṭà"
    ]
   }
  },
@@ -3724,7 +3741,7 @@
    ],
    "phonetic": [
     "li~8~",
-    "lid/t/T",
+    "lid/t/ṭ",
     "le~8~",
     "áp",
     "rím",
@@ -3764,7 +3781,7 @@
    "phonetic": [
     "mi",
     "mé",
-    "Síl"
+    "ṣíl"
    ]
   }
  },
@@ -3878,7 +3895,7 @@
     "AMAR"
    ],
    "phonetic": [
-    "Sur",
+    "ṣur",
     "zur"
    ]
   }
@@ -3928,7 +3945,7 @@
    "phonetic": [
     "dím",
     "gim",
-    "Tim",
+    "ṭim",
     "kim",
     "qim"
    ]
@@ -4097,7 +4114,7 @@
     "di",
     "de",
     "te",
-    "Ti"
+    "ṭi"
    ]
   }
  },
@@ -4279,7 +4296,7 @@
    ],
    "phonetic": [
     "dáš",
-    "Tiš",
+    "ṭiš",
     "gì",
     "diš",
     "táš",
@@ -4389,7 +4406,7 @@
    ],
    "phonetic": [
     "zar",
-    "Sar"
+    "ṣar"
    ]
   }
  },
@@ -4540,9 +4557,8 @@
     "DIB"
    ],
    "phonetic": [
-    "Tib/p",
+    "ṭib/p",
     "dib/p",
-    "lu\n\t    (The first vertical stroke is difficult to see)",
     "dab/p",
     "lu"
    ]
@@ -4679,8 +4695,8 @@
    "phonetic": [
     "ríg/k/q",
     "súm",
-    "Su",
-    "Sum",
+    "ṣu",
+    "ṣum",
     "zum"
    ]
   }
@@ -4717,9 +4733,9 @@
     ""
    ],
    "phonetic": [
-    "Ta~4~",
+    "ṭa~4~",
     "dam",
-    "Tam",
+    "ṭam",
     "da~4~",
     "tám"
    ]
@@ -4947,11 +4963,11 @@
    ],
    "phonetic": [
     "taš",
-    "ís/S/š",
+    "ís/ṣ/š",
     "ur",
     "tas",
     "lig/k/q",
-    "tas/S/z",
+    "tas/ṣ/z",
     "daš",
     "téš"
    ]
@@ -5016,7 +5032,7 @@
    ],
    "phonetic": [
     "sà",
-    "Sa",
+    "ṣa",
     "za"
    ]
   }
@@ -5085,7 +5101,7 @@
     "TÙN"
    ],
    "phonetic": [
-    "Tu",
+    "ṭu",
     "puš~4~"
    ]
   }
