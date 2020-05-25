@@ -252,11 +252,7 @@
   "unicode": "𒅗",
   "unicode_point": "U+12157",
   "values": {
-   "Additional": [
-    "phonetic",
-    "old \n\t\tqà"
-   ],
-   "logograms": [
+   "sumerian": [
     "KA \n\t    \t pû \n\t    \t `mouth' \n\t    \n\t    \tDUG~4~",
     "DU~11~\n\t    \t qabû\n\t    \t `to speak' \n\t    \t\n\t    \t\tGÙ\n\t\t\tšasû\n\t\t \t`to shout'",
     "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \tawätumamätu \t    \t\n\t    \t \t`word'",
@@ -264,7 +260,26 @@
     "`order'",
     "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiṣru\n\t    \t\tkiṣaru\n\t    \t\t`knot'; `multitude'"
    ],
-   "phonetic": []
+   "Additional": [
+    "phonetic",
+    "old \n\t\tqà"
+   ],
+   "logograms": [
+    "KA",
+    "DUG~4~",
+    "GÙ",
+    "INIM",
+    "ZÚ"
+   ],
+   "phonetic": [
+    "ka",
+    "pi~7~",
+    "zib~4~",
+    "iš~5~",
+    "zú",
+    "su~11~",
+    "du~11~"
+   ]
   }
  },
  "017": {
@@ -636,6 +651,25 @@
     "bad/t/ṭ",
     "be",
     "ub/p"
+   ]
+  }
+ },
+ "068": {
+  "sign": {
+   "name": "ru",
+   "sign_number": "068"
+  },
+  "unicode": "𒊒",
+  "unicode_point": "U+12292",
+  "values": {
+   "logograms": [
+    "ŠUB",
+    "RU"
+   ],
+   "phonetic": [
+    "ru",
+    "šub",
+    "šup"
    ]
   }
  },
@@ -1409,9 +1443,9 @@
     "AB"
    ],
    "phonetic": [
-    "ìs/ṣ/z)",
+    "ìs/ṣ/z",
     "èš",
-    "(ès/ṣ/z",
+    "ès/ṣ/z",
     "ab/p"
    ]
   }
@@ -1550,7 +1584,7 @@
    "phonetic": [
     "ṭá",
     "ta",
-    "ta\n\t    (one of the small horizontals is hided in the thick horizontal stroke)"
+    "dá"
    ]
   }
  },
@@ -2635,11 +2669,9 @@
     "Ú"
    ],
    "phonetic": [
-    "ú\n\t      ú",
     "ú",
     "šam",
-    "sam",
-    "'u&aucute"
+    "sam"
    ]
   }
  },
