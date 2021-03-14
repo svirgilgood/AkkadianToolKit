@@ -1,6 +1,6 @@
 #!/usr/bin/env python3 
 
-CONSENANTS = {'ʾ', 'b',
+CONSONANTS = {'ʾ', 'b',
         'd', 'g', 'ḫ', 
         'y', 'k', 'ḳ', 'l', 
         'm', 'n', 'p', 
@@ -23,8 +23,9 @@ VOWELDICT = {'a': ['ā', 'á', 'à', 'â'],
         'o': ['ō', 'ô'],
         'u': ['ū', 'ú', 'ù', 'û']}
 
-VOWELTRANS = vowel_translator()
-VT = str.maketrans(VOWELTRANS)
+DENTALS = {'d', 't', 'ṭ'}
+
+SIBILANTS = {'s', 'ṣ', 'š', 'z'}
 
 
 def vowel_translator():
@@ -36,35 +37,67 @@ def vowel_translator():
     return voweltrans
 
 
+VOWELTRANS = vowel_translator()
+VT = str.maketrans(VOWELTRANS)
+'''
+#Possible Replacement:
+import unicodedata as ud
+VOWELS = set('aeiou')
+'''
+
+
+def remove_vowel_diacritics(string):
+    stripped = ''
+    for c in string:
+        decomp = ud.normalize('NFD', c)
+        if decomp[0] in VOWELS:
+            stripped += decomp[0]
+        else:
+            stripped += c
+    return stripped 
+
+
 class AkkWord:
     def __init__(self, word):
         self.word = word
-        self.signs = self.sign_split(word)
-        self.syllables = self.__syllabifier(self.signs)
 
-
-    def sign_split(self, word):
-        return word.split('-')
+    @property
+    def signs(self):
+        return self.word.split('-')
     
-
-    def __syllabifier(self, signs):
-        sign_dict = {k:v.translate(VT) for k, v in enumerate(signs)}
-        syllable_list = [[sign_dict[0]]]
+    @property
+    def syllables(self):
+        #sign_dict = {k:v.translate(VT) for k, v in enumerate(signs)}
+        #syllable_list = [[sign_dict[0]]]
+        '''
         for i in range(1,len(signs)):
-            if sign_dict[i][0] in CONSENANTS:
+            if sign_dict[i][0] in CONSONANTS:
                 syllable_list.append([sign_dict[i]])
             elif sign_dict[i][0] == sign_dict[i-1][-1]:
                 syllable_list[-1].append(sign_dict[i])
             else:
                 syllable_list.append(['ʾ'+sign_dict[i]])
+        '''
+        signs = [x.translate(VT) for x in self.signs]
+        syllable_list = [[signs[0].translate(VT)]]
+        for i in range(1,len(signs)):
+            sign = signs[i].translate(VT)
+            if sign[0] in CONSONANTS:
+                syllable_list.append([sign])
+            elif sign[0] == signs[i-1][-1]:
+                syllable_list[-1].append(sign)
+            else:
+                syllable_list.append(['ʾ'+sign])
 
         return syllable_list
 
-
     '''
+    @property 
+    def parsings(self):
+
+    @property 
+    def 
     def extract_root(self, syllables):
         for 
     '''
-
-
 

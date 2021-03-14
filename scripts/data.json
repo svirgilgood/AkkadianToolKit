@@ -1,0 +1,5034 @@
+{
+  "001": {
+    "sign": {
+      "name": "ash",
+      "sign_number": "001"
+    },
+    "values": {
+      "logograms": [
+        "AŠ",
+        "DILI"
+      ],
+      "new": [
+        "dil",
+        "Til",
+        "ina",
+        "in~6~"
+      ],
+      "phonetic": [
+        "aš",
+        "rum",
+        "rù"
+      ]
+    }
+  },
+  "002": {
+    "sign": {
+      "name": "hal",
+      "sign_number": "002"
+    },
+    "values": {
+      "phonetic": [
+        "hal"
+      ]
+    }
+  },
+  "003": {
+    "sign": {
+      "name": "mug",
+      "sign_number": "003"
+    },
+    "values": {
+      "phonetic, new": [
+        "mug",
+        "muk",
+        "muq"
+      ]
+    }
+  },
+  "004": {
+    "sign": {
+      "name": "zadim",
+      "sign_number": "004"
+    },
+    "values": {
+      "logogram": [
+        "ZADIM"
+      ]
+    }
+  },
+  "005": {
+    "sign": {
+      "name": "ba",
+      "sign_number": "005"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ba"
+      ],
+      "phonetic": [
+        "ba",
+        "(pá)"
+      ]
+    }
+  },
+  "006": {
+    "sign": {
+      "name": "zu",
+      "sign_number": "006"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "zu"
+      ],
+      "logograms": [
+        "AŠ",
+        "DILI"
+      ],
+      "phonetic": [
+        "zu",
+        "(Sú)"
+      ],
+      "phonetic, old": [
+        "sú",
+        "Sú"
+      ]
+    }
+  },
+  "007": {
+    "sign": {
+      "name": "su",
+      "sign_number": "007"
+    },
+    "values": {
+      "determinative": [
+        "KUŠ\n\t\tbefore lether items\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        "su"
+      ],
+      "logograms": [
+        "KUŠ"
+      ],
+      "phonetic": [
+        "su (mostly new)"
+      ],
+      "phonetic, new": [
+        "kuS",
+        "kuz",
+        "kuš",
+        "guš"
+      ]
+    }
+  },
+  "008": {
+    "sign": {
+      "name": "shun",
+      "sign_number": "008"
+    },
+    "values": {
+      "phonetic, new": [
+        "šun",
+        "šin",
+        "rug",
+        "ruk",
+        "ruq"
+      ]
+    }
+  },
+  "009": {
+    "sign": {
+      "name": "bal",
+      "sign_number": "009"
+    },
+    "values": {
+      "logogram": [
+        "BAL",
+        "BALA"
+      ],
+      "phonetic": [
+        "bal",
+        "pal"
+      ]
+    }
+  },
+  "010": {
+    "sign": {
+      "name": "ad2",
+      "sign_number": "010"
+    },
+    "values": {
+      "phonetic, new": [
+        "ád/t/T; gír"
+      ]
+    }
+  },
+  "011": {
+    "sign": {
+      "name": "bul2",
+      "sign_number": "011"
+    },
+    "values": {
+      "phonetic, Ass. new": [
+        "búl",
+        "púl"
+      ]
+    }
+  },
+  "012": {
+    "sign": {
+      "name": "tar",
+      "sign_number": "012"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "tar\n\t     (the diagonal stroke is often rather horizontal)"
+      ],
+      "logogram": [
+        "SILA"
+      ],
+      "phonetic": [
+        "tar",
+        "Tar"
+      ],
+      "phonetic, new": [
+        "tara",
+        "tír",
+        "Tír\n\t\tkud/t",
+        "qud/t",
+        "has/S/z/š",
+        "šil",
+        "sil"
+      ]
+    }
+  },
+  "013": {
+    "sign": {
+      "name": "an",
+      "sign_number": "013"
+    },
+    "values": {
+      "Additional": [
+        "DINGIR.MEŠ\n\t\t (MEŠ is plurial sign)\n\t\t ilü '(the) gods'"
+      ],
+      "determinative": [
+        "before deities and demons",
+        "transcribed as ^d^ for dingir\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logogram": [
+        "AN",
+        "DINGIR"
+      ],
+      "phonetic": [
+        "an",
+        "(ìl",
+        "in words related to \n\t\tilum `god')"
+      ],
+      "phonetic, old": [
+        "èl"
+      ]
+    }
+  },
+  "014": {
+    "sign": {
+      "name": "ashshur",
+      "sign_number": "014"
+    },
+    "values": {}
+  },
+  "015": {
+    "sign": {
+      "name": "ka",
+      "sign_number": "015"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "old \n\t\tqà"
+      ],
+      "logograms": [
+        "KA \n\t    \t pû \n\t    \t `mouth' \n\t    \n\t    \tDUG~4~",
+        "DU~11~\n\t    \t qabû\n\t    \t `to speak' \n\t    \t\n\t    \t\tGÙ\n\t\t\tšasû\n\t\t \t`to shout'",
+        "`to proclaim' \t    \n\t    \t\n\t    \t\tINIM\n\t    \t \tawätumamätu \t    \t\n\t    \t \t`word'",
+        "`message'",
+        "`order'",
+        "`decision'\n\t    \t\n\t    \t\tZÚ\n\t    \t \tšinnu\n\t    \t\t`tooth' \n\t    \t\n\t    \t\t\n\t    \t\tKA.KEšDA\n\t    \t \tkiSru\n\t    \t\tkiSaru\n\t    \t\t`knot'; `multitude'"
+      ]
+    }
+  },
+  "017": {
+    "sign": {
+      "name": "ush11",
+      "sign_number": "017"
+    },
+    "values": {
+      "composition": [
+        "U~11~ = KA x BAD"
+      ],
+      "logograms": [
+        "U~11~"
+      ]
+    }
+  },
+  "018": {
+    "sign": {
+      "name": "numdum",
+      "sign_number": "018"
+    },
+    "values": {
+      "composition": [
+        "NUMDUM = KA x NUN"
+      ],
+      "logograms": [
+        "NUMDUM"
+      ]
+    }
+  },
+  "035": {
+    "sign": {
+      "name": "nag",
+      "sign_number": "035"
+    },
+    "values": {
+      "composition": [
+        "NAG = KA x A"
+      ],
+      "logograms": [
+        "NAG",
+        "NA~8~"
+      ],
+      "phonetic, new": [
+        "kag/k/q"
+      ]
+    }
+  },
+  "036": {
+    "sign": {
+      "name": "ku2",
+      "sign_number": "036"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "Bab. new::"
+      ],
+      "composition": [
+        "KA x NÍG = 'mouth' x `bread'"
+      ],
+      "logograms": [
+        "GU~7~\n\t    \n\t    \n\t    \t  \n\t    \t\tKÚ\n\t    \t\takälu  \n\t    \t \t`to eat'"
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "039": {
+    "sign": {
+      "name": "uru",
+      "sign_number": "039"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "Bab. new:: \n\t\trí",
+        "ré",
+        "ir~4~",
+        "er~4~"
+      ],
+      "determinative": [
+        "URU in front of city names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "URU\n\t    \n\t    \t  \n\t    \t\tURU\n\t    \t\tälu  \n\t    \t \t`city'"
+      ],
+      "phonetic": [
+        "iri",
+        "eri",
+        "ere"
+      ]
+    }
+  },
+  "040": {
+    "sign": {
+      "name": "ukkin",
+      "sign_number": "040"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "Ass. new:\n\t\t: sùk"
+      ],
+      "composition": [
+        "= URU x NÍG"
+      ],
+      "logograms": [
+        "ÌR",
+        "ARAD\n\t    \n\t    \t ARAD  \n\t    \t\tÌR\n\t    \t\twardu  \n\t    \t \t`slave'"
+      ],
+      "phonetic": [
+        "ìr",
+        "èr"
+      ],
+      "phonetic, new": [
+        "qàl"
+      ]
+    }
+  },
+  "052": {
+    "sign": {
+      "name": "iti",
+      "sign_number": "052"
+    },
+    "values": {
+      "determinative": [
+        "in front of names of the month"
+      ],
+      "logograms": [
+        "ITI",
+        "UTU\n\t    \n\t    \t  \n\t    \t\tITU\n\t    \t\t(w)arhu  \n\t    \t \t`month'"
+      ],
+      "phonetic": [
+        "(iti",
+        "itu)"
+      ]
+    }
+  },
+  "053": {
+    "sign": {
+      "name": "shubur",
+      "sign_number": "053"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ah"
+      ],
+      "logograms": [
+        "AH",
+        "UBUR\n\t    \n\t    \t   \n\t    \t\tAH\n\t    \t\tahû  \n\t    \t \t`pig'"
+      ],
+      "phonetic, new": [
+        "ah",
+        "ih",
+        "úh",
+        "sih"
+      ]
+    }
+  },
+  "054": {
+    "sign": {
+      "name": "buru14",
+      "sign_number": "054"
+    },
+    "values": {
+      "logograms": [
+        "BUR~14~",
+        "BURU~14~"
+      ]
+    }
+  },
+  "055": {
+    "sign": {
+      "name": "la",
+      "sign_number": "055"
+    },
+    "values": {
+      "phonetic": [
+        "la"
+      ]
+    }
+  },
+  "056": {
+    "sign": {
+      "name": "pin",
+      "sign_number": "056"
+    },
+    "values": {
+      "phonetic, Ass. new": [
+        "pin"
+      ]
+    }
+  },
+  "057": {
+    "sign": {
+      "name": "pah",
+      "sign_number": "057"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "058": {
+    "sign": {
+      "name": "tu",
+      "sign_number": "058"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "mostly old\n\t\tTú"
+      ],
+      "examples in New Assyrian orthography": [
+        "tu"
+      ],
+      "logograms": [
+        "KU~4~\n\t    \n\t    \t  \n\t    \t\tKU~4~\n\t    \t\terëbu  \n\t    \t \t`to enter'"
+      ],
+      "phonetic": [
+        "tu"
+      ]
+    }
+  },
+  "059": {
+    "sign": {
+      "name": "ti",
+      "sign_number": "059"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "060": {
+    "sign": {
+      "name": "pap",
+      "sign_number": "060"
+    },
+    "values": {
+      "Additional": [
+        "phonetic:",
+        "new:\n\t\tia~5~"
+      ],
+      "examples in New Assyrian orthography": [
+        "mu"
+      ],
+      "logograms": [
+        "MU\n\t    \n\t    \t  \n\t    \t\tMU\n\t    \t\tšumu  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzakäru  \n\t    \t \t`to speak' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzikru  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tšattu  \n\t    \t \t`year'",
+        "`harvest time' \n\t    \t\n\t    \t\t\n\t    \t\t  \n\t    \t\tMU.AN.NA\n\t    \t\tšattu  \n\t    \t \t`year'",
+        "`harvest time'"
+      ],
+      "phonetic": [
+        "mu"
+      ],
+      "phonetic, new": [
+        "pap",
+        "bab/p",
+        "kúr"
+      ]
+    }
+  },
+  "062": {
+    "sign": {
+      "name": "qa",
+      "sign_number": "062"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "qa"
+      ],
+      "logograms": [
+        "SÌLA\n\t    \n\t    \t  \n\t    \t\tSÌLA\n\t    \t\tqû  \n\t    \t \t(a measure of capacity",
+        "about 1 liter)'"
+      ],
+      "phonetic": [
+        "qa"
+      ]
+    }
+  },
+  "063": {
+    "sign": {
+      "name": "kad2",
+      "sign_number": "063"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "kád/t",
+        "gát",
+        "šíd"
+      ]
+    }
+  },
+  "063c": {
+    "sign": {
+      "name": "kad3",
+      "sign_number": "063c"
+    },
+    "values": {
+      "Additional": [
+        "phonetic",
+        "new: \n\t\tpát/T",
+        "bít",
+        "pít",
+        "mid/t/T",
+        "til",
+        "zis",
+        "ziz",
+        "sun",
+        "Ass.: qìt"
+      ],
+      "examples in New Assyrian orthography": [
+        "bad\n\t      bad"
+      ],
+      "logograms": [
+        "BAD",
+        "IDIM",
+        "SUN",
+        "SUMUN",
+        "ÚŠ"
+      ],
+      "phonetic": [
+        "be",
+        "bad/t/T"
+      ],
+      "phonetic, new": [
+        "ub/p"
+      ]
+    }
+  },
+  "070": {
+    "sign": {
+      "name": "na",
+      "sign_number": "070"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "na"
+      ],
+      "logograms": [
+        "NA\n\t    \n\t    \t  \n\t    \t\t\n\t    \t\t\t  \n\t    \t \t` '"
+      ],
+      "phonetic": [
+        "na"
+      ]
+    }
+  },
+  "071": {
+    "sign": {
+      "name": "shir",
+      "sign_number": "071"
+    },
+    "values": {
+      "phonetic, new": [
+        "šir"
+      ]
+    }
+  },
+  "072": {
+    "sign": {
+      "name": "numun",
+      "sign_number": "072"
+    },
+    "values": {
+      "logograms": [
+        "NUMUN \n\t    \t\t(also šE.MUNUN) \n\t    \t\tzëu  \n\t    \t \t`seed'"
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "073": {
+    "sign": {
+      "name": "ti",
+      "sign_number": "073"
+    },
+    "values": {
+      "Additional": [
+        "Sign is derived from a pictogram for an arrow",
+        "Sum. ti\n\t\t`arrow'",
+        "but also `to live'"
+      ],
+      "examples in New Assyrian orthography": [
+        "ti"
+      ],
+      "logograms": [
+        "TI"
+      ],
+      "phonetic": [
+        "ti",
+        "(te~9~",
+        "Te~6~)"
+      ],
+      "phonetic, old": [
+        "Tì",
+        "dì"
+      ]
+    }
+  },
+  "074": {
+    "sign": {
+      "name": "mash",
+      "sign_number": "074"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "maš"
+      ],
+      "phonetic, new": [
+        "mas",
+        "maS"
+      ]
+    }
+  },
+  "075": {
+    "sign": {
+      "name": "nu",
+      "sign_number": "075"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "nu"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "nu"
+      ],
+      "phonetic, new": [
+        "là"
+      ]
+    }
+  },
+  "076": {
+    "sign": {
+      "name": "mash2",
+      "sign_number": "076"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "máš"
+      ],
+      "phonetic, bab.": [
+        "kun~8~"
+      ]
+    }
+  },
+  "077": {
+    "sign": {
+      "name": "kun",
+      "sign_number": "077"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "kun"
+      ]
+    }
+  },
+  "078": {
+    "sign": {
+      "name": "hu",
+      "sign_number": "078"
+    },
+    "values": {
+      "determinative": [
+        "MUŠEN\n\t\tafter bird names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "MUŠEN"
+      ],
+      "phonetic": [
+        "hu"
+      ],
+      "phonetic, new": [
+        "pag/k/q",
+        "bak/q",
+        "bah"
+      ]
+    }
+  },
+  "079": {
+    "sign": {
+      "name": "nam",
+      "sign_number": "079"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "NAM"
+      ],
+      "logograms": [
+        "NAM"
+      ],
+      "phonetic": [
+        "nam",
+        "(bir~5~)"
+      ],
+      "phonetic, new": [
+        "sim",
+        "sín"
+      ]
+    }
+  },
+  "080": {
+    "sign": {
+      "name": "ig",
+      "sign_number": "080"
+    },
+    "values": {
+      "logograms": [
+        "GÁL"
+      ],
+      "phonetic": [
+        "ig/k/q",
+        "eg/k/q"
+      ],
+      "phonetic, new": [
+        "gál"
+      ]
+    }
+  },
+  "081": {
+    "sign": {
+      "name": "mud",
+      "sign_number": "081"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "mut"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "mud/t/T"
+      ]
+    }
+  },
+  "083": {
+    "sign": {
+      "name": "rad",
+      "sign_number": "083"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "rad/t/T",
+        "rud/t/T"
+      ]
+    }
+  },
+  "084": {
+    "sign": {
+      "name": "zi",
+      "sign_number": "084"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "zi\n\t     zi"
+      ],
+      "logograms": [
+        "ZI"
+      ],
+      "phonetic": [
+        "zi",
+        "ze"
+      ],
+      "phonetic, old": [
+        "sí",
+        "sé Sí",
+        "Sé"
+      ]
+    }
+  },
+  "085": {
+    "sign": {
+      "name": "gi",
+      "sign_number": "085"
+    },
+    "values": {
+      "Additional": [
+        "sign is derived from a pictogram of reed; Sum. gi is\n\t\t`reed'"
+      ],
+      "logograms": [
+        "GI"
+      ],
+      "phonetic": [
+        "gi",
+        "ge"
+      ],
+      "phonetic, old": [
+        "qì",
+        "qè"
+      ]
+    }
+  },
+  "086": {
+    "sign": {
+      "name": "ri",
+      "sign_number": "086"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "tal"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ri",
+        "re"
+      ],
+      "phonetic, new": [
+        "dal",
+        "tal",
+        "Tal",
+        "tala"
+      ]
+    }
+  },
+  "087": {
+    "sign": {
+      "name": "nun",
+      "sign_number": "087"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "nun"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "nun"
+      ],
+      "phonetic, new": [
+        "zil",
+        "Sil",
+        "síl"
+      ]
+    }
+  },
+  "088": {
+    "sign": {
+      "name": "kab",
+      "sign_number": "088"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "kab"
+      ],
+      "phonetic": [
+        "kab/p; (gáb/p)"
+      ],
+      "phonetic, new": [
+        "qáb/p"
+      ]
+    }
+  },
+  "090": {
+    "sign": {
+      "name": "gat",
+      "sign_number": "090"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "gat",
+        "qàd/t",
+        "kad/t"
+      ]
+    }
+  },
+  "094": {
+    "sign": {
+      "name": "dim",
+      "sign_number": "094"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dim",
+        "tim",
+        "Tim"
+      ],
+      "phonetic, new": [
+        "tì"
+      ]
+    }
+  },
+  "095": {
+    "sign": {
+      "name": "mun",
+      "sign_number": "095"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "096": {
+    "sign": {
+      "name": "bulug",
+      "sign_number": "096"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "097": {
+    "sign": {
+      "name": "ag",
+      "sign_number": "097"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ag/k/q",
+        ""
+      ]
+    }
+  },
+  "098": {
+    "sign": {
+      "name": "me3",
+      "sign_number": "098"
+    },
+    "values": {
+      "logograms": [
+        "MÈ"
+      ],
+      "phonetic": [
+        "mè"
+      ]
+    }
+  },
+  "099": {
+    "sign": {
+      "name": "en",
+      "sign_number": "099"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "(verticals only recognizable from the heads)\n\t\n\tIn ligature with \n\tdingir EN is often written like\n\t\n\t\n\t\tdingir.en\n\t\n\t\tdingir.en"
+      ],
+      "logograms": [
+        "EN"
+      ],
+      "phonetic": [
+        "en",
+        "(in~4~)"
+      ]
+    }
+  },
+  "101": {
+    "sign": {
+      "name": "sur",
+      "sign_number": "101"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "šur"
+      ],
+      "phonetic, new": [
+        "sur"
+      ]
+    }
+  },
+  "102": {
+    "sign": {
+      "name": "mush2",
+      "sign_number": "102"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "103": {
+    "sign": {
+      "name": "inanna",
+      "sign_number": "103"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "104": {
+    "sign": {
+      "name": "sa",
+      "sign_number": "104"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "sa"
+      ],
+      "logograms": [
+        "SA"
+      ],
+      "phonetic": [
+        "sa"
+      ]
+    }
+  },
+  "105": {
+    "sign": {
+      "name": "gan2",
+      "sign_number": "105"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "gán",
+        "kán"
+      ],
+      "phonetic, new": [
+        "kár",
+        "kára"
+      ]
+    }
+  },
+  "106": {
+    "sign": {
+      "name": "gu2",
+      "sign_number": "106"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "gú"
+      ],
+      "phonetic, new": [
+        "tik/q"
+      ]
+    }
+  },
+  "107": {
+    "sign": {
+      "name": "usan",
+      "sign_number": "107"
+    },
+    "values": {
+      "logograms": [
+        "USAN"
+      ]
+    }
+  },
+  "108": {
+    "sign": {
+      "name": "dur",
+      "sign_number": "108"
+    },
+    "values": {
+      "logograms": [
+        "GUN"
+      ],
+      "phonetic": [
+        "dur",
+        "Tur",
+        "tú"
+      ],
+      "phonetic, new": [
+        "biltu"
+      ]
+    }
+  },
+  "109": {
+    "sign": {
+      "name": "lal3",
+      "sign_number": "109"
+    },
+    "values": {
+      "composition": [
+        "= TA x HI"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "làl"
+      ]
+    }
+  },
+  "110": {
+    "sign": {
+      "name": "ku7",
+      "sign_number": "110"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "111": {
+    "sign": {
+      "name": "gur",
+      "sign_number": "111"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "qur"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "gur"
+      ],
+      "phonetic, new": [
+        "qur"
+      ]
+    }
+  },
+  "112": {
+    "sign": {
+      "name": "si",
+      "sign_number": "112"
+    },
+    "values": {
+      "logograms": [
+        "SI"
+      ],
+      "phonetic": [
+        "si",
+        "se"
+      ],
+      "phonetic, Ass. old": [
+        "ší",
+        "Sì"
+      ]
+    }
+  },
+  "114": {
+    "sign": {
+      "name": "dar",
+      "sign_number": "114"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dar",
+        "tár",
+        "(Tár)"
+      ],
+      "phonetic, new": [
+        "dír"
+      ]
+    }
+  },
+  "115": {
+    "sign": {
+      "name": "sag",
+      "sign_number": "115"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "SAG\n\t     \n\t    \triš"
+      ],
+      "logograms": [
+        "SAG"
+      ],
+      "phonetic": [
+        "sag/k/q"
+      ],
+      "phonetic, new": [
+        "šag/k/q",
+        "ris/š",
+        "reS/š"
+      ]
+    }
+  },
+  "122": {
+    "sign": {
+      "name": "ma2",
+      "sign_number": "122"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "má"
+      ]
+    }
+  },
+  "123": {
+    "sign": {
+      "name": "dir",
+      "sign_number": "123"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "dir",
+        "Tir",
+        "mál",
+        "sa~5~"
+      ]
+    }
+  },
+  "124": {
+    "sign": {
+      "name": "tab",
+      "sign_number": "124"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "tab/p",
+        "Tab/p"
+      ],
+      "phonetic, new": [
+        "dáb/p"
+      ]
+    }
+  },
+  "126": {
+    "sign": {
+      "name": "tag",
+      "sign_number": "126"
+    },
+    "values": {
+      "logograms": [
+        "TAG"
+      ],
+      "phonetic": [
+        "šum"
+      ],
+      "phonetic, new": [
+        "tag/k/q",
+        "tà",
+        "šu~14~"
+      ]
+    }
+  },
+  "128": {
+    "sign": {
+      "name": "ab",
+      "sign_number": "128"
+    },
+    "values": {
+      "logograms": [
+        "AB"
+      ],
+      "phonetic": [
+        "ab/p",
+        "(ès/S/z",
+        "ìs/S/z)"
+      ],
+      "phonetic, old": [
+        "èš"
+      ]
+    }
+  },
+  "129": {
+    "sign": {
+      "name": "nab",
+      "sign_number": "129"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "nab/p"
+      ]
+    }
+  },
+  "129a": {
+    "sign": {
+      "name": "mul",
+      "sign_number": "129a"
+    },
+    "values": {
+      "determinative": [
+        "MUL before stars and constellations\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "MUL"
+      ],
+      "phonetic, new": [
+        "mul"
+      ]
+    }
+  },
+  "130": {
+    "sign": {
+      "name": "ug",
+      "sign_number": "130"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ug/k/q"
+      ]
+    }
+  },
+  "131": {
+    "sign": {
+      "name": "az",
+      "sign_number": "131"
+    },
+    "values": {
+      "composition": [
+        "= PIRIG x ZA"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "as/S/z"
+      ]
+    }
+  },
+  "133": {
+    "sign": {
+      "name": "ka2",
+      "sign_number": "133"
+    },
+    "values": {
+      "logograms": [
+        "KÁ"
+      ],
+      "phonetic, new": [
+        "ká"
+      ]
+    }
+  },
+  "134": {
+    "sign": {
+      "name": "um",
+      "sign_number": "134"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "um"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "um"
+      ],
+      "phonetic, new": [
+        "díh"
+      ]
+    }
+  },
+  "138": {
+    "sign": {
+      "name": "dub",
+      "sign_number": "138"
+    },
+    "values": {
+      "logograms": [
+        "DUB"
+      ],
+      "phonetic, new": [
+        "dub/p",
+        "Tub/p"
+      ]
+    }
+  },
+  "139": {
+    "sign": {
+      "name": "ta",
+      "sign_number": "139"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ta\n\t    (one of the small horizontals is hided in the thick horizontal stroke)"
+      ],
+      "logograms": [
+        "TA"
+      ],
+      "phonetic": [
+        "ta"
+      ],
+      "phonetic, old": [
+        "Tá"
+      ]
+    }
+  },
+  "142": {
+    "sign": {
+      "name": "i",
+      "sign_number": "142"
+    },
+    "values": {
+      "Additional": [
+        "Sumerian i means `five'",
+        "cf. the five strokes in this sign)"
+      ],
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        "I"
+      ],
+      "phonetic": [
+        "i",
+        "'i"
+      ],
+      "phonetic, Bab. new": [
+        "ná"
+      ]
+    }
+  },
+  "142a": {
+    "sign": {
+      "name": "ia",
+      "sign_number": "142a"
+    },
+    "values": {
+      "composition": [
+        "= I + A"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ia",
+        "also ii",
+        "ie",
+        "iu",
+        "ja",
+        "je ju"
+      ]
+    }
+  },
+  "143": {
+    "sign": {
+      "name": "kam2",
+      "sign_number": "143"
+    },
+    "values": {
+      "logograms": [
+        "KÁM"
+      ],
+      "phonetic": [
+        "kám",
+        "gan"
+      ],
+      "phonetic, new": [
+        "qan",
+        "kan",
+        "hé",
+        "hí",
+        "li~6~\n\t\tin prefix for precative"
+      ]
+    }
+  },
+  "144": {
+    "sign": {
+      "name": "tur",
+      "sign_number": "144"
+    },
+    "values": {
+      "logograms": [
+        "TUR",
+        "DUMU"
+      ]
+    }
+  },
+  "145": {
+    "sign": {
+      "name": "ad",
+      "sign_number": "145"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ad"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ad/t/T"
+      ],
+      "phonetic, new": [
+        "àb/p"
+      ]
+    }
+  },
+  "146": {
+    "sign": {
+      "name": "hashhur",
+      "sign_number": "146"
+    },
+    "values": {
+      "logograms": [
+        "HAŠHUR"
+      ]
+    }
+  },
+  "147": {
+    "sign": {
+      "name": "zi2",
+      "sign_number": "147"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "Si",
+        "Se"
+      ],
+      "phonetic, old": [
+        "zí",
+        "zé",
+        "si~20~",
+        "se~20~"
+      ]
+    }
+  },
+  "148": {
+    "sign": {
+      "name": "in",
+      "sign_number": "148"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "in"
+      ],
+      "phonetic, old": [
+        "en~6~"
+      ]
+    }
+  },
+  "149": {
+    "sign": {
+      "name": "rab",
+      "sign_number": "149"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "rab/p"
+      ]
+    }
+  },
+  "151": {
+    "sign": {
+      "name": "lugal",
+      "sign_number": "151"
+    },
+    "values": {
+      "composition": [
+        "= LÚ + GAL"
+      ],
+      "logograms": [
+        "LUGAL"
+      ],
+      "phonetic": [
+        "šàr"
+      ]
+    }
+  },
+  "152": {
+    "sign": {
+      "name": "ezen",
+      "sign_number": "152"
+    },
+    "values": {
+      "composition": [
+        "BÀD = EZEN x BAD"
+      ],
+      "logograms": [
+        "BÀD"
+      ],
+      "phonetic": [
+        "hir"
+      ],
+      "phonetic, new": [
+        "šìr",
+        "sì"
+      ]
+    }
+  },
+  "164": {
+    "sign": {
+      "name": "sum",
+      "sign_number": "164"
+    },
+    "values": {
+      "logograms": [
+        "SUM",
+        "SUMU",
+        "SÌ"
+      ],
+      "phonetic": [
+        "šúm",
+        "sím",
+        "sì",
+        "sè"
+      ]
+    }
+  },
+  "166": {
+    "sign": {
+      "name": "kaskal",
+      "sign_number": "166"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "raš"
+      ],
+      "logograms": [
+        "KASKAL"
+      ],
+      "phonetic, new": [
+        "kas",
+        "ras/š",
+        "buš",
+        "íš"
+      ]
+    }
+  },
+  "167": {
+    "sign": {
+      "name": "gab",
+      "sign_number": "167"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, Ass. new": [
+        "táh",
+        "Táh"
+      ],
+      "phonetic, new": [
+        "qab/p",
+        "gaba",
+        "tuh",
+        "duh",
+        "du~8~"
+      ]
+    }
+  },
+  "169": {
+    "sign": {
+      "name": "dah",
+      "sign_number": "169"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dah",
+        "tah"
+      ],
+      "phonetic, new": [
+        "Tah"
+      ]
+    }
+  },
+  "170": {
+    "sign": {
+      "name": "am",
+      "sign_number": "170"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "am"
+      ]
+    }
+  },
+  "172": {
+    "sign": {
+      "name": "ne",
+      "sign_number": "172"
+    },
+    "values": {
+      "Additional": [
+        "sign derives from a pictogram of a fireplace and is logogram\n\t\tfor many words relating to `heat'"
+      ],
+      "logograms": [
+        "IZI",
+        "KÚM",
+        "BIL"
+      ],
+      "phonetic": [
+        "ne",
+        "dè",
+        "bil",
+        "pil",
+        "bí",
+        "pi~5~",
+        "pe~5~"
+      ],
+      "phonetic, Bab. new": [
+        "Sah",
+        "Séh"
+      ],
+      "phonetic, new": [
+        "Tà",
+        "Ti~5~",
+        "kúm"
+      ]
+    }
+  },
+  "173": {
+    "sign": {
+      "name": "bil2",
+      "sign_number": "173"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "181": {
+    "sign": {
+      "name": "azu",
+      "sign_number": "181"
+    },
+    "values": {
+      "logograms": [
+        "AZU",
+        "ÚZU"
+      ]
+    }
+  },
+  "183": {
+    "sign": {
+      "name": "ram",
+      "sign_number": "183"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "ram",
+        "rama in ramänu"
+      ]
+    }
+  },
+  "187": {
+    "sign": {
+      "name": "sham2",
+      "sign_number": "187"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "šám"
+      ]
+    }
+  },
+  "190": {
+    "sign": {
+      "name": "zik",
+      "sign_number": "190"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "zik/q",
+        "zíb",
+        "háš"
+      ]
+    }
+  },
+  "191": {
+    "sign": {
+      "name": "kum",
+      "sign_number": "191"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "qu"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "qu"
+      ],
+      "phonetic, mostly new": [
+        "qu"
+      ],
+      "phonetic, mostly old": [
+        "kum",
+        "qum"
+      ],
+      "phonetic, new": [
+        "kùn"
+      ]
+    }
+  },
+  "195": {
+    "sign": {
+      "name": "unug",
+      "sign_number": "195"
+    },
+    "values": {
+      "logograms": [
+        "UNUG"
+      ],
+      "phonetic": [
+        "unu",
+        "eri~11~"
+      ]
+    }
+  },
+  "201": {
+    "sign": {
+      "name": "suhush",
+      "sign_number": "201"
+    },
+    "values": {
+      "logograms": [
+        "SUHUŠ"
+      ],
+      "phonetic, new": [
+        "kas~5~"
+      ]
+    }
+  },
+  "202": {
+    "sign": {
+      "name": "kash4",
+      "sign_number": "202"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "kaš~4~"
+      ]
+    }
+  },
+  "203": {
+    "sign": {
+      "name": "ur2",
+      "sign_number": "203"
+    },
+    "values": {
+      "logograms": [
+        "ÚR"
+      ],
+      "phonetic": [
+        "úr"
+      ]
+    }
+  },
+  "205": {
+    "sign": {
+      "name": "il",
+      "sign_number": "205"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "il",
+        "él"
+      ]
+    }
+  },
+  "206": {
+    "sign": {
+      "name": "du",
+      "sign_number": "206"
+    },
+    "values": {
+      "Additional": [
+        "examples in New Assyrian orthography:\n\t     du\n\t     logograms:\n\t\tGIN",
+        "GUB",
+        "TÚM"
+      ],
+      "logograms": [
+        "GIN",
+        "GUB",
+        "TÚM"
+      ],
+      "phonetic": [
+        "du",
+        "Tù"
+      ],
+      "phonetic, new": [
+        "gub/p",
+        "qub/p",
+        "kin~7~",
+        "ša~4~"
+      ],
+      "phonetic, old": [
+        "tù"
+      ]
+    }
+  },
+  "207": {
+    "sign": {
+      "name": "tum",
+      "sign_number": "207"
+    },
+    "values": {
+      "phonetic": [
+        "tum",
+        "Tum",
+        "dum",
+        "(íb/p",
+        "éb/p)"
+      ],
+      "phonetic, new": [
+        "tu~4~"
+      ]
+    }
+  },
+  "209": {
+    "sign": {
+      "name": "egir",
+      "sign_number": "209"
+    },
+    "values": {
+      "logograms": [
+        "EGIR"
+      ],
+      "phonetic": [
+        "egir"
+      ]
+    }
+  },
+  "211": {
+    "sign": {
+      "name": "ush",
+      "sign_number": "211"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "uš\n\t     \n\t    uš\n\t     \n\t    uš"
+      ],
+      "logograms": [
+        "NITA"
+      ],
+      "phonetic": [
+        "uš",
+        "ús/S/z"
+      ],
+      "phonetic, new": [
+        "nid/t/T"
+      ]
+    }
+  },
+  "212": {
+    "sign": {
+      "name": "ish",
+      "sign_number": "212"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "iš"
+      ],
+      "logograms": [
+        "NITA"
+      ],
+      "phonetic": [
+        "iš",
+        "eš~15~",
+        "ís/S/z"
+      ],
+      "phonetic, new": [
+        "nid/t/T"
+      ]
+    }
+  },
+  "214": {
+    "sign": {
+      "name": "bi",
+      "sign_number": "214"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "bi\n\t     bi"
+      ],
+      "logograms": [
+        "BI",
+        "KAŠ"
+      ],
+      "phonetic": [
+        "bi",
+        "bé",
+        "pí",
+        "pé",
+        "also\n\t\tkaš"
+      ],
+      "phonetic, new": [
+        "kaš",
+        "kás",
+        "gaš"
+      ]
+    }
+  },
+  "215": {
+    "sign": {
+      "name": "im",
+      "sign_number": "215"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "phonetic": [
+        "šim"
+      ],
+      "phonetic, new": [
+        "rig/k/q"
+      ]
+    }
+  },
+  "226": {
+    "sign": {
+      "name": "gisal",
+      "sign_number": "226"
+    },
+    "values": {
+      "logograms": [
+        "GISAL"
+      ]
+    }
+  },
+  "228": {
+    "sign": {
+      "name": "kib",
+      "sign_number": "228"
+    },
+    "values": {
+      "determinative": [
+        "NA~4~ before stone items\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "NA~4~",
+        "ZÁ"
+      ],
+      "phonetic, Ass. new": [
+        "tàk/q",
+        "dàg/k/q"
+      ],
+      "phonetic, new": [
+        "ia~4~"
+      ],
+      "phonetic, old": [
+        "tur~4~"
+      ]
+    }
+  },
+  "230": {
+    "sign": {
+      "name": "gag",
+      "sign_number": "230"
+    },
+    "values": {
+      "logograms": [
+        "DÙ"
+      ],
+      "phonetic, Bab. new": [
+        "gag"
+      ],
+      "phonetic, new": [
+        "kak/q",
+        "qaqa",
+        "dà",
+        "rú"
+      ]
+    }
+  },
+  "231": {
+    "sign": {
+      "name": "ni",
+      "sign_number": "231"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        "Ì"
+      ],
+      "phonetic": [
+        "ni",
+        "né",
+        "lí",
+        "lé",
+        "ì",
+        "zal"
+      ],
+      "phonetic, new": [
+        "Sal",
+        "dik/q",
+        "tíq"
+      ]
+    }
+  },
+  "232": {
+    "sign": {
+      "name": "ir",
+      "sign_number": "232"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ir",
+        "er"
+      ]
+    }
+  },
+  "233": {
+    "sign": {
+      "name": "ga2",
+      "sign_number": "233"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "gá",
+        "maà",
+        "ba~4~"
+      ],
+      "phonetic, new": [
+        "mal"
+      ]
+    }
+  },
+  "237": {
+    "sign": {
+      "name": "ama",
+      "sign_number": "237"
+    },
+    "values": {
+      "logograms": [
+        "AMA"
+      ]
+    }
+  },
+  "255": {
+    "sign": {
+      "name": "ur3",
+      "sign_number": "255"
+    },
+    "values": {
+      "composition": [
+        "ÙR = GÁ x NIR"
+      ],
+      "logograms": [
+        "ÙR"
+      ],
+      "phonetic, new": [
+        "ùr"
+      ]
+    }
+  },
+  "278": {
+    "sign": {
+      "name": "galga",
+      "sign_number": "278"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ]
+    }
+  },
+  "280": {
+    "sign": {
+      "name": "dag",
+      "sign_number": "280"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dag/k/q",
+        "pàr",
+        "tág/k/q"
+      ]
+    }
+  },
+  "295": {
+    "sign": {
+      "name": "pa",
+      "sign_number": "295"
+    },
+    "values": {
+      "logograms": [
+        "GIDRI",
+        "UGULA",
+        "PA"
+      ],
+      "phonetic": [
+        "pa"
+      ],
+      "phonetic, new": [
+        "had/t/T",
+        "hás/S",
+        "sàk",
+        "zák/q"
+      ]
+    }
+  },
+  "295k": {
+    "sign": {
+      "name": "shab",
+      "sign_number": "295k"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "295m": {
+    "sign": {
+      "name": "sipa",
+      "sign_number": "295m"
+    },
+    "values": {
+      "logograms": [
+        "SIPA"
+      ],
+      "phonetic, new": [
+        "šab~5~",
+        "šap~5~"
+      ]
+    }
+  },
+  "296": {
+    "sign": {
+      "name": "gu4",
+      "sign_number": "296"
+    },
+    "values": {
+      "determinative": [
+        "GU~4~ before cattle names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "GU~4~",
+        "GUD"
+      ],
+      "phonetic": [
+        "(gu~4~)"
+      ]
+    }
+  },
+  "298": {
+    "sign": {
+      "name": "al",
+      "sign_number": "298"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "al"
+      ],
+      "phonetic": [
+        "al"
+      ]
+    }
+  },
+  "306": {
+    "sign": {
+      "name": "ub",
+      "sign_number": "306"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "up"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ub/p"
+      ],
+      "phonetic, new": [
+        "ár"
+      ]
+    }
+  },
+  "308": {
+    "sign": {
+      "name": "e",
+      "sign_number": "308"
+    },
+    "values": {
+      "Additional": [
+        "e\n\t     e"
+      ],
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "phonetic": [
+        "e",
+        "'e"
+      ]
+    }
+  },
+  "309": {
+    "sign": {
+      "name": "dug",
+      "sign_number": "309"
+    },
+    "values": {
+      "determinative": [
+        "DUG before pottery and items made from clay\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        "lud"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "dug/k/q",
+        "lud/t/T",
+        "tùk/q"
+      ]
+    }
+  },
+  "310": {
+    "sign": {
+      "name": "gurun",
+      "sign_number": "310"
+    },
+    "values": {
+      "logograms": [
+        "GURUN",
+        "UG"
+      ]
+    }
+  },
+  "312": {
+    "sign": {
+      "name": "un",
+      "sign_number": "312"
+    },
+    "values": {
+      "logograms": [
+        "KALAM"
+      ],
+      "phonetic": [
+        "un"
+      ]
+    }
+  },
+  "313": {
+    "sign": {
+      "name": "lil2",
+      "sign_number": "313"
+    },
+    "values": {
+      "Additional": [
+        "líl\n\t      líl"
+      ],
+      "examples in New Assyrian orthography": [
+        "shid\n\t     mes"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "lí"
+      ],
+      "phonetic, new": [
+        "rid/t/T",
+        "mis/S",
+        "miš",
+        "mèš"
+      ]
+    }
+  },
+  "318": {
+    "sign": {
+      "name": "u2",
+      "sign_number": "318"
+    },
+    "values": {
+      "determinative": [
+        "Ú before plant names \n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        "ú\n\t      ú"
+      ],
+      "logograms": [
+        "Ú"
+      ],
+      "phonetic": [
+        "ú",
+        "'u&aucute",
+        "šam"
+      ],
+      "phonetic, new": [
+        "sam"
+      ]
+    }
+  },
+  "319": {
+    "sign": {
+      "name": "ga",
+      "sign_number": "319"
+    },
+    "values": {
+      "logograms": [
+        "GA"
+      ],
+      "phonetic": [
+        "ga"
+      ],
+      "phonetic, mostly old": [
+        "qá"
+      ],
+      "phonetic, old": [
+        "kà"
+      ]
+    }
+  },
+  "320": {
+    "sign": {
+      "name": "il2",
+      "sign_number": "320"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "íl",
+        "íla"
+      ]
+    }
+  },
+  "321": {
+    "sign": {
+      "name": "luh",
+      "sign_number": "321"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "luh",
+        "làh"
+      ],
+      "phonetic, new": [
+        "ìh",
+        "rah",
+        "rih"
+      ]
+    }
+  },
+  "322": {
+    "sign": {
+      "name": "kal",
+      "sign_number": "322"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "kal"
+      ],
+      "logograms": [
+        "KALAG",
+        "GURUŠ"
+      ],
+      "phonetic": [
+        "kal",
+        "dan",
+        "tan",
+        "lab/p"
+      ],
+      "phonetic, new": [
+        "líb/p",
+        "rib/p"
+      ]
+    }
+  },
+  "323": {
+    "sign": {
+      "name": "alad",
+      "sign_number": "323"
+    },
+    "values": {
+      "logograms": [
+        "ALAD"
+      ]
+    }
+  },
+  "324": {
+    "sign": {
+      "name": "e2",
+      "sign_number": "324"
+    },
+    "values": {
+      "determinative": [
+        "É before buildings and temples names\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        "é"
+      ],
+      "logograms": [
+        "É"
+      ],
+      "phonetic": [
+        "(é)"
+      ],
+      "phonetic, new": [
+        "bit/T",
+        "pid/t/T"
+      ]
+    }
+  },
+  "325": {
+    "sign": {
+      "name": "gir",
+      "sign_number": "325"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "nir",
+        "nàr\n\t     nir",
+        "nàr"
+      ],
+      "phonetic": [
+        "nir"
+      ],
+      "phonetic, new": [
+        "nàr"
+      ]
+    }
+  },
+  "326": {
+    "sign": {
+      "name": "gi4",
+      "sign_number": "326"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, mostly old": [
+        "gi~4~"
+      ],
+      "phonetic, old": [
+        "qi~4~",
+        "qe~4~"
+      ]
+    }
+  },
+  "328": {
+    "sign": {
+      "name": "ra",
+      "sign_number": "328"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ra\n\t      ra"
+      ],
+      "logograms": [
+        "RA"
+      ],
+      "phonetic": [
+        "ra"
+      ]
+    }
+  },
+  "329": {
+    "sign": {
+      "name": "dul3",
+      "sign_number": "329"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dùl"
+      ]
+    }
+  },
+  "330": {
+    "sign": {
+      "name": "lu2",
+      "sign_number": "330"
+    },
+    "values": {
+      "determinative": [
+        "LÚ in front of profesional and personal (male) names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "LÚ"
+      ],
+      "phonetic": [
+        "(lú)"
+      ]
+    }
+  },
+  "331": {
+    "sign": {
+      "name": "shesh",
+      "sign_number": "331"
+    },
+    "values": {
+      "logograms": [
+        "ŠEŠ"
+      ],
+      "phonetic": [
+        "šiš"
+      ],
+      "phonetic, Bab. new": [
+        "šaš",
+        "áh",
+        "áha"
+      ],
+      "phonetic, new": [
+        "šiS/z",
+        "šas/S",
+        "sis/š"
+      ]
+    }
+  },
+  "331e": {
+    "sign": {
+      "name": "sar",
+      "sign_number": "331e"
+    },
+    "values": {
+      "determinative": [
+        "SAR after herb names",
+        "vegatables and medicaments\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        "SAR"
+      ],
+      "phonetic": [
+        "šar"
+      ],
+      "phonetic, new": [
+        "sar"
+      ]
+    }
+  },
+  "332": {
+    "sign": {
+      "name": "zag",
+      "sign_number": "332"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "zag/k/q"
+      ]
+    }
+  },
+  "333": {
+    "sign": {
+      "name": "gar3",
+      "sign_number": "333"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "qar"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "qar"
+      ],
+      "phonetic, mostly old": [
+        "gàr"
+      ],
+      "phonetic, old": [
+        "kàr"
+      ]
+    }
+  },
+  "334": {
+    "sign": {
+      "name": "a2",
+      "sign_number": "334"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "335": {
+    "sign": {
+      "name": "da",
+      "sign_number": "335"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "da",
+        "Ta"
+      ]
+    }
+  },
+  "336": {
+    "sign": {
+      "name": "lil",
+      "sign_number": "336"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "lil"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "lil"
+      ]
+    }
+  },
+  "337": {
+    "sign": {
+      "name": "muru2",
+      "sign_number": "337"
+    },
+    "values": {
+      "logograms": [
+        "MÁRU",
+        "MÚRUB"
+      ]
+    }
+  },
+  "338": {
+    "sign": {
+      "name": "de2",
+      "sign_number": "338"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "339": {
+    "sign": {
+      "name": "ash2",
+      "sign_number": "339"
+    },
+    "values": {
+      "logograms": [
+        "UMUN",
+        "DÉ"
+      ],
+      "phonetic": [
+        "dé"
+      ]
+    }
+  },
+  "342": {
+    "sign": {
+      "name": "ma",
+      "sign_number": "342"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ma"
+      ],
+      "phonetic, Bab. new": [
+        "wa~6~"
+      ]
+    }
+  },
+  "343": {
+    "sign": {
+      "name": "gal",
+      "sign_number": "343"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "GAL"
+      ],
+      "logograms": [
+        "GAL"
+      ],
+      "phonetic": [
+        "gal",
+        "qal"
+      ],
+      "phonetic, old": [
+        "kál"
+      ]
+    }
+  },
+  "344": {
+    "sign": {
+      "name": "bara2",
+      "sign_number": "344"
+    },
+    "values": {
+      "logograms": [
+        "BÁRA"
+      ],
+      "phonetic": [
+        "bára"
+      ]
+    }
+  },
+  "346": {
+    "sign": {
+      "name": "gir",
+      "sign_number": "346"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "gir\n\t     kir"
+      ],
+      "logograms": [
+        "GIR"
+      ],
+      "phonetic": [
+        "gir",
+        "qir",
+        "qer",
+        "piš",
+        "peš"
+      ],
+      "phonetic, new": [
+        "pis",
+        "pùš",
+        "biš",
+        "bís"
+      ]
+    }
+  },
+  "347": {
+    "sign": {
+      "name": "mir",
+      "sign_number": "347"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "mir"
+      ]
+    }
+  },
+  "349": {
+    "sign": {
+      "name": "bur",
+      "sign_number": "349"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "bur",
+        "pur"
+      ]
+    }
+  },
+  "353": {
+    "sign": {
+      "name": "sha",
+      "sign_number": "353"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ša"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "ša"
+      ]
+    }
+  },
+  "354": {
+    "sign": {
+      "name": "shu",
+      "sign_number": "354"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "and"
+      ],
+      "logograms": [
+        "ŠU"
+      ],
+      "phonetic": [
+        "šu"
+      ],
+      "phonetic, new": [
+        "qad",
+        "qat"
+      ]
+    }
+  },
+  "355": {
+    "sign": {
+      "name": "lul",
+      "sign_number": "355"
+    },
+    "values": {
+      "logograms": [
+        "LUL"
+      ],
+      "phonetic": [
+        "lib",
+        "lip"
+      ],
+      "phonetic, new": [
+        "lul",
+        "lub/p",
+        "pah",
+        "puh",
+        "bàh",
+        "nar"
+      ]
+    }
+  },
+  "356": {
+    "sign": {
+      "name": "sa6",
+      "sign_number": "356"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "360": {
+    "sign": {
+      "name": "ish8",
+      "sign_number": "360"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "iš~8~"
+      ]
+    }
+  },
+  "366": {
+    "sign": {
+      "name": "kur",
+      "sign_number": "366"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "KUR.KUR"
+      ],
+      "logograms": [
+        "KUR"
+      ],
+      "phonetic": [
+        "kur",
+        "mad/t/T",
+        "šad/t/T"
+      ],
+      "phonetic, new": [
+        "nad/t",
+        "lad/t/T",
+        "sad/t",
+        "gìn",
+        "kìn"
+      ],
+      "phonetic, old": [
+        "qúr"
+      ]
+    }
+  },
+  "367": {
+    "sign": {
+      "name": "she",
+      "sign_number": "367"
+    },
+    "values": {
+      "logograms": [
+        "ŠE"
+      ],
+      "phonetic": [
+        "še"
+      ]
+    }
+  },
+  "371": {
+    "sign": {
+      "name": "bu",
+      "sign_number": "371"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "bu\n\t\t  bu"
+      ],
+      "logograms": [
+        "GÍD"
+      ],
+      "phonetic": [
+        "bu",
+        "pu"
+      ],
+      "phonetic, new": [
+        "(gíd/t/T",
+        "qíd/t",
+        "sír",
+        "ší)"
+      ]
+    }
+  },
+  "372": {
+    "sign": {
+      "name": "uz",
+      "sign_number": "372"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "us\n\t     uz"
+      ],
+      "phonetic": [
+        "us/S/z"
+      ]
+    }
+  },
+  "373": {
+    "sign": {
+      "name": "sud",
+      "sign_number": "373"
+    },
+    "values": {
+      "logograms": [
+        "SÙ",
+        "SUD"
+      ],
+      "phonetic, new": [
+        "š ud/t/T",
+        "sir"
+      ]
+    }
+  },
+  "374": {
+    "sign": {
+      "name": "mush",
+      "sign_number": "374"
+    },
+    "values": {
+      "logograms": [
+        "MUŠ"
+      ],
+      "phonetic": [
+        "muš",
+        "Sir",
+        "zìr"
+      ]
+    }
+  },
+  "375": {
+    "sign": {
+      "name": "tir",
+      "sign_number": "375"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "tir",
+        "Tir~5~"
+      ]
+    }
+  },
+  "376": {
+    "sign": {
+      "name": "te",
+      "sign_number": "376"
+    },
+    "values": {
+      "logograms": [
+        "TE"
+      ],
+      "phonetic": [
+        "te",
+        "ti~7~"
+      ],
+      "phonetic, mostly old": [
+        "Te~4~"
+      ],
+      "phonetic, old": [
+        "Ti~4~",
+        "de~4~"
+      ]
+    }
+  },
+  "376a": {
+    "sign": {
+      "name": "kar",
+      "sign_number": "376a"
+    },
+    "values": {
+      "Additional": [
+        "composition = TE + A"
+      ],
+      "logograms": [
+        "KAR"
+      ],
+      "phonetic": [
+        "kar"
+      ]
+    }
+  },
+  "377": {
+    "sign": {
+      "name": "lish",
+      "sign_number": "377"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        ""
+      ]
+    }
+  },
+  "381": {
+    "sign": {
+      "name": "ud",
+      "sign_number": "381"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        ""
+      ],
+      "logograms": [
+        "U~4~",
+        "UTU",
+        "BABBAR"
+      ],
+      "phonetic": [
+        "ud/t/T",
+        "u~4~",
+        "pir",
+        "tam"
+      ],
+      "phonetic, new": [
+        "è",
+        "lah",
+        "lih",
+        "par",
+        "hiš",
+        "tú",
+        "bír"
+      ],
+      "phonetic, old": [
+        "Tam"
+      ]
+    }
+  },
+  "383": {
+    "sign": {
+      "name": "pi",
+      "sign_number": "383"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "pi"
+      ],
+      "logograms": [
+        "PI"
+      ],
+      "phonetic, mostly new": [
+        "pi",
+        "pe"
+      ],
+      "phonetic, mostly old": [
+        "wi",
+        "we",
+        "wa",
+        "wu"
+      ],
+      "phonetic, old": [
+        "aw",
+        "ew",
+        "iw",
+        "uw"
+      ]
+    }
+  },
+  "384": {
+    "sign": {
+      "name": "sha3",
+      "sign_number": "384"
+    },
+    "values": {
+      "logograms": [
+        "ŠÀ"
+      ],
+      "phonetic": [
+        "šà"
+      ],
+      "phonetic, new": [
+        "lib/p"
+      ]
+    }
+  },
+  "390": {
+    "sign": {
+      "name": "pesh4",
+      "sign_number": "390"
+    },
+    "values": {
+      "logograms": [
+        "PEŠ~4~"
+      ]
+    }
+  },
+  "392": {
+    "sign": {
+      "name": "uh2",
+      "sign_number": "392"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "úh"
+      ]
+    }
+  },
+  "393": {
+    "sign": {
+      "name": "erim",
+      "sign_number": "393"
+    },
+    "values": {
+      "logograms": [
+        "ERIM"
+      ],
+      "phonetic, Ass. new": [
+        "pír",
+        "bìr",
+        "par~5~"
+      ],
+      "phonetic, new": [
+        "Sab/p",
+        "zab/p"
+      ]
+    }
+  },
+  "394": {
+    "sign": {
+      "name": "nunuz",
+      "sign_number": "394"
+    },
+    "values": {
+      "logograms": [
+        "NUNUZ"
+      ]
+    }
+  },
+  "395": {
+    "sign": {
+      "name": "zib",
+      "sign_number": "395"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "zib/p",
+        "Sib/p",
+        "sip"
+      ]
+    }
+  },
+  "396": {
+    "sign": {
+      "name": "hi",
+      "sign_number": "396"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "šár"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "hi",
+        "he"
+      ],
+      "phonetic, Ass.": [
+        "Tí",
+        "Té"
+      ],
+      "phonetic, Ass. old": [
+        "dí"
+      ],
+      "phonetic, mostly new": [
+        "šár"
+      ],
+      "phonetic, new": [
+        "sár"
+      ],
+      "phonetic, old": [
+        "Tà"
+      ]
+    }
+  },
+  "397": {
+    "sign": {
+      "name": "aleph",
+      "sign_number": "397"
+    },
+    "values": {
+      "phonetic": [
+        "a'",
+        "e'",
+        "i'",
+        "u'"
+      ],
+      "phonetic, new": [
+        "'a",
+        "'e",
+        "'i",
+        "'u"
+      ]
+    }
+  },
+  "398": {
+    "sign": {
+      "name": "ah",
+      "sign_number": "398"
+    },
+    "values": {
+      "phonetic": [
+        "ah",
+        "eh",
+        "ih",
+        "uh"
+      ]
+    }
+  },
+  "399": {
+    "sign": {
+      "name": "im",
+      "sign_number": "399"
+    },
+    "values": {
+      "logograms": [
+        "IM",
+        "IŠKUR"
+      ],
+      "phonetic": [
+        "im",
+        "em"
+      ],
+      "phonetic, new": [
+        "šar~5~"
+      ]
+    }
+  },
+  "400": {
+    "sign": {
+      "name": "bir",
+      "sign_number": "400"
+    },
+    "values": {
+      "phonetic, new": [
+        "bir",
+        "pì"
+      ]
+    }
+  },
+  "401": {
+    "sign": {
+      "name": "har",
+      "sign_number": "401"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "har\n\t     har"
+      ],
+      "logograms": [
+        "HAR"
+      ],
+      "phonetic": [
+        "har",
+        "hur"
+      ],
+      "phonetic, new": [
+        "hír",
+        "mur",
+        "ur~5~",
+        "kín"
+      ]
+    }
+  },
+  "402": {
+    "sign": {
+      "name": "hush",
+      "sign_number": "402"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "huš"
+      ]
+    }
+  },
+  "404": {
+    "sign": {
+      "name": "hia",
+      "sign_number": "404"
+    },
+    "values": {
+      "logograms": [
+        "HÁ"
+      ],
+      "phonetic": [
+        "hia",
+        "há"
+      ]
+    }
+  },
+  "405": {
+    "sign": {
+      "name": "sur3",
+      "sign_number": "405"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "kam"
+      ],
+      "phonetic, new": [
+        "gám"
+      ],
+      "phonetic, old": [
+        "qám"
+      ]
+    }
+  },
+  "411": {
+    "sign": {
+      "name": "u",
+      "sign_number": "411"
+    },
+    "values": {
+      "logograms": [
+        "U"
+      ],
+      "phonetic": [
+        "u"
+      ]
+    }
+  },
+  "420": {
+    "sign": {
+      "name": "ab2",
+      "sign_number": "420"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "lid"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "lid/t/T",
+        "rím"
+      ],
+      "phonetic, Ass. new": [
+        "li~8~",
+        "le~8~"
+      ],
+      "phonetic, old": [
+        "áb",
+        "áp"
+      ]
+    }
+  },
+  "425": {
+    "sign": {
+      "name": "kish",
+      "sign_number": "425"
+    },
+    "values": {
+      "logograms": [
+        "KIŠ"
+      ],
+      "phonetic, new": [
+        "kis/š",
+        "qis/š"
+      ]
+    }
+  },
+  "427": {
+    "sign": {
+      "name": "mi",
+      "sign_number": "427"
+    },
+    "values": {
+      "logograms": [
+        "GI~6~"
+      ],
+      "phonetic": [
+        "mi",
+        "mé"
+      ],
+      "phonetic, mostly old": [
+        "Síl"
+      ]
+    }
+  },
+  "428": {
+    "sign": {
+      "name": "shagan",
+      "sign_number": "428"
+    },
+    "values": {
+      "logograms": [
+        "AGAN"
+      ]
+    }
+  },
+  "429": {
+    "sign": {
+      "name": "gul",
+      "sign_number": "429"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "qúl",
+        "kúl"
+      ],
+      "phonetic, new": [
+        "gul",
+        "sún"
+      ]
+    }
+  },
+  "430": {
+    "sign": {
+      "name": "gir4",
+      "sign_number": "430"
+    },
+    "values": {
+      "logograms": [
+        "GIR~4~"
+      ]
+    }
+  },
+  "431": {
+    "sign": {
+      "name": "na2",
+      "sign_number": "431"
+    },
+    "values": {
+      "phonetic, new": [
+        "ná",
+        "nú"
+      ]
+    }
+  },
+  "433": {
+    "sign": {
+      "name": "nim",
+      "sign_number": "433"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "nim"
+      ],
+      "phonetic, new": [
+        "ni~7~",
+        "num",
+        "nù",
+        "tum~4~",
+        "tu~8~"
+      ]
+    }
+  },
+  "435": {
+    "sign": {
+      "name": "lam",
+      "sign_number": "435"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "lam"
+      ]
+    }
+  },
+  "437": {
+    "sign": {
+      "name": "amar",
+      "sign_number": "437"
+    },
+    "values": {
+      "logograms": [
+        "AMAR"
+      ],
+      "phonetic": [
+        "Sur"
+      ],
+      "phonetic, new": [
+        "zur"
+      ]
+    }
+  },
+  "438": {
+    "sign": {
+      "name": "siskur",
+      "sign_number": "438"
+    },
+    "values": {
+      "logograms": [
+        "SISKUR"
+      ]
+    }
+  },
+  "439": {
+    "sign": {
+      "name": "pan",
+      "sign_number": "439"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "pan",
+        "ban"
+      ]
+    }
+  },
+  "440": {
+    "sign": {
+      "name": "gim",
+      "sign_number": "440"
+    },
+    "values": {
+      "logograms": [
+        "DÍM"
+      ],
+      "phonetic": [
+        "gim"
+      ],
+      "phonetic, new": [
+        "qim",
+        "kim",
+        "dím",
+        "Tim"
+      ]
+    }
+  },
+  "441": {
+    "sign": {
+      "name": "ul",
+      "sign_number": "441"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "ul\n\t     ul"
+      ],
+      "phonetic": [
+        "ul"
+      ]
+    }
+  },
+  "444": {
+    "sign": {
+      "name": "pirig",
+      "sign_number": "444"
+    },
+    "values": {
+      "logograms": [
+        "GÌR",
+        "PIRIG"
+      ],
+      "phonetic": [
+        "nè",
+        "gìr"
+      ]
+    }
+  },
+  "446": {
+    "sign": {
+      "name": "gig",
+      "sign_number": "446"
+    },
+    "values": {
+      "logograms": [
+        "GIG"
+      ],
+      "phonetic, new": [
+        "gig",
+        "qiq"
+      ]
+    }
+  },
+  "449": {
+    "sign": {
+      "name": "igi",
+      "sign_number": "449"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "IGI"
+      ],
+      "logograms": [
+        "IGI",
+        "LIM"
+      ],
+      "phonetic": [
+        "ši",
+        "še~20~",
+        "igi",
+        "lim\n\t\t(ši\n\t\tonly in UTU-ši",
+        "= Šamši)"
+      ],
+      "phonetic, new": [
+        "lì",
+        "pàn"
+      ]
+    }
+  },
+  "450": {
+    "sign": {
+      "name": "pa3",
+      "sign_number": "450"
+    },
+    "values": {
+      "phonetic, new": [
+        "pà"
+      ]
+    }
+  },
+  "451": {
+    "sign": {
+      "name": "ar",
+      "sign_number": "451"
+    },
+    "values": {
+      "phonetic": [
+        "ar"
+      ]
+    }
+  },
+  "454": {
+    "sign": {
+      "name": "sig5",
+      "sign_number": "454"
+    },
+    "values": {
+      "composition": [
+        "= IGI + ERIM"
+      ],
+      "logograms": [
+        "SIG~5~"
+      ]
+    }
+  },
+  "455": {
+    "sign": {
+      "name": "u3",
+      "sign_number": "455"
+    },
+    "values": {
+      "logograms": [
+        "Ù"
+      ],
+      "phonetic": [
+        "ù"
+      ]
+    }
+  },
+  "456": {
+    "sign": {
+      "name": "hul",
+      "sign_number": "456"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "hul"
+      ]
+    }
+  },
+  "457": {
+    "sign": {
+      "name": "di",
+      "sign_number": "457"
+    },
+    "values": {
+      "logograms": [
+        "DI",
+        "SILIM"
+      ],
+      "phonetic": [
+        "di",
+        "de",
+        "Ti",
+        "te"
+      ],
+      "phonetic, new": [
+        "šùl"
+      ]
+    }
+  },
+  "459": {
+    "sign": {
+      "name": "dul",
+      "sign_number": "459"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "dul",
+        "tul"
+      ]
+    }
+  },
+  "460": {
+    "sign": {
+      "name": "du6",
+      "sign_number": "460"
+    },
+    "values": {
+      "logograms": [
+        "DU~6~"
+      ],
+      "phonetic, new": [
+        "tu~21~",
+        "dul~6~",
+        "tul~6~"
+      ]
+    }
+  },
+  "461": {
+    "sign": {
+      "name": "ki",
+      "sign_number": "461"
+    },
+    "values": {
+      "determinative": [
+        "KI after city names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "KI"
+      ],
+      "phonetic": [
+        "ki",
+        "ke; qí",
+        "qé"
+      ]
+    }
+  },
+  "465": {
+    "sign": {
+      "name": "din",
+      "sign_number": "465"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "din"
+      ],
+      "phonetic, new": [
+        "tin",
+        "tén"
+      ]
+    }
+  },
+  "468": {
+    "sign": {
+      "name": "kug",
+      "sign_number": "468"
+    },
+    "values": {
+      "logograms": [
+        "KÙ"
+      ],
+      "phonetic": [
+        "(kù)"
+      ]
+    }
+  },
+  "471": {
+    "sign": {
+      "name": "man",
+      "sign_number": "471"
+    },
+    "values": {
+      "logograms": [
+        "XX"
+      ],
+      "phonetic": [
+        "niš",
+        "neš",
+        "naš",
+        "nis"
+      ],
+      "phonetic, new": [
+        "man",
+        "mìn",
+        "mam",
+        "mìm"
+      ]
+    }
+  },
+  "472": {
+    "sign": {
+      "name": "esh",
+      "sign_number": "472"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "eš",
+        "iš"
+      ],
+      "phonetic, Ass.new": [
+        "iš~5~"
+      ],
+      "phonetic, new": [
+        "és",
+        "sin",
+        "bà"
+      ]
+    }
+  },
+  "473": {
+    "sign": {
+      "name": "nimin",
+      "sign_number": "473"
+    },
+    "values": {
+      "logograms": [
+        "NIMIN"
+      ]
+    }
+  },
+  "475": {
+    "sign": {
+      "name": "ninnu",
+      "sign_number": "475"
+    },
+    "values": {
+      "logograms": [
+        "NINNU"
+      ]
+    }
+  },
+  "480": {
+    "sign": {
+      "name": "dish",
+      "sign_number": "480"
+    },
+    "values": {
+      "determinative": [
+        "before (male) personal names\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "GÉŠ",
+        "GÍŠ",
+        "DIŠ"
+      ],
+      "phonetic, new": [
+        "diš",
+        "Tiš",
+        "tiš",
+        "tiz",
+        "dáš",
+        "táš",
+        "gì",
+        "ana"
+      ]
+    }
+  },
+  "481": {
+    "sign": {
+      "name": "lal",
+      "sign_number": "481"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "lá\n\t     lá"
+      ],
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "lá"
+      ],
+      "phonetic, new": [
+        "lal"
+      ]
+    }
+  },
+  "482": {
+    "sign": {
+      "name": "lal2",
+      "sign_number": "482"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "lál"
+      ]
+    }
+  },
+  "483": {
+    "sign": {
+      "name": "lagab",
+      "sign_number": "483"
+    },
+    "values": {
+      "logograms": [
+        "LAGAŠ",
+        "NÍGIN"
+      ],
+      "phonetic, new": [
+        "kil",
+        "qil",
+        "Gíl",
+        "kìr",
+        "rim",
+        "reme",
+        "rin;\n\t\trì",
+        "rè",
+        "hab/p"
+      ]
+    }
+  },
+  "484": {
+    "sign": {
+      "name": "engur",
+      "sign_number": "484"
+    },
+    "values": {
+      "logograms": [
+        "ENGUR"
+      ]
+    }
+  },
+  "486": {
+    "sign": {
+      "name": "gigir",
+      "sign_number": "486"
+    },
+    "values": {
+      "logograms": [
+        "GIGIR"
+      ]
+    }
+  },
+  "491": {
+    "sign": {
+      "name": "zar",
+      "sign_number": "491"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "zar"
+      ],
+      "phonetic, new": [
+        "Sar"
+      ]
+    }
+  },
+  "494": {
+    "sign": {
+      "name": "us5",
+      "sign_number": "494"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "ù'",
+        "us~5~",
+        "u~8~"
+      ]
+    }
+  },
+  "515": {
+    "sign": {
+      "name": "bul",
+      "sign_number": "515"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "bul",
+        "pul"
+      ]
+    }
+  },
+  "522": {
+    "sign": {
+      "name": "sug",
+      "sign_number": "522"
+    },
+    "values": {
+      "logograms": [
+        "SUG"
+      ]
+    }
+  },
+  "529": {
+    "sign": {
+      "name": "nigin",
+      "sign_number": "529"
+    },
+    "values": {
+      "determinative": [
+        "ME after logogram as plural sign (short for MESH)\n\t\t(see examples)"
+      ],
+      "examples in New Assyrian orthography": [
+        "me"
+      ],
+      "logograms": [
+        "ME"
+      ],
+      "phonetic": [
+        "me",
+        "mì"
+      ],
+      "phonetic, new": [
+        "šib/p",
+        "sib/p",
+        "méš"
+      ]
+    }
+  },
+  "533": {
+    "sign": {
+      "name": "mesh",
+      "sign_number": "533"
+    },
+    "values": {
+      "determinative": [
+        "MEŠ \n\t\tafter logogram as plural sign\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "ME"
+      ],
+      "phonetic": [
+        "meš"
+      ],
+      "phonetic, new": [
+        "iacute;š"
+      ]
+    }
+  },
+  "535": {
+    "sign": {
+      "name": "ib",
+      "sign_number": "535"
+    },
+    "values": {
+      "logograms": [
+        "URAŠ"
+      ],
+      "phonetic": [
+        "ib/p",
+        "eb/p"
+      ]
+    }
+  },
+  "536": {
+    "sign": {
+      "name": "ku",
+      "sign_number": "536"
+    },
+    "values": {
+      "logograms": [
+        "KU",
+        "DÚR"
+      ],
+      "phonetic": [
+        "ku"
+      ],
+      "phonetic, mostly old": [
+        "qú"
+      ],
+      "phonetic, new": [
+        "éš",
+        "šè",
+        "šù",
+        "túg",
+        "dúr",
+        "tuš"
+      ]
+    }
+  },
+  "537": {
+    "sign": {
+      "name": "lu",
+      "sign_number": "537"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "lu\n\t    (The first vertical stroke is difficult to see)"
+      ],
+      "logograms": [
+        "UDU",
+        "DAB",
+        "DIB"
+      ],
+      "phonetic": [
+        "lu"
+      ],
+      "phonetic, new": [
+        "dab/p",
+        "dib/p",
+        "Tib/p"
+      ]
+    }
+  },
+  "538": {
+    "sign": {
+      "name": "kin",
+      "sign_number": "538"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, Ass. new": [
+        "qi",
+        "qe"
+      ],
+      "phonetic, new": [
+        "kin",
+        "qin"
+      ]
+    }
+  },
+  "539": {
+    "sign": {
+      "name": "sik2",
+      "sign_number": "539"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, Ass. new": [
+        "sík/g"
+      ]
+    }
+  },
+  "540": {
+    "sign": {
+      "name": "dara4",
+      "sign_number": "540"
+    },
+    "values": {
+      "logograms": [
+        "DARA~4~"
+      ]
+    }
+  },
+  "541": {
+    "sign": {
+      "name": "eren",
+      "sign_number": "541"
+    },
+    "values": {
+      "logograms": [
+        "EREN"
+      ]
+    }
+  },
+  "542": {
+    "sign": {
+      "name": "gur7",
+      "sign_number": "542"
+    },
+    "values": {
+      "logograms": [
+        "KÈŠ"
+      ]
+    }
+  },
+  "545": {
+    "sign": {
+      "name": "shu2",
+      "sign_number": "545"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "šú\n\t    \n\t    \tšú"
+      ],
+      "phonetic, new": [
+        "šú\n\t     \n\t     (Often used as suffix for the\n\t     possessive pronomen 3rd person singular `his')"
+      ]
+    }
+  },
+  "546": {
+    "sign": {
+      "name": "en2",
+      "sign_number": "546"
+    },
+    "values": {
+      "determinative": [
+        "MUNUS",
+        "MÍ before female persons",
+        "professions and\n\t\tfemale gender (often in abstract nouns)\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "MUNUS",
+        "MÍ"
+      ],
+      "phonetic": [
+        "šal"
+      ],
+      "phonetic, new": [
+        "sal",
+        "rag/k/q",
+        "mim",
+        "mám"
+      ]
+    }
+  },
+  "555": {
+    "sign": {
+      "name": "zum",
+      "sign_number": "555"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "zum",
+        "Sum"
+      ],
+      "phonetic, new": [
+        "Su",
+        "ríg/k/q"
+      ],
+      "phonetic, old": [
+        "súm"
+      ]
+    }
+  },
+  "556": {
+    "sign": {
+      "name": "nin",
+      "sign_number": "556"
+    },
+    "values": {
+      "logograms": [
+        "NIN"
+      ],
+      "phonetic": [
+        "nin"
+      ],
+      "phonetic, Bab. new": [
+        "in~5~"
+      ],
+      "phonetic, new": [
+        "ním",
+        "min~4~",
+        "ereš"
+      ]
+    }
+  },
+  "557": {
+    "sign": {
+      "name": "dam",
+      "sign_number": "557"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "dam",
+        "Tam"
+      ],
+      "phonetic, Bab. new": [
+        "da~4~",
+        "Ta~4~"
+      ],
+      "phonetic, mostly old": [
+        "tám"
+      ]
+    }
+  },
+  "558": {
+    "sign": {
+      "name": "geme2",
+      "sign_number": "558"
+    },
+    "values": {
+      "logograms": [
+        "GEMÉ"
+      ]
+    }
+  },
+  "559": {
+    "sign": {
+      "name": "gu",
+      "sign_number": "559"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "gu"
+      ],
+      "phonetic, old": [
+        "qù"
+      ]
+    }
+  },
+  "560": {
+    "sign": {
+      "name": "nagar",
+      "sign_number": "560"
+    },
+    "values": {
+      "logograms": [
+        "NAGAR"
+      ],
+      "phonetic": [
+        "alla"
+      ]
+    }
+  },
+  "561": {
+    "sign": {
+      "name": "tugul",
+      "sign_number": "561"
+    },
+    "values": {
+      "logograms": [
+        "TUGUL"
+      ]
+    }
+  },
+  "562": {
+    "sign": {
+      "name": "kushu2",
+      "sign_number": "562"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "nik"
+      ],
+      "logograms": [
+        "NIG"
+      ],
+      "phonetic": [
+        "nig/k/q"
+      ]
+    }
+  },
+  "564": {
+    "sign": {
+      "name": "el",
+      "sign_number": "564"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "el"
+      ],
+      "logograms": [
+        "SIKIL"
+      ],
+      "phonetic": [
+        "el",
+        "il~5~"
+      ]
+    }
+  },
+  "565": {
+    "sign": {
+      "name": "lum",
+      "sign_number": "565"
+    },
+    "values": {
+      "logograms": [
+        "SIG~4~"
+      ],
+      "phonetic": [
+        "lum",
+        "lu~4~"
+      ],
+      "phonetic, new": [
+        "gúm",
+        "kús",
+        "kúš"
+      ],
+      "phonetic, old": [
+        "núm"
+      ]
+    }
+  },
+  "567": {
+    "sign": {
+      "name": "sig4",
+      "sign_number": "567"
+    },
+    "values": {
+      "logograms": [
+        "SIG~4~"
+      ]
+    }
+  },
+  "570": {
+    "sign": {
+      "name": "min",
+      "sign_number": "570"
+    },
+    "values": {
+      "determinative": [
+        "MIN as a dual sign after a noun\n\t\t(see examples)"
+      ],
+      "logograms": [
+        "MIN",
+        "number 2"
+      ],
+      "phonetic": [
+        "min"
+      ]
+    }
+  },
+  "571": {
+    "sign": {
+      "name": "1/3",
+      "sign_number": "571"
+    },
+    "values": {
+      "logograms": [
+        "number 1/3"
+      ]
+    }
+  },
+  "572": {
+    "sign": {
+      "name": "2/3",
+      "sign_number": "572"
+    },
+    "values": {
+      "logograms": [
+        "number 2/3"
+      ]
+    }
+  },
+  "573": {
+    "sign": {
+      "name": "5/6",
+      "sign_number": "573"
+    },
+    "values": {
+      "logograms": [
+        "number 5/6"
+      ]
+    }
+  },
+  "574": {
+    "sign": {
+      "name": "tuk",
+      "sign_number": "574"
+    },
+    "values": {
+      "logograms": [
+        "TUK"
+      ],
+      "phonetic": [
+        "tuk",
+        "tug"
+      ]
+    }
+  },
+  "575": {
+    "sign": {
+      "name": "ur",
+      "sign_number": "575"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "tas"
+      ],
+      "logograms": [
+        "UR"
+      ],
+      "phonetic": [
+        "ur",
+        "lig/k/q",
+        "taš"
+      ],
+      "phonetic, new": [
+        "ís/S/š",
+        "tas/S/z",
+        "téš",
+        "daš"
+      ]
+    }
+  },
+  "576": {
+    "sign": {
+      "name": "gidim",
+      "sign_number": "576"
+    },
+    "values": {
+      "logograms": [
+        "GIDIM"
+      ]
+    }
+  },
+  "577": {
+    "sign": {
+      "name": "udug",
+      "sign_number": "577"
+    },
+    "values": {
+      "logograms": [
+        "UDUG"
+      ],
+      "phonetic": [
+        "udug"
+      ]
+    }
+  },
+  "579": {
+    "sign": {
+      "name": "a",
+      "sign_number": "579"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "a\n\t      a"
+      ],
+      "logograms": [
+        "A"
+      ],
+      "phonetic": [
+        "a",
+        "'a",
+        "íd"
+      ]
+    }
+  },
+  "586": {
+    "sign": {
+      "name": "za",
+      "sign_number": "586"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        "za",
+        "Sa"
+      ],
+      "phonetic, mostly old": [
+        "sà"
+      ]
+    }
+  },
+  "589": {
+    "sign": {
+      "name": "ha",
+      "sign_number": "589"
+    },
+    "values": {
+      "logograms": [
+        "KU~6~"
+      ],
+      "phonetic": [
+        "ha"
+      ]
+    }
+  },
+  "592": {
+    "sign": {
+      "name": "sig",
+      "sign_number": "592"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic, new": [
+        "sig/k/q",
+        "šig/k/q",
+        "zík/q",
+        "pik/q",
+        "bik"
+      ],
+      "phonetic, old": [
+        "šì"
+      ]
+    }
+  },
+  "593": {
+    "sign": {
+      "name": "3",
+      "sign_number": "593"
+    },
+    "values": {
+      "logograms": [
+        "number 3"
+      ]
+    }
+  },
+  "595": {
+    "sign": {
+      "name": "thu",
+      "sign_number": "595"
+    },
+    "values": {
+      "logograms": [
+        "GÍN",
+        "TÙN"
+      ],
+      "phonetic, Bab. new": [
+        "puš~4~"
+      ],
+      "phonetic, new": [
+        "Tu"
+      ]
+    }
+  },
+  "597": {
+    "sign": {
+      "name": "sha2",
+      "sign_number": "597"
+    },
+    "values": {
+      "examples in New Assyrian orthography": [
+        "",
+        "",
+        ""
+      ],
+      "logograms": [
+        "LIMMU",
+        "NÍG"
+      ],
+      "phonetic, new": [
+        "á\n\t\t   níg/k/q",
+        "gar"
+      ]
+    }
+  },
+  "598": {
+    "sign": {
+      "name": "5",
+      "sign_number": "598"
+    },
+    "values": {
+      "logograms": [
+        ""
+      ],
+      "phonetic": [
+        ""
+      ]
+    }
+  },
+  "599": {
+    "sign": {
+      "name": "6",
+      "sign_number": "599"
+    },
+    "values": {
+      "logograms": [
+        "number 6"
+      ]
+    }
+  },
+  "600": {
+    "sign": {
+      "name": "7",
+      "sign_number": "600"
+    },
+    "values": {
+      "logograms": [
+        "number 7"
+      ]
+    }
+  },
+  "601": {
+    "sign": {
+      "name": "8",
+      "sign_number": "601"
+    },
+    "values": {
+      "logograms": [
+        "number 8"
+      ],
+      "phonetic": [
+        "ussu"
+      ]
+    }
+  },
+  "602": {
+    "sign": {
+      "name": "9",
+      "sign_number": "602"
+    },
+    "values": {
+      "logograms": [
+        "number 9"
+      ]
+    }
+  }
+}

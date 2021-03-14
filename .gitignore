@@ -9,5 +9,10 @@ lib64/
 scripts/.mypy_cache/
 bin/ 
 share/ 
+etc/ 
+lib64 
+notes/.ipynb_checkpoints/
+
+
 
 

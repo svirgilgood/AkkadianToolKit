@@ -31,7 +31,9 @@
   "unicode_point": "U+12400",
   "values": {
    "phonetic": [
-    "hal"
+    "hal",
+    "ḫal",
+    "ḫala"
    ]
   }
  },
@@ -201,7 +203,7 @@
     "šil",
     "tar",
     "sil",
-    "has/ṣ/z/š",
+    "ḫas/ṣ/z/š",
     "ṭar",
     "tara"
    ]
@@ -459,13 +461,13 @@
   "values": {
    "logograms": [
     "AH",
-    "UBUR\n\t    \n\t    \t   \n\t    \t\tAH\n\t    \t\tahû  \n\t    \t \t`pig'"
+    "UBUR"
    ],
    "phonetic": [
-    "sih",
-    "úh",
-    "ih",
-    "ah"
+    "siḫ",
+    "úḫ",
+    "iḫ",
+    "aḫ"
    ]
   }
  },
@@ -576,13 +578,38 @@
     "new:\n\t\tia~5~"
    ],
    "logograms": [
-    "MU\n\t    \n\t    \t  \n\t    \t\tMU\n\t    \t\tšumu  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzakäru  \n\t    \t \t`to speak' \n\t    \t  \n\t    \t\tMU\n\t    \t\tzikru  \n\t    \t \t`name' \n\t    \t  \n\t    \t\tMU\n\t    \t\tšattu  \n\t    \t \t`year'",
-    "`harvest time' \n\t    \t\n\t    \t\t\n\t    \t\t  \n\t    \t\tMU.AN.NA\n\t    \t\tšattu  \n\t    \t \t`year'",
-    "`harvest time'"
+    "KÚR",
+    "PAP",
+    "PA~6~"
    ],
    "phonetic": [
     "pap",
+    "bab/p",
+    "kúr",
+    "gur~4~"
+   ]
+  }
+ },
+ "061": {
+  "sign": {
+   "name": "mu",
+   "sign_number": "061"
+  },
+  "unicode": "𒈬",
+  "unicode_point": "U+1222C",
+  "values": {
+   "Additional": [
+    "phonetic:",
+    "new:\n\t\tia~5~"
+   ],
+   "logograms": [
+    "MU"
+   ],
+   "phonetic": [
     "mu",
+    "-i~14~",
+    "-ia~5~",
+    "pap",
     "bab/p",
     "kúr"
    ]
@@ -645,12 +672,14 @@
     "IDIM",
     "SUN",
     "SUMUN",
-    "ÚŠ"
+    "ÚŠ",
+    "TIL"
    ],
    "phonetic": [
     "bad/t/ṭ",
     "be",
-    "ub/p"
+    "ub/p",
+    "til"
    ]
   }
  },
@@ -711,10 +740,14 @@
   "unicode_point": "U+121B0",
   "values": {
    "logograms": [
-    "NUMUN \n\t    \t\t(also šE.MUNUN) \n\t    \t\tzëu  \n\t    \t \t`seed'"
+    "NUMUN"
    ],
    "phonetic": [
-    ""
+    "kul",
+    "qul",
+    "zir",
+    "gúl",
+    "zar~4~"
    ]
   }
  },
@@ -825,9 +858,9 @@
     "MUŠEN"
    ],
    "phonetic": [
-    "hu",
+    "ḫu",
     "bak/q",
-    "bah",
+    "baḫ",
     "pag/k/q"
    ]
   }
@@ -1081,7 +1114,6 @@
     ""
    ],
    "phonetic": [
-    "",
     "ag/k/q"
    ]
   }
@@ -1327,9 +1359,12 @@
    "name": "dar",
    "sign_number": "114"
   },
+  "unicode": "𒁯",
+  "unicode_point": "U+1206F",
   "values": {
    "logograms": [
-    ""
+    "DAR",
+    "DAR"
    ],
    "phonetic": [
     "dír",
@@ -1352,7 +1387,6 @@
    ],
    "phonetic": [
     "sag/k/q",
-    "SAG\n\t     \n\t    \triš",
     "šag/k/q",
     "reṣ/š",
     "ris/š"
@@ -1647,13 +1681,13 @@
     "KÁM"
    ],
    "phonetic": [
-    "hí",
+    "ḫí",
     "kan",
     "kám",
     "li~6~\n\t\tin prefix for precative",
     "gan",
     "qan",
-    "hé"
+    "ḫé"
    ]
   }
  },
@@ -1796,7 +1830,7 @@
    ],
    "phonetic": [
     "šìr",
-    "hir",
+    "ḫir",
     "sì"
    ]
   }
@@ -1854,13 +1888,13 @@
     ""
    ],
    "phonetic": [
-    "ṭáh",
-    "tuh",
+    "ṭáḫ",
+    "tuḫ",
     "qab/p",
     "du~8~",
     "gaba",
-    "duh",
-    "táh"
+    "duḫ",
+    "táḫ"
    ]
   }
  },
@@ -1876,9 +1910,9 @@
     ""
    ],
    "phonetic": [
-    "tah",
-    "ṭah",
-    "dah"
+    "taḫ",
+    "ṭaḫ",
+    "daḫ"
    ]
   }
  },
@@ -1916,14 +1950,14 @@
    ],
    "phonetic": [
     "kúm",
-    "ṣah",
+    "ṣaḫ",
     "bil",
     "bí",
     "pe~5~",
     "pil",
     "ṭi~5~",
     "pi~5~",
-    "ṣéh",
+    "ṣéḫ",
     "ṭà",
     "dè",
     "ne"
@@ -2006,7 +2040,7 @@
    "phonetic": [
     "zíb",
     "zik/q",
-    "háš"
+    "ḫáš"
    ]
   }
  },
@@ -2145,12 +2179,12 @@
   "unicode_point": "U+12308",
   "values": {
    "phonetic": [
+    "tum",
     "dum",
-    "éb/p)",
     "ṭum",
-    "(íb/p",
-    "tu~4~",
-    "tum"
+    "éb/p",
+    "íb/p",
+    "tu~4~"
    ]
   }
  },
@@ -2444,9 +2478,9 @@
    "phonetic": [
     "sàk",
     "zák/q",
-    "had/t/ṭ",
+    "ḫad/t/ṭ",
     "pa",
-    "hás/ṣ"
+    "ḫás/ṣ"
    ]
   }
  },
@@ -2561,6 +2595,24 @@
    ]
   }
  },
+ "307": {
+  "sign": {
+   "name": "mar",
+   "sign_number": "307"
+  },
+  "unicode": "𒈥",
+  "unicode_point": "U+12225",
+  "values": {
+   "logograms": [
+    "MAR"
+   ],
+   "phonetic": [
+    "wár",
+    "mar"
+   ]
+  }
+ },
+
  "308": {
   "sign": {
    "name": "e",
@@ -2642,15 +2694,18 @@
     "líl\n\t      líl"
    ],
    "logograms": [
-    ""
+    "LÍL"
    ],
    "phonetic": [
-    "lí",
+    "líl",
+    "qid",
     "mis/ṣ",
     "miš",
     "mèš",
     "rid/t/ṭ",
-    "shid\n\t     mes"
+    "siḫ",
+    "saḫ",
+    "suḫ~4~"
    ]
   }
  },
@@ -2722,11 +2777,11 @@
     ""
    ],
    "phonetic": [
-    "ìh",
-    "rah",
-    "làh",
-    "luh",
-    "rih"
+    "ìḫ",
+    "raḫ",
+    "làḫ",
+    "luḫ",
+    "riḫ"
    ]
   }
  },
@@ -2886,8 +2941,8 @@
    ],
    "phonetic": [
     "šiṣ/z",
-    "áha",
-    "áh",
+    "áḫa",
+    "áḫ",
     "šiš",
     "šas/ṣ",
     "sis/š",
@@ -2900,6 +2955,8 @@
    "name": "sar",
    "sign_number": "331e"
   },
+  "unicode": "𒊬",
+  "unicode_point": "U+122AC",
   "values": {
    "determinative": [
     "SAR after herb names",
@@ -2909,7 +2966,6 @@
     "SAR"
    ],
    "phonetic": [
-    "",
     "sar",
     "šar"
    ]
@@ -3204,12 +3260,12 @@
     "LUL"
    ],
    "phonetic": [
-    "bàh",
+    "bàḫ",
     "lub/p",
-    "pah",
+    "paḫ",
     "nar",
     "lib",
-    "puh",
+    "puḫ",
     "lul",
     "lip"
    ]
@@ -3445,14 +3501,14 @@
    "phonetic": [
     "u~4~",
     "pir",
-    "hiš",
+    "ḫiš",
     "par",
     "bír",
     "ṭam",
     "tam",
     "ud/t/ṭ",
-    "lih",
-    "lah",
+    "liḫ",
+    "laḫ",
     "tú",
     "è"
    ]
@@ -3527,7 +3583,7 @@
     ""
    ],
    "phonetic": [
-    "úh"
+    "úḫ"
    ]
   }
  },
@@ -3592,7 +3648,7 @@
   "unicode_point": "U+1212D",
   "values": {
    "logograms": [
-    ""
+    "DÙG"
    ],
    "phonetic": [
     "sár",
@@ -3600,8 +3656,8 @@
     "ṭí",
     "ṭé",
     "dí",
-    "hi",
-    "he",
+    "ḫi",
+    "ḫe",
     "ṭà"
    ]
   }
@@ -3635,10 +3691,10 @@
   "unicode_point": "U+12134",
   "values": {
    "phonetic": [
-    "uh",
-    "ih",
-    "ah",
-    "eh"
+    "uḫ",
+    "iḫ",
+    "aḫ",
+    "eḫ"
    ]
   }
  },
@@ -3687,13 +3743,12 @@
     "HAR"
    ],
    "phonetic": [
-    "har",
+    "ḫar",
     "kín",
-    "hír",
+    "ḫír",
     "ur~5~",
-    "hur",
-    "mur",
-    "har\n\t     har"
+    "ḫur",
+    "mur"
    ]
   }
  },
@@ -3709,7 +3764,7 @@
     ""
    ],
    "phonetic": [
-    "huš"
+    "ḫuš"
    ]
   }
  },
@@ -3723,16 +3778,18 @@
     "HÁ"
    ],
    "phonetic": [
-    "hia",
-    "há"
+    "ḫia",
+    "ḫá"
    ]
   }
  },
- "405": {
+ "406": {
   "sign": {
-   "name": "sur3",
-   "sign_number": "405"
+   "name": "kam",
+   "sign_number": "406"
   },
+  "unicode": "𒄭𒁁",
+  "unicode_point": "U+1212D U+12041",
   "values": {
    "logograms": [
     ""
@@ -4106,7 +4163,8 @@
   "unicode_point": "U+12147",
   "values": {
    "logograms": [
-    "Ù"
+    "Ù",
+    "Ù.TU"
    ],
    "phonetic": [
     "ù"
@@ -4125,7 +4183,7 @@
     ""
    ],
    "phonetic": [
-    "hul"
+    "ḫul"
    ]
   }
  },
@@ -4145,7 +4203,7 @@
     "šùl",
     "di",
     "de",
-    "te",
+    "ṭe",
     "ṭi"
    ]
   }
@@ -4393,7 +4451,7 @@
     "rè",
     "rim",
     "Gíl",
-    "hab/p"
+    "ḫab/p"
    ]
   }
  },
@@ -4500,7 +4558,24 @@
   "unicode_point": "U+121B8 & U+121B8",
   "values": {
    "determinative": [
-    "ME after logogram as plural sign (short for MESH)\n\t\t(see examples)"
+   ],
+   "logograms": [
+    "NIGIN"
+   ],
+   "phonetic": [
+   ]
+  }
+ },
+ "532": {
+  "sign": {
+   "name": "me",
+   "sign_number": "532"
+  },
+ "unicode": "𒈨",
+  "unicode_point": "U+12228",
+  "values": {
+   "determinative": [
+    "ME after logogram as plural sign (short for MESH)"
    ],
    "logograms": [
     "ME"
@@ -4682,18 +4757,17 @@
   "unicode_point": "U+122D9",
   "values": {
    "phonetic": [
-    "šú\n\t     \n\t     (Often used as suffix for the\n\t     possessive pronomen 3rd person singular `his')",
-    "šú\n\t    \n\t    \tšú"
+    "šú"
    ]
   }
  },
- "546": {
+ "554": {
   "sign": {
-   "name": "en2",
-   "sign_number": "546"
+   "name": "sal",
+   "sign_number": "554"
   },
-  "unicode": "𒋙𒀭",
-  "unicode_point": "U+122D9 & U+1202D",
+  "unicode": "𒊩",
+  "unicode_point": "U+122A9",
   "values": {
    "determinative": [
     "MUNUS",
@@ -4709,6 +4783,7 @@
     "mim",
     "rag/k/q",
     "šal",
+    "mám",
     "mám"
    ]
   }
@@ -4782,9 +4857,10 @@
   "unicode_point": "U+122A9 & U+121B3",
   "values": {
    "logograms": [
-    "GEMÉ"
+    "GEMÉ",
+    "GÉME"
    ],
-   "phonetic": []
+   "phonetic": ["amat", "amtu"]
   }
  },
  "559": {
@@ -5081,7 +5157,7 @@
     "KU~6~"
    ],
    "phonetic": [
-    "ha"
+    "ḫa"
    ]
   }
  },
