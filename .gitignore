@@ -4,3 +4,10 @@ data/nt_parsings.csv
 data/personal.sron.nl/*
 scripts/sampleparser.py 
 scripts/__pycache__/*
+lib/ 
+lib64/
+scripts/.mypy_cache/
+bin/ 
+share/ 
+
+
